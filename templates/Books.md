@@ -8,4 +8,6 @@ rating:
 created:
 tags:
   - "#books"
+cover:
 ---
+![[Untitled.base]]
