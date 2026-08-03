@@ -6,5 +6,6 @@ mood:
 study: false
 exercise: false
 tags:
+  - dailynote
 ---
 

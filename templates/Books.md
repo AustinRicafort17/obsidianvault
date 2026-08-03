@@ -6,4 +6,6 @@ genre:
 description:
 rating:
 created:
+tags:
+  - "#books"
 ---

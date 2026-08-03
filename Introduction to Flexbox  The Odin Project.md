@@ -1,12 +1,13 @@
 ---
-title: "Introduction to Flexbox | The Odin Project"
-source: "https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox"
+title: Introduction to Flexbox | The Odin Project
+source: https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox
 author:
 published:
 created: 2026-08-04
-description: "The Odin Project empowers aspiring web developers to learn together for free"
+description: The Odin Project empowers aspiring web developers to learn together for free
 tags:
-  - "clippings"
+  - clippings
+  - "#learning"
 ---
 ### Introduction
 
