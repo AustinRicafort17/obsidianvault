@@ -6,9 +6,8 @@ genre:
 description:
 rating:
 created:
+cover:
 tags:
   - "#books"
-cover:
 category: "[[Books]]"
 ---
-![[Untitled.base]]
