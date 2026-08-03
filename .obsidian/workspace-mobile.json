@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testfolder/Testfile2.md",
+                "file": "austin/Testfile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testfile2"
+              "title": "Testfile"
             }
           }
         ],
@@ -188,8 +188,8 @@
   },
   "active": "fcfd95be54d6451c",
   "lastOpenFiles": [
-    "austin/Testfile.md",
     "Testfolder/Testfile2.md",
+    "austin/Testfile.md",
     "Testfolder",
     "austin"
   ]
