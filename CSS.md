@@ -7,4 +7,4 @@ tags:
 ---
 Cascading Style Sheets (CSS)
 
-is what I put on top of an [[HTML]] 
+is a file that I put on top of an [[HTML]] file to give a website some ✨STYLE✨
