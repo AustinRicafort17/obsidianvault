@@ -1,3 +1,7 @@
 views:
   - type: cards
-    name: Table
+    name: View
+    filters:
+      and:
+        - file.hasTag("books")
+    image: note.cover
