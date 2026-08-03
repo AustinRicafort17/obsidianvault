@@ -3,5 +3,5 @@ views:
     name: View
     filters:
       and:
-        - file.hasLink("templates/Books.md")
+        - file.hasLink("Books.md")
     image: note.cover

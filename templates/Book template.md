@@ -9,5 +9,5 @@ created:
 cover:
 tags:
   - "#books"
-category: "[[Book template]]"
+category: "[[Books]]"
 ---
