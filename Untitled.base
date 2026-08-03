@@ -4,4 +4,5 @@ views:
     filters:
       and:
         - file.hasLink("Books.md")
+        - file.inFolder("/")
     image: note.cover
