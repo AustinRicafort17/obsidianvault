@@ -9,5 +9,6 @@ created:
 tags:
   - "#books"
 cover:
+category: "[[Books]]"
 ---
 ![[Untitled.base]]
