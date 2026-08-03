@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Books.md",
+                "file": "templates/Books 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Books"
+              "title": "Books 1"
             }
           }
         ]
@@ -173,6 +173,8 @@
   },
   "active": "5a7878ee92121edf",
   "lastOpenFiles": [
+    "templates/Books.md",
+    "templates/Books 1.md",
     "Untitled.base",
     "Journal/2026-08-04 0641.md",
     "Web Dev.md",
@@ -184,7 +186,6 @@
     "templates/Movies.md",
     "templates/learning note.md",
     "templates/daily note.md",
-    "templates/Books.md",
     "Journal/Today.md",
     "templates",
     "/templates/workout.md",
