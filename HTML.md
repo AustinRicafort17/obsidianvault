@@ -8,4 +8,4 @@ tags:
 HYPERTEXT MARKUP LANGUAGE (HTML)
 
 Is a file that represents the skeleton of a website.
-It composes the website's structure 
+It builds the website's structure 
