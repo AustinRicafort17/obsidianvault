@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "61c528f2a6b66800",
+        "id": "5f1407162760a552",
         "type": "tabs",
         "children": [
           {
-            "id": "8f8cfcb446baa58d",
+            "id": "5a7878ee92121edf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS.md",
+                "file": "Journal/2026-08-04 0641.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSS"
+              "title": "2026-08-04 0641"
             }
           }
         ]
@@ -171,10 +171,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "8f8cfcb446baa58d",
+  "active": "5a7878ee92121edf",
   "lastOpenFiles": [
-    "Introduction to Flexbox  The Odin Project.md",
     "CSS.md",
+    "Introduction to Flexbox  The Odin Project.md",
     "Journal/Today.md",
     "Journal/2026-08-04 0641.md",
     "templates/workout.md",
