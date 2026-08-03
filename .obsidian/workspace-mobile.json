@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Books.md",
+                "file": "Books.md",
                 "mode": "source",
                 "source": false
               },
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Books/Books.md",
+            "file": "Books.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -172,10 +172,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "5a7878ee92121edf",
+  "active": "f668fbb0aac15a07",
   "lastOpenFiles": [
     "templates/Book template.md",
-    "Books/Books.md",
+    "Books.md",
     "Untitled.base",
     "Journal/2026-08-04 0641.md",
     "Web Dev.md",
