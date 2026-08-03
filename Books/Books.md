@@ -9,6 +9,6 @@ created:
 tags:
   - "#books"
 cover:
-category: "[[Books]]"
+category: "[[Book template]]"
 ---
 ![[Untitled.base]]
