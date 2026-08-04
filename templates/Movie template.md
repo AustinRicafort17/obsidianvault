@@ -8,4 +8,5 @@ rating:
 tags:
   - "#movie"
 category: "[[Movies]]"
+cover:
 ---
