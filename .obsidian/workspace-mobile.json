@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5f1407162760a552",
+        "id": "53ab3faa3ad65332",
         "type": "tabs",
         "children": [
           {
-            "id": "5a7878ee92121edf",
+            "id": "734d44915abb6b3e",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -167,7 +167,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "5a7878ee92121edf",
+  "active": "734d44915abb6b3e",
   "lastOpenFiles": [
     "templates/daily note.md",
     "Books.md",
