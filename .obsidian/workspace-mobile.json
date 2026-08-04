@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "17cc230e12f75b7b",
+        "id": "b312021f029cbe1f",
         "type": "tabs",
         "children": [
           {
-            "id": "0d4278b6a2a1586e",
+            "id": "5d77f000ab632411",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "2026-08-04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-04"
             }
           }
         ]
@@ -168,7 +172,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "0d4278b6a2a1586e",
+  "active": "5d77f000ab632411",
   "lastOpenFiles": [
     "2026-08-04.md",
     "Journal/2026-08-04 0641.md",
