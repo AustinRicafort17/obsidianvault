@@ -1,0 +1,7 @@
+views:
+  - type: list
+    name: Goals
+    filters:
+      and:
+        - file.hasLink("Categories/Goals.md")
+    indentProperties: true
