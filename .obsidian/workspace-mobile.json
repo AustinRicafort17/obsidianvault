@@ -173,9 +173,10 @@
   },
   "active": "2098a10904ebd369",
   "lastOpenFiles": [
-    "templates/Book template.md",
-    "Categories/Books.md",
     "Untitled.base",
+    "booklibrary.base",
+    "Categories/Books.md",
+    "templates/Book template.md",
     "Attachments/bookcover.png",
     "Untitled 1.base",
     "Attachments",
@@ -207,7 +208,6 @@
     "austin/Testfile.md",
     "Books",
     "Journal",
-    "Testfolder/Testfile2.md",
-    "Testfolder"
+    "Testfolder/Testfile2.md"
   ]
 }
