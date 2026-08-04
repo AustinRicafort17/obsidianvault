@@ -2,6 +2,6 @@
 name:
 birthday:
 relation:
-category:
+category: "[[People]]"
 contact:
 ---

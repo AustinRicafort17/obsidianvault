@@ -11,14 +11,13 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "templates/People template.md",
-                "mode": "source",
-                "source": false
+                "file": "Categories/People.base",
+                "viewName": "People"
               },
-              "icon": "lucide-file",
-              "title": "People template"
+              "icon": "lucide-list",
+              "title": "People"
             }
           }
         ]
@@ -175,6 +174,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "People.md",
+    "Categories/People.base",
+    "Untitled.base",
+    "templates/People template.md",
     "HUB.md",
     "2026-08-04.md",
     "Journal/2026-08-04 0641.md",
@@ -189,7 +192,6 @@
     "Bases/Movie Library.base",
     "Categories/Study notes.md",
     "templates/Study note template.md",
-    "Untitled.base",
     "Categories/Movies.md",
     "templates/daily note template.md",
     "templates/Movie template.md",
@@ -201,7 +203,6 @@
     "templates/Book template.md",
     "Attachments",
     "Categories",
-    "templates/People template.md",
     "Journal/Today.md",
     "templates",
     "/templates/workout.md",
@@ -209,9 +210,6 @@
     "/templates/daily note.md",
     "/templates/People.md",
     "/templates/Movies.md",
-    "/templates/Books.md",
-    "/Journal/2026-08-04 0641.md",
-    "/Introduction to Flexbox  The Odin Project.md",
-    "/templates"
+    "/templates/Books.md"
   ]
 }
