@@ -171,11 +171,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "2098a10904ebd369",
+  "active": "f668fbb0aac15a07",
   "lastOpenFiles": [
+    "Categories/Books.md",
+    "Attachments",
     "templates/daily note template.md",
     "Categories/Daily Notes.md",
-    "Categories/Books.md",
     "Categories/Movies.md",
     "Untitled 1.base",
     "templates/Movie template.md",
@@ -206,7 +207,6 @@
     "Books",
     "Journal",
     "Testfolder/Testfile2.md",
-    "Testfolder",
-    "austin"
+    "Testfolder"
   ]
 }
