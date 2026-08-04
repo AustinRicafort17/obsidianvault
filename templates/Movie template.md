@@ -7,5 +7,5 @@ release-date:
 rating:
 tags:
   - "#movie"
-category:
+category: "[[Movies]]"
 ---
