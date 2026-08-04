@@ -20,4 +20,3 @@ Focus & Attention Protocol
 - Support focus with good sleep, hydration, movement, and regular meals.
 - Review each day: What helped? What distracted you? Adjust for tomorrow.
 
-
