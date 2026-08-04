@@ -6,7 +6,7 @@ genre:
 description:
 rating:
 created:
-cover:
+cover: bookcover.png
 tags:
   - "#books"
 category: "[[Books]]"

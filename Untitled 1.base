@@ -1,7 +1,0 @@
-views:
-  - type: cards
-    name: View
-    filters:
-      and:
-        - file.hasLink(link("Movies"))
-    image: note.cover

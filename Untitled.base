@@ -1,8 +1,4 @@
 views:
   - type: cards
-    name: View
-    filters:
-      and:
-        - file.hasLink("Books.md")
-        - file.inFolder("/")
+    name: Book library
     image: note.cover
