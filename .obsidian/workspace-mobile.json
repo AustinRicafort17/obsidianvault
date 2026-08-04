@@ -14,9 +14,9 @@
               "type": "bases",
               "state": {
                 "file": "Movie Library.base",
-                "viewName": "Table"
+                "viewName": "Library"
               },
-              "icon": "lucide-table",
+              "icon": "lucide-layout-grid",
               "title": "Movie Library"
             }
           }
@@ -172,14 +172,14 @@
   },
   "active": "2098a10904ebd369",
   "lastOpenFiles": [
-    "templates/workout.md",
+    "Categories/Books.md",
     "Movie Library.base",
+    "templates/workout.md",
     "Categories/Movies.md",
     "Categories/Daily Notes.md",
-    "Categories/Books.md",
     "Journal/2026-08-04 0641.md",
     "Bases",
-    "Bases/booklibrary.base",
+    "Bases/Book library.base",
     "Untitled.base",
     "templates/Book template.md",
     "Attachments/bookcover.png",

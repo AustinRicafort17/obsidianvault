@@ -1,2 +1,2 @@
 
-![[booklibrary.base]]
+![[Book library.base]]
