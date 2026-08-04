@@ -38,13 +38,14 @@
             "id": "c23296be7c6a0e15",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Bases/Dailynotes.base",
-                "viewName": "Table"
+                "file": "Introduction to Flexbox  The Odin Project.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-list",
-              "title": "Dailynotes"
+              "icon": "lucide-file",
+              "title": "Introduction to Flexbox  The Odin Project"
             }
           }
         ],
@@ -200,18 +201,20 @@
   },
   "active": "c23296be7c6a0e15",
   "lastOpenFiles": [
-    "Bases/Movie Library.base",
+    "HTML.md",
+    "CSS.md",
+    "Untitled.md",
+    "Categories/Daily Notes.md",
     "Journal/2026-08-04 0641.md",
+    "Bases/Dailynotes.base",
+    "Bases/Movie Library.base",
     "templates/workout.md",
     "Categories/Study notes.md",
     "templates/Study note template.md",
-    "Untitled.md",
     "Bases/Study.base",
     "Untitled.base",
     "Categories/Movies.md",
-    "Categories/Daily Notes.md",
     "templates/daily note template.md",
-    "Bases/Dailynotes.base",
     "templates/Movie template.md",
     "Attachments/movieposter.png",
     "Attachments/bookcover.png",
@@ -222,9 +225,7 @@
     "templates/Book template.md",
     "Attachments",
     "Categories",
-    "CSS.md",
     "Introduction to Flexbox  The Odin Project.md",
-    "HTML.md",
     "templates/People template.md",
     "Journal/Today.md",
     "templates",
