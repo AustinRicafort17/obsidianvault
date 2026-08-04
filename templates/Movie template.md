@@ -8,6 +8,5 @@ rating:
 tags:
   - "#movie"
 category: "[[Movies]]"
-cover:
+cover: movieposter.png
 ---
-![[movieposter.png]]
