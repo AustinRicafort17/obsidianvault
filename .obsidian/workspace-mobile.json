@@ -171,11 +171,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "2098a10904ebd369",
+  "active": "f668fbb0aac15a07",
   "lastOpenFiles": [
-    "Untitled.base",
+    "storage",
+    "storage/booklibrary.base",
     "Categories/Books.md",
-    "booklibrary.base",
+    "Untitled.base",
     "templates/Book template.md",
     "Attachments/bookcover.png",
     "Untitled 1.base",
