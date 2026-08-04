@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/daily note template.md",
+                "file": "Categories/Books.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "daily note template"
+              "title": "Books"
+            }
+          },
+          {
+            "id": "3f2d48ef4571bbd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "templates/workout.md",
+            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -156,6 +171,16 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "cf61cffbda87fecd",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
       }
     ],
     "currentTab": 0
@@ -173,8 +198,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3f2d48ef4571bbd6",
   "lastOpenFiles": [
+    "Categories/Books.md",
+    "Untitled.md",
+    "Categories/Daily Notes.md",
+    "Categories/Goals.md",
+    "ToDo.md",
+    "templates/daily note template.md",
     "focus.md",
     "2026-08-05.md",
     "HUB.md",
@@ -197,9 +228,7 @@
     "/2026-08-05.md",
     "/Clippings",
     "Bases/goals.base",
-    "Categories/Goals.md",
     "Untitled 1.base",
-    "ToDo.md",
     "2026-08-04.md",
     "Introduction to Flexbox  The Odin Project.md",
     "Categories/Study notes.md",
@@ -211,10 +240,6 @@
     "templates/workout.md",
     "Bases/Study.base",
     "Web Dev.md",
-    "HTML.md",
-    "CSS.md",
-    "Categories/Daily Notes.md",
-    "templates/Study note template.md",
     "Attachments/movieposter.png",
     "Attachments/bookcover.png"
   ]
