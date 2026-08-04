@@ -6,3 +6,4 @@ tags:
   - learning
 category: "[[Study notes]]"
 ---
+i neeeeeeed focus to actually achieve my 
