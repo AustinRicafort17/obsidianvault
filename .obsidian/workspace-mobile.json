@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Categories/Movies.md",
+                "file": "templates/daily note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Movies"
+              "title": "daily note"
             }
           }
         ]
@@ -173,13 +173,13 @@
   },
   "active": "2098a10904ebd369",
   "lastOpenFiles": [
+    "Categories/Books.md",
+    "Categories/Movies.md",
     "Untitled 1.base",
     "templates/Movie template.md",
-    "Categories/Movies.md",
     "Categories",
     "Journal/2026-08-04 0641.md",
     "templates/daily note.md",
-    "Categories/Books.md",
     "templates/Book template.md",
     "Untitled.base",
     "Web Dev.md",
