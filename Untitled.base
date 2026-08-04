@@ -1,4 +1,9 @@
 views:
   - type: cards
     name: Book library
+    filters:
+      and:
+        - file.hasLink("Categories/Books.md")
     image: note.cover
+    cardSize: 120
+    imageAspectRatio: 1.25
