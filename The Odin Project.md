@@ -1,6 +1,6 @@
 ---
 created: 2026-08-04
-topic: "[[Web Dev]]"
+topic:
 source:
 tags:
   - learning
