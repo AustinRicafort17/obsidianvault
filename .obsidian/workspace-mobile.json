@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUB.md",
+                "file": "templates/People template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HUB"
+              "title": "People template"
             }
           }
         ]

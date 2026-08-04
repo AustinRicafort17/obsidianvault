@@ -2,6 +2,6 @@
 name:
 birthday:
 relation:
-tags:
-  - people
+category:
+contact:
 ---
