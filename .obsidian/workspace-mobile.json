@@ -40,11 +40,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Bases/Movie Library.base",
-                "viewName": "Library"
+                "file": "Bases/Dailynotes.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-layout-grid",
-              "title": "Movie Library"
+              "icon": "lucide-list",
+              "title": "Dailynotes"
             }
           }
         ],
@@ -200,6 +200,7 @@
   },
   "active": "c23296be7c6a0e15",
   "lastOpenFiles": [
+    "Bases/Movie Library.base",
     "Journal/2026-08-04 0641.md",
     "templates/workout.md",
     "Categories/Study notes.md",
@@ -212,7 +213,6 @@
     "templates/daily note template.md",
     "Bases/Dailynotes.base",
     "templates/Movie template.md",
-    "Bases/Movie Library.base",
     "Attachments/movieposter.png",
     "Attachments/bookcover.png",
     "Web Dev.md",
