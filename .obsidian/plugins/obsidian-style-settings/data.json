@@ -1,4 +1,6 @@
 {
   "shimmering-focus@@angular-shapes": true,
-  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light"
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-red",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-red"
 }
