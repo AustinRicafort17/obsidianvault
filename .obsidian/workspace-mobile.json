@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUB.md",
+                "file": "ToDo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HUB"
+              "title": "ToDo"
             }
           }
         ],
@@ -190,8 +190,8 @@
   },
   "active": "0bed9df35469d156",
   "lastOpenFiles": [
-    "ToDo.md",
     "HUB.md",
+    "ToDo.md",
     "2026-08-04.md",
     "Introduction to Flexbox  The Odin Project.md",
     "Categories/Study notes.md",
