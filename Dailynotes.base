@@ -1,4 +1,7 @@
 views:
-  - type: table
+  - type: list
     name: Table
-    rowHeight: extra
+    filters:
+      and:
+        - file.hasLink("Categories/Daily Notes.md")
+    indentProperties: true
