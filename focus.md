@@ -10,3 +10,14 @@ i neeeeeeed focus to actually achieve my [[Goals]] . This has been an issue for 
 
 ## Protocols 
 
+ChatGPT says:
+Focus & Attention Protocol
+
+- Work in focused blocks (25–50 min), then take a 5–10 min break.
+- Do one task at a time and silence notifications.
+- If distracted, notice it, refocus on the next step, and continue.
+- Break large tasks into small, manageable actions.
+- Support focus with good sleep, hydration, movement, and regular meals.
+- Review each day: What helped? What distracted you? Adjust for tomorrow.
+
+
