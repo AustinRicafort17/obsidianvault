@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ToDo.md",
+                "file": "Categories/Goals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ToDo"
+              "title": "Goals"
             }
           }
         ],
@@ -190,8 +190,9 @@
   },
   "active": "0bed9df35469d156",
   "lastOpenFiles": [
-    "HUB.md",
     "ToDo.md",
+    "Categories/Goals.md",
+    "HUB.md",
     "2026-08-04.md",
     "Introduction to Flexbox  The Odin Project.md",
     "Categories/Study notes.md",
@@ -226,7 +227,6 @@
     "/templates/learning note.md",
     "/templates/daily note.md",
     "/templates/People.md",
-    "/templates/Movies.md",
-    "/templates/Books.md"
+    "/templates/Movies.md"
   ]
 }
