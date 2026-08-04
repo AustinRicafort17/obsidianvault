@@ -20,22 +20,8 @@
               "icon": "lucide-file",
               "title": "HUB"
             }
-          },
-          {
-            "id": "0bed9df35469d156",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Bases/goals.base",
-                "viewName": "Goals"
-              },
-              "icon": "lucide-list",
-              "title": "goals"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,13 +173,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f668fbb0aac15a07",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Categories/Goals.md",
+    "HUB.md",
     "Bases/goals.base",
+    "Categories/Goals.md",
     "Untitled 1.base",
     "ToDo.md",
-    "HUB.md",
     "2026-08-04.md",
     "Introduction to Flexbox  The Odin Project.md",
     "Categories/Study notes.md",
