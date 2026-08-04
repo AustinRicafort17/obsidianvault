@@ -117,6 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "templates/workout.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,7 +172,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "0d4278b6a2a1586e",
+  "active": "3c6c24182fdb7b69",
   "lastOpenFiles": [
     "Bases/Study.base",
     "Web Dev.md",
