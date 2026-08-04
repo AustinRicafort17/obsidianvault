@@ -1,6 +1,0 @@
-views:
-  - type: table
-    name: Table
-  - type: list
-    name: People
-    indentProperties: true
