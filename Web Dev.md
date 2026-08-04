@@ -4,4 +4,5 @@ topic: "[[Web Dev]]"
 source:
 tags:
   - learning
+category: "[[Study notes]]"
 ---
