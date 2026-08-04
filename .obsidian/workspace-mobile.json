@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUB.md",
+                "file": "2026-08-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HUB"
+              "title": "2026-08-05"
             }
           }
         ]
@@ -176,6 +176,25 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "HUB.md",
+    "Attachments/Pasted image 20260805061534.png",
+    "2026-08-05.md",
+    "The Odin Project.md",
+    "Flexbox.md",
+    "Clippings/Introduction to Flexbox  The Odin Project.md",
+    "Clippings",
+    "/The Odin Project.md",
+    "/HTML.md",
+    "/Flexbox.md",
+    "/Clippings/Introduction to Flexbox  The Odin Project.md",
+    "/CSS.md",
+    "/Bases/Study.base",
+    "/Bases",
+    "/Attachments/Pasted image 20260805061534.png",
+    "/Attachments/Pasted image 20260805061119.png",
+    "Attachments/Pasted image 20260805061119.png",
+    "/Attachments",
+    "/2026-08-05.md",
+    "/Clippings",
     "Bases/goals.base",
     "Categories/Goals.md",
     "Untitled 1.base",
@@ -194,23 +213,8 @@
     "HTML.md",
     "CSS.md",
     "Categories/Daily Notes.md",
-    "Bases/Dailynotes.base",
-    "Bases/Movie Library.base",
     "templates/Study note template.md",
-    "Categories/Movies.md",
-    "templates/daily note template.md",
-    "templates/Movie template.md",
     "Attachments/movieposter.png",
-    "Attachments/bookcover.png",
-    "Categories/Books.md",
-    "Bases",
-    "Bases/Book library.base",
-    "templates/Book template.md",
-    "Attachments",
-    "Journal/Today.md",
-    "/templates/workout.md",
-    "/templates/learning note.md",
-    "/templates/daily note.md",
-    "/templates/People.md"
+    "Attachments/bookcover.png"
   ]
 }
