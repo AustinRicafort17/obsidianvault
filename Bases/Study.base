@@ -1,3 +1,7 @@
 views:
-  - type: table
+  - type: list
     name: Table
+    filters:
+      and:
+        - file.hasLink("Categories/Study notes.md")
+    indentProperties: true
