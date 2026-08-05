@@ -36,4 +36,3 @@ line:
     yMin: 0
     yMax: 12
 ```
-

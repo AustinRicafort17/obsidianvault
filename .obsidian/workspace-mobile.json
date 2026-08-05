@@ -181,17 +181,13 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "homepage:Open homepage": false,
-      "periodic-notes:Open this year": false,
-      "periodic-notes:Open this quarter": false,
-      "periodic-notes:Open this month": false,
-      "periodic-notes:Open this week": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open this week": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "2026-08-04.md",
     "HUB.md",
+    "2026-08-04.md",
     "Categories/Study notes.md",
     "Clippings/Introduction to Flexbox  The Odin Project.md",
     "Flexbox.md",
