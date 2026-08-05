@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Books"
             }
+          },
+          {
+            "id": "6250ccba29d70e3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flexbox.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flexbox"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Categories/Books.md",
+            "file": "Flexbox.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -198,17 +212,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3f2d48ef4571bbd6",
+  "active": "6250ccba29d70e3c",
   "lastOpenFiles": [
+    "Categories/People.md",
+    "HUB.md",
+    "Categories/Books.md",
     "Don Quixote.md",
     "2026-08-05.md",
-    "Categories/Books.md",
     "Categories/Daily Notes.md",
     "Categories/Goals.md",
     "ToDo.md",
     "templates/daily note template.md",
     "focus.md",
-    "HUB.md",
     "Attachments/Pasted image 20260805061534.png",
     "The Odin Project.md",
     "Flexbox.md",
@@ -232,7 +247,6 @@
     "2026-08-04.md",
     "Introduction to Flexbox  The Odin Project.md",
     "Categories/Study notes.md",
-    "Categories/People.md",
     "Bases/People.base",
     "Untitled.base",
     "templates/People template.md",
