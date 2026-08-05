@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "HUB.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Don Quixote.md",
+            "file": "HUB.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -186,6 +186,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "2026-08-06.md",
+    "HUB.md",
+    "axes , alignments and gap.md",
+    "/templates/Study note template.md",
+    "/templates",
+    "/axes , alignments and gap.md",
+    "/Watchlist.md",
+    "/ToDo.md",
+    "/HUB.md",
+    "/2026-08-06.md",
     "Don Quixote.md",
     "Categories/Books.md",
     "focus.md",
@@ -193,7 +203,6 @@
     "Categories/Movies.md",
     "Clippings/Introduction to Flexbox  The Odin Project.md",
     "Categories/Study notes.md",
-    "HUB.md",
     "templates/People template.md",
     "Categories/People.md",
     "Categories/Daily Notes.md",
@@ -208,16 +217,8 @@
     "Untitled.base",
     "templates/Games Template.md",
     "Game Stack.md",
-    "Watchlist.md",
-    "templates/daily note template.md",
-    "2026-08-04.md",
-    "Flexbox.md",
-    "2026-08-05.md",
     "Attachments/Pasted image 20260805061534.png",
-    "The Odin Project.md",
     "Clippings",
-    "/The Odin Project.md",
-    "/HTML.md",
     "/Bases/Study.base",
     "/Bases",
     "/Attachments/Pasted image 20260805061534.png",
@@ -227,7 +228,6 @@
     "/Clippings",
     "Bases/goals.base",
     "Untitled 1.base",
-    "Bases/People.base",
     "Attachments/movieposter.png",
     "Attachments/bookcover.png"
   ]
