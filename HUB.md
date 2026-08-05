@@ -5,7 +5,8 @@
 
 ![[Book Stack]]
 
-![[Games]]
+![[Game Stack]]
+
 ## Study Heatmap
 ```heatmap-tracker
 heatmapTitle: "Study "
