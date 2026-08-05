@@ -7,6 +7,12 @@
 
 ![[Game Stack]]
 
+
+
+
+
+
+
 ## Study Heatmap
 ```heatmap-tracker
 heatmapTitle: "Study "
