@@ -2,7 +2,7 @@
 ![[ToDo]]
 
 
-```tracker
+```heatmap
 searchType: frontmatter
 searchTarget: study
 
