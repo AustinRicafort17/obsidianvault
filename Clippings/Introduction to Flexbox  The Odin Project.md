@@ -33,7 +33,7 @@ You will almost definitely need to come back and reference these lessons (or a c
 
 ### Let’s flex!
 
-Flexbox is a way to arrange items into rows or columns. These items will flex (i.e. grow or shrink) based on some rules that you can define. To get started, let’s look at a demonstration.
+[[Flexbox]] is a way to arrange items into rows or columns. These items will flex (i.e. grow or shrink) based on some rules that you can define. To get started, let’s look at a demonstration.
 
 #### Interactive CodePens
 
