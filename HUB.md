@@ -24,3 +24,16 @@ colorScheme:
   customColors:
     - "#FF0000"
 ```
+```tracker
+searchType: frontmatter
+searchTarget: sleep-hours
+datasetName: Sleep
+
+line:
+    title: Sleep Hours
+    yAxisLabel: Hours
+    xAxisLabel: Date
+    yMin: 0
+    yMax: 12
+```
+
