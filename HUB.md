@@ -24,16 +24,3 @@ colorScheme:
   customColors:
     - "#FF0000"
 ```
-```tracker
-searchType: frontmatter
-searchTarget: sleep_hours
-
-line:
-    title: Sleep Hours
-    yAxisLabel: Hours
-    yMin: 0
-    yMax: 12
-    lineWidth: 2
-    pointSize: 3
-    aspectRatio: 2
-```
