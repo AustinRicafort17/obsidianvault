@@ -3,9 +3,8 @@ title:
 author:
 published:
 genre:
-description:
+synopsis:
 rating:
-created:
 cover: bookcover.png
 tags:
   - "#books"

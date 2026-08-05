@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Don Quixote.md",
+                "file": "Categories/Books.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Don Quixote"
+              "title": "Books"
             }
           }
         ]
@@ -186,13 +186,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "templates/Book template.md",
+    "Don Quixote.md",
     "Categories/Books.md",
     "Dark is the Sun.md",
     "Attachments/Darkisthesun.webp",
     "Book Stack.md",
-    "Don Quixote.md",
     "HUB.md",
-    "templates/Book template.md",
     "Attachments/Donquixote.jpeg",
     "Bases/games.base",
     "Categories/Games.md",
