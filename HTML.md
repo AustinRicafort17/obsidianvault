@@ -9,4 +9,5 @@ category: "[[Study notes]]"
 HYPERTEXT MARKUP LANGUAGE (HTML)
 
 Is a file that represents the skeleton of a website.
-It builds the website's structure 
+It builds the website's structure  ^9aa634
+

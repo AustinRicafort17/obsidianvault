@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "HTML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "HTML"
             }
           }
         ],
@@ -215,8 +215,8 @@
   },
   "active": "25a2411780ae41e8",
   "lastOpenFiles": [
-    "Test 2.md",
     "Test.md",
+    "Test 2.md",
     "HUB.md",
     "templates/workout.md",
     "Categories/Movies.md",
