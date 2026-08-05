@@ -52,6 +52,6 @@ line:
     title: Weight 
     yAxisLabel: Hours
     xAxisLabel: Date
-    yMin: 0
-    yMax: 12
+    yMin: 60
+    yMax: 80
 ```
