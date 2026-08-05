@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ToDo.md",
+                "file": "HUB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ToDo"
+              "title": "HUB"
             }
           }
         ],
@@ -132,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ToDo.md",
+            "file": "HUB.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -201,6 +201,7 @@
   },
   "active": "2d9aad2425bc794a",
   "lastOpenFiles": [
+    "ToDo.md",
     "HUB.md",
     "Categories/Books.md",
     "templates/Book template.md",
@@ -224,7 +225,6 @@
     "Categories/People.md",
     "2026-08-05.md",
     "Categories/Goals.md",
-    "ToDo.md",
     "focus.md",
     "Attachments/Pasted image 20260805061534.png",
     "The Odin Project.md",

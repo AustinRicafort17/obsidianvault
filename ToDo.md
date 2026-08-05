@@ -3,4 +3,5 @@ category: "[[Goals]]"
 ---
 
 - [ ] Rakuten Investment
-- [ ] Reset PC (l)
+- [ ] Reset PC (windows for gaming , linux as main pc)
+- [ ] Rearrange Table
