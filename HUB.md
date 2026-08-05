@@ -7,5 +7,5 @@ searchType: frontmatter
 searchTarget: study
 
 month:
-    mode: annotation
+    mode: intensity
 ```
