@@ -15,3 +15,13 @@ colorScheme:
 ```
 
 ## Exercise Heatmap
+```heatmap-tracker
+heatmapTitle: "Exercise "
+property: exercise
+year: 2026
+separateMonths: true
+showCurrentDayBorder: true
+colorScheme:
+  customColors:
+    - "#FF0000"
+```
