@@ -11,7 +11,5 @@ tags:
 category: "[[Books]]"
 ---
 
-# notes while reading 
-
-These are my hajdkwksja
+# notes while 
 
