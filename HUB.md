@@ -13,6 +13,8 @@ colorScheme:
   customColors:
     - "#DFFF00"
 ```
+
+
 ## Exercise Heatmap
 ```heatmap-tracker
 heatmapTitle: "Exercise "
@@ -24,6 +26,8 @@ colorScheme:
   customColors:
     - "#FF0000"
 ```
+
+
 ```tracker
 searchType: frontmatter
 searchTarget: sleep-hours
