@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUB.md",
+                "file": "Book Stack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HUB"
+              "title": "Book Stack"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "HUB.md",
+            "file": "Book Stack.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -186,8 +186,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Watchlist.md",
     "HUB.md",
+    "Book Stack.md",
+    "Watchlist.md",
     "templates/daily note template.md",
     "Categories/Daily Notes.md",
     "2026-08-04.md",
@@ -224,7 +225,6 @@
     "Untitled.base",
     "templates/People template.md",
     "Journal/2026-08-04 0641.md",
-    "templates/workout.md",
     "Bases/Study.base",
     "Attachments/movieposter.png",
     "Attachments/bookcover.png"
