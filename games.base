@@ -1,0 +1,9 @@
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.hasLink("Categories/Games.md")
+    cardSize: 140
+    imageAspectRatio: 1.25
+    image: note.cover
