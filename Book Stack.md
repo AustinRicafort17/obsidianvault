@@ -1,6 +1,6 @@
 ---
 category: "[[Books]]"
 ---
-- [ ] Don Quixote
+- [ ] [[Don Quixote]]
 - [ ] Dark is the Sun
 - [ ] The little prince

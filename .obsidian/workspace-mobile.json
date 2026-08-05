@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Book template.md",
+                "file": "Categories/Books.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Book template"
+              "title": "Books"
             }
           }
         ]
@@ -186,6 +186,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Don Quixote.md",
+    "Book Stack.md",
+    "templates/Book template.md",
     "Attachments/Donquixote.jpeg",
     "HUB.md",
     "Categories/Books.md",
@@ -194,7 +197,6 @@
     "Untitled.base",
     "templates/Games Template.md",
     "Game Stack.md",
-    "Book Stack.md",
     "Watchlist.md",
     "templates/daily note template.md",
     "Categories/Daily Notes.md",
@@ -203,7 +205,6 @@
     "Clippings/Introduction to Flexbox  The Odin Project.md",
     "Flexbox.md",
     "Categories/People.md",
-    "Don Quixote.md",
     "2026-08-05.md",
     "Categories/Goals.md",
     "ToDo.md",

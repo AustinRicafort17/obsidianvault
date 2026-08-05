@@ -6,7 +6,7 @@ genre:
 description:
 rating:
 created:
-cover: bookcover.png
+cover: Donquixote.jpeg
 tags:
   - "#books"
 category: "[[Books]]"
