@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "HUB.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -186,6 +186,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "templates/daily note template.md",
+    "Categories/Daily Notes.md",
     "HUB.md",
     "2026-08-04.md",
     "Categories/Study notes.md",
@@ -195,10 +197,8 @@
     "Categories/Books.md",
     "Don Quixote.md",
     "2026-08-05.md",
-    "Categories/Daily Notes.md",
     "Categories/Goals.md",
     "ToDo.md",
-    "templates/daily note template.md",
     "focus.md",
     "Attachments/Pasted image 20260805061534.png",
     "The Odin Project.md",
