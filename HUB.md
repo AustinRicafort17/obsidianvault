@@ -10,7 +10,7 @@
 ## Study Heatmap
 ```heatmap-tracker
 heatmapTitle: "Study "
-property: study
+property: study 
 year: 2026
 separateMonths: true
 showCurrentDayBorder: true
@@ -18,8 +18,6 @@ colorScheme:
   customColors:
     - "#DFFF00"
 ```
-
-
 ## Exercise Heatmap
 ```heatmap-tracker
 heatmapTitle: "Exercise "

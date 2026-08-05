@@ -5,4 +5,5 @@ source:
 tags:
   - learning
 category: "[[Study notes]]"
+related-notes:
 ---
