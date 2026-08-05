@@ -40,3 +40,18 @@ line:
     yMin: 0
     yMax: 12
 ```
+
+
+
+```tracker
+searchType: frontmatter
+searchTarget: weight 
+datasetName: Sleep
+
+line:
+    title: Weight 
+    yAxisLabel: Hours
+    xAxisLabel: Date
+    yMin: 0
+    yMax: 12
+```
