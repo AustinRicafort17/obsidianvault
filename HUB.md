@@ -4,8 +4,8 @@
 
 ```tracker
 searchType: frontmatter
-searchTarget: Study
+searchTarget: study
 
-calendar:
+month:
+    mode: annotation
 ```
-
