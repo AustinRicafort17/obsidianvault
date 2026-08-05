@@ -2,7 +2,7 @@
 ![[ToDo]]
 
 
-## Study heatmap
+## Study Heatmap
 ```heatmap-tracker
 heatmapTitle: "Study "
 property: study
@@ -13,3 +13,5 @@ colorScheme:
   customColors:
     - "#7bc96f"
 ```
+
+## Exercise Heatmap
