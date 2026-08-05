@@ -16,8 +16,8 @@
   },
   "monthly": {
     "format": "",
-    "template": "",
-    "folder": "",
+    "template": "Categories/Daily Notes.md",
+    "folder": "/",
     "enabled": true
   },
   "quarterly": {
@@ -28,8 +28,8 @@
   },
   "yearly": {
     "format": "",
-    "template": "",
-    "folder": "",
+    "template": "templates/daily note template.md",
+    "folder": "/",
     "enabled": true
   }
 }
