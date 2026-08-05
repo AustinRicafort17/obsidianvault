@@ -5,12 +5,14 @@
   "daily": {
     "format": "",
     "template": "",
-    "folder": ""
+    "folder": "",
+    "enabled": false
   },
   "weekly": {
     "format": "",
-    "template": "",
-    "folder": ""
+    "template": "Categories/Daily Notes.md",
+    "folder": "/",
+    "enabled": true
   },
   "monthly": {
     "format": "",
