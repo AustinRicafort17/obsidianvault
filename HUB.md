@@ -42,10 +42,9 @@ line:
     title: Sleep Hours
     yAxisLabel: Hours
     xAxisLabel: Date
-    yMin: 0
-    yMax: 12
+    yMin: 3
+    yMax: 10
 ```
-
 
 
 ```tracker
