@@ -6,9 +6,10 @@ genre:
 description:
 rating:
 created:
-cover: bookcover.png
+cover: Darkisthesun.webp
 tags:
   - "#books"
 category: "[[Books]]"
 ---
-![[IMG_8539.webp]]
+
+![[Darkisthesun.webp]]
