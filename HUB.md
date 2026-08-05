@@ -11,9 +11,8 @@ separateMonths: true
 showCurrentDayBorder: true
 colorScheme:
   customColors:
-    - "#7bc96f"
+    - "#DFFF00"
 ```
-
 ## Exercise Heatmap
 ```heatmap-tracker
 heatmapTitle: "Exercise "
