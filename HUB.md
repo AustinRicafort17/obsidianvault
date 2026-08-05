@@ -1,10 +1,11 @@
+
+![[ToDo]]
+
 ![[Watchlist]]
 
 ![[Book Stack]]
 
-![[ToDo]]
-
-
+![[Games]]
 ## Study Heatmap
 ```heatmap-tracker
 heatmapTitle: "Study "
