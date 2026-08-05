@@ -26,14 +26,14 @@ colorScheme:
 ```
 ```tracker
 searchType: frontmatter
-searchTarget: sleep-hours
-
-datasetName: Sleep
+searchTarget: sleep_hours
 
 line:
     title: Sleep Hours
     yAxisLabel: Hours
     yMin: 0
     yMax: 12
-    showPoint: true
+    lineWidth: 2
+    pointSize: 3
+    aspectRatio: 2
 ```
