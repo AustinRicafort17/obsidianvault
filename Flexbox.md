@@ -19,9 +19,9 @@ If any elements are nested inside this element then this element would be a ==fl
 
 ![[Pasted image 20260805061534.png]]
 
-flex: 1 tells an item how to grow and shrink within its container. It is also a shorthand property for 3 different properties. 
+flex: 1 tells an item how to grow and shrink within its container. It is also a ==shorthand property== for 3 different properties. 
 
-*Shorthand properties are CSS properties that let you set the values of multiple other CSS properties simultaneously. Using a shorthand property, you can write more concise (and often more readable) stylesheets, saving time and energy.*
+*==Shorthand properties== are CSS properties that let you set the values of multiple other CSS properties simultaneously. Using a shorthand property, you can write more concise (and often more readable) stylesheets, saving time and energy.*
 
 *Source: [Shorthand properties on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties)*
 
