@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUB.md",
-                "mode": "preview",
+                "file": "templates/Book template.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HUB"
+              "title": "Book template"
             }
           }
         ]
@@ -186,12 +186,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dark is the Sun.md",
     "HUB.md",
     "ToDo.md",
     "Categories/Books.md",
     "templates/Book template.md",
     "Don Quixote.md",
-    "Dark is the Sun.md",
     "Attachments/Darkisthesun.webp",
     "Book Stack.md",
     "Attachments/Donquixote.jpeg",

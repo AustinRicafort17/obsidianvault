@@ -12,4 +12,3 @@ tags:
 category: "[[Books]]"
 ---
 
-![[Darkisthesun.webp]]
