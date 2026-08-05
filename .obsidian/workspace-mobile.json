@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Don Quixote.md",
+                "file": "Categories/Books.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Don Quixote"
+              "title": "Books"
             }
           }
         ],
@@ -132,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Don Quixote.md",
+            "file": "Categories/Books.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -200,14 +200,14 @@
   },
   "active": "3f2d48ef4571bbd6",
   "lastOpenFiles": [
-    "Categories/Books.md",
     "Don Quixote.md",
+    "2026-08-05.md",
+    "Categories/Books.md",
     "Categories/Daily Notes.md",
     "Categories/Goals.md",
     "ToDo.md",
     "templates/daily note template.md",
     "focus.md",
-    "2026-08-05.md",
     "HUB.md",
     "Attachments/Pasted image 20260805061534.png",
     "The Odin Project.md",
