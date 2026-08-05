@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUB.md",
+                "file": "Dark is the Sun.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HUB"
+              "title": "Dark is the Sun"
             }
           }
         ]
@@ -186,12 +186,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Categories/Books.md",
-    "Don Quixote.md",
+    "Attachments/IMG_8539.webp",
     "Book Stack.md",
+    "Dark is the Sun.md",
+    "Don Quixote.md",
+    "HUB.md",
+    "Categories/Books.md",
     "templates/Book template.md",
     "Attachments/Donquixote.jpeg",
-    "HUB.md",
     "Bases/games.base",
     "Categories/Games.md",
     "Untitled.base",
@@ -215,8 +217,6 @@
     "/The Odin Project.md",
     "/HTML.md",
     "/Flexbox.md",
-    "/Clippings/Introduction to Flexbox  The Odin Project.md",
-    "/CSS.md",
     "/Bases/Study.base",
     "/Bases",
     "/Attachments/Pasted image 20260805061534.png",
