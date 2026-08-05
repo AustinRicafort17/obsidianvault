@@ -2,6 +2,7 @@
 ![[ToDo]]
 
 
+## Study heatmap
 ```heatmap-tracker
 heatmapTitle: "Study "
 property: study
