@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUB.md",
-                "mode": "preview",
+                "file": "ToDo.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HUB"
+              "title": "ToDo"
             }
           }
         ],
@@ -132,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "HUB.md",
+            "file": "ToDo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -201,13 +201,13 @@
   },
   "active": "2d9aad2425bc794a",
   "lastOpenFiles": [
+    "HUB.md",
     "Categories/Books.md",
     "templates/Book template.md",
     "Don Quixote.md",
     "Dark is the Sun.md",
     "Attachments/Darkisthesun.webp",
     "Book Stack.md",
-    "HUB.md",
     "Attachments/Donquixote.jpeg",
     "Bases/games.base",
     "Categories/Games.md",
