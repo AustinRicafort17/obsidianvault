@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Categories/Movies.md",
-                "mode": "preview",
+                "file": "Game Stack.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Movies"
+              "title": "Game Stack"
             }
           }
         ]
@@ -187,18 +187,19 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Categories/Games.md",
+    "templates/Games Template.md",
+    "Attachments/Gameposter.png",
+    "Categories/Movies.md",
     "Categories/Goals.md",
     "ToDo.md",
     "Categories/Journal Entries.md",
     "HUB.md",
-    "Categories/Movies.md",
     "Habits Template.md",
     "Categories/Books.md",
     "Watchlist.md",
     "templates/Movie template.md",
     "Attachments/IMG_8540.gif",
     "Game Stack.md",
-    "templates/Games Template.md",
     "Categories/Daily Notes.md",
     "Bases/journal.base",
     "Untitled.base",
@@ -214,7 +215,6 @@
     "Test 2.md",
     "HTML.md",
     "Test.md",
-    "templates/workout.md",
     "/templates",
     "Attachments/Darkisthesun.webp",
     "Attachments/Donquixote.jpeg",
