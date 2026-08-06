@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Categories/Goals.md",
+                "file": "Categories/Movies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Goals"
+              "title": "Movies"
             }
           }
         ],
@@ -201,6 +201,7 @@
   },
   "active": "8c607c86fcfd6b8c",
   "lastOpenFiles": [
+    "Categories/Goals.md",
     "Game Stack.md",
     "Categories/Games.md",
     "templates/Games Template.md",
@@ -229,7 +230,6 @@
     "/Watchlist.md",
     "/ToDo.md",
     "/HUB.md",
-    "/2026-08-06.md",
     "Attachments/Darkisthesun.webp",
     "Attachments/Donquixote.jpeg",
     "Bases/games.base",
