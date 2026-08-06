@@ -8,6 +8,8 @@ category: "[[Study notes]]"
 ---
 As I understand it , according to [[Introduction to Flexbox  The Odin Project]] , flexbox is a [[CSS]] system(basically a really special css property) that allows for elements to grow/shrink to fill the available space. The rate in which they grow and shrink can also be set.
 
+![[Introduction to Flexbox  The Odin Project]]
+
 Put the css declaration and property, `display: flex` to "enable" flex in to an element.
 If any elements are nested inside this element then this element would be a ==flex container== and the elements inside will be called ==flex items== , these ==flex items== can also become ==flex containers== if they were to also have elements inside them, making them both flex items and containers depending where you look at it from.
 
