@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Table
+  - type: list
+    name: Journal
+    filters:
+      and:
+        - file.hasLink("Journal Entries.md")
+    indentProperties: true
