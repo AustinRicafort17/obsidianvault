@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ToDo.md",
+                "file": "Categories/Movies.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ToDo"
+              "title": "Movies"
             }
           }
         ]
@@ -186,6 +186,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Categories/Games.md",
+    "Categories/Goals.md",
+    "ToDo.md",
     "Categories/Journal Entries.md",
     "HUB.md",
     "Categories/Movies.md",
@@ -194,9 +197,7 @@
     "Watchlist.md",
     "templates/Movie template.md",
     "Attachments/IMG_8540.gif",
-    "Categories/Goals.md",
     "Game Stack.md",
-    "Categories/Games.md",
     "templates/Games Template.md",
     "Categories/Daily Notes.md",
     "Bases/journal.base",
@@ -214,7 +215,6 @@
     "HTML.md",
     "Test.md",
     "templates/workout.md",
-    "/templates/Study note template.md",
     "/templates",
     "Attachments/Darkisthesun.webp",
     "Attachments/Donquixote.jpeg",
