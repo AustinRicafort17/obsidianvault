@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/daily note template.md",
+                "file": "2026-08-07.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "daily note template"
+              "title": "2026-08-07"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "templates/daily note template.md",
+            "file": "2026-08-07.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -186,6 +186,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "templates/daily note template.md",
     "Categories/People.md",
     "HUB.md",
     "Categories/Books.md",
@@ -215,7 +216,6 @@
     "The Odin Project.md",
     "axes , alignments and gap.md",
     "Test 2.md",
-    "HTML.md",
     "/templates",
     "Attachments/Darkisthesun.webp",
     "Attachments/Donquixote.jpeg",

@@ -3,11 +3,12 @@ created:
 weight:
 sleep-hours:
 mood:
-study: false
-exercise: false
-">3hoursscreentime": false
+study: 
+exercise: 
+">3hoursscreentime": 
 tags:
   - dailynote
 category: "[[Daily Notes]]"
+meditation:
 ---
 

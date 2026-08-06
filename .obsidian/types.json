@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "rating": "number",
-    ">3hoursscreentime": "checkbox"
+    ">3hoursscreentime": "checkbox",
+    "meditation": "checkbox"
   }
 }
