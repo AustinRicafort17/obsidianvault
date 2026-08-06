@@ -4,6 +4,7 @@ views:
     filters:
       and:
         - file.hasLink("Categories/Books.md")
+        - file.hasTag("books")
     imageAspectRatio: 1.25
     image: note.cover
     cardSize: 140
