@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal Template.md",
+                "file": "Journal Entries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Journal Template"
+              "title": "Journal Entries"
             }
           }
         ],
@@ -201,8 +201,10 @@
   },
   "active": "8c607c86fcfd6b8c",
   "lastOpenFiles": [
-    "2026-08-06.md",
+    "Untitled.base",
     "Journal Template.md",
+    "Journal Entries.md",
+    "2026-08-06.md",
     "focus.md",
     "2026-08-05.md",
     "Categories/Daily Notes.md",
@@ -226,12 +228,9 @@
     "/2026-08-06.md",
     "Don Quixote.md",
     "Categories/Books.md",
-    "Categories/Goals.md",
-    "Categories/Study notes.md",
     "Attachments/Darkisthesun.webp",
     "Attachments/Donquixote.jpeg",
     "Bases/games.base",
-    "Untitled.base",
     "Attachments/Pasted image 20260805061534.png",
     "Clippings",
     "/Bases/Study.base",

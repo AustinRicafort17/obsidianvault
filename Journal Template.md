@@ -1,4 +1,5 @@
 ---
-created: 2026-08-06
-category:
+category: "[[Journal Entries]]"
+created:
+related-notes:
 ---
