@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Games Template.md",
+                "file": "Categories/Books.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Games Template"
+              "title": "Books"
             }
           }
         ]
@@ -187,12 +187,12 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Categories/Games.md",
+    "templates/Games Template.md",
     "Game Stack.md",
     "2026-08-07.md",
     "HUB.md",
     "Categories/Daily Notes.md",
     "Categories/Journal Entries.md",
-    "templates/Games Template.md",
     "Attachments/Gameposter.png",
     "Categories/Movies.md",
     "Categories/Goals.md",
