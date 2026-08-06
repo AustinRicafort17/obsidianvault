@@ -8,5 +8,6 @@ exercise: false
 tags:
   - dailynote
 category: "[[Daily Notes]]"
+less3hoursscreentime:
 ---
 
