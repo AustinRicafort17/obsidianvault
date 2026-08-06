@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flexbox.md",
+                "file": "2026-08-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flexbox"
+              "title": "2026-08-05"
             }
           }
         ]
@@ -186,6 +186,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Categories/Daily Notes.md",
+    "2026-08-04.md",
+    "Flexbox.md",
     "Clippings/Introduction to Flexbox  The Odin Project.md",
     "HUB.md",
     "2026-08-06.md",
@@ -210,9 +213,6 @@
     "Categories/Study notes.md",
     "templates/People template.md",
     "Categories/People.md",
-    "Categories/Daily Notes.md",
-    "Categories/Games.md",
-    "templates/Book template.md",
     "Attachments/Darkisthesun.webp",
     "Attachments/Donquixote.jpeg",
     "Bases/games.base",
