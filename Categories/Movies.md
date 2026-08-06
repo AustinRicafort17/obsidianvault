@@ -3,7 +3,8 @@
 ![[IMG_8540.gif]]
 
 4 - Great, Very impressive, will be thinking/thought about it for a long time
-3 - Good, Highly Recommended, Did not dis
+3 - Good, Highly Recommended, Did not disappoint but didn't really impress 
+2 - Disappointed, I probably expected more
 
 
 ![[Movie Library.base]]
