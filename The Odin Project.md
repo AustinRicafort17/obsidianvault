@@ -6,4 +6,5 @@ tags:
   - learning
 category: "[[Study notes]]"
 ---
-Is an Online Course the will teach me FULL STACK WEBDEVELO
+Is an Online Course the will teach me FULL STACK WEB-DEVELOPMENT
+Meaning 

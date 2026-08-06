@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Odin Project.md",
-                "mode": "source",
+                "file": "HUB.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Odin Project"
+              "title": "HUB"
             }
           }
         ],
@@ -201,8 +201,8 @@
   },
   "active": "25a2411780ae41e8",
   "lastOpenFiles": [
-    "axes , alignments and gap.md",
     "The Odin Project.md",
+    "axes , alignments and gap.md",
     "Test 2.md",
     "HTML.md",
     "Test.md",
