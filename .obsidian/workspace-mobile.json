@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUB.md",
-                "mode": "source",
+                "file": "The Odin Project.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HUB"
+              "title": "The Odin Project"
             }
           },
           {
@@ -131,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "HUB.md",
+            "file": "The Odin Project.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -200,12 +200,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "HUB.md",
     "The Odin Project.md",
     "axes , alignments and gap.md",
     "Test 2.md",
     "HTML.md",
     "Test.md",
-    "HUB.md",
     "templates/workout.md",
     "Categories/Movies.md",
     "2026-08-06.md",
