@@ -3,9 +3,9 @@ created:
 weight:
 sleep-hours:
 mood:
-study-time:
-exercise: 
-">3hoursscreentime": 
+study:
+exercise:
+">3hoursscreentime":
 tags:
   - dailynote
 category: "[[Daily Notes]]"
