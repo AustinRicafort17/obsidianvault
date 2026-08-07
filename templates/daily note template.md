@@ -3,7 +3,7 @@ created:
 weight:
 sleep-hours:
 mood:
-study: false
+study-time:
 exercise: false
 ">3hoursscreentime": false
 tags:
