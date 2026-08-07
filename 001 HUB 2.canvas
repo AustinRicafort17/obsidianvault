@@ -5,6 +5,6 @@
 		{"id":"5aca30775310e962","x":295,"y":-420,"width":170,"height":60,"type":"text","text":"## TRACKERS"}
 	],
 	"edges":[
-		{"id":"b90b365d27d01249","fromNode":"84faa5c57daf8cb0","fromSide":"bottom","toNode":"dd37373c7d0f8223","toSide":"bottom"}
+		{"id":"b90b365d27d01249","fromNode":"84faa5c57daf8cb0","fromSide":"bottom","toNode":"dd37373c7d0f8223","toSide":"bottom","label":"\n"}
 	]
 }
