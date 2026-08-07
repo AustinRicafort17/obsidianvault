@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001 HUB.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "001 HUB"
+              "title": "New tab"
             }
           }
         ]
@@ -186,8 +182,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Watchlist.md",
     "001 HUB.md",
+    "Watchlist.md",
     "2026-08-07.md",
     "templates/daily note template.md",
     "Categories/People.md",
