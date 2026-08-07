@@ -7,7 +7,7 @@
     ">3hoursscreentime": "checkbox",
     "meditation": "checkbox",
     "study": "checkbox",
-    "study-time": "checkbox",
+    "study-time": "number",
     "exercise": "checkbox"
   }
 }
