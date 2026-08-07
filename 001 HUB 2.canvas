@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"dd37373c7d0f8223","type":"file","file":"ToDo.md","x":-1440,"y":-960,"width":400,"height":400,"color":"3"},
 		{"id":"84faa5c57daf8cb0","type":"text","text":"```heatmap-tracker\nheatmapTitle: STUDY TIME\nproperty: study-time\nyear: 2026\nseparateMonths: true\nshowCurrentDayBorder: true\ncolorScheme:\n  customColors:\n    - \"#FFF176\"\n    - \"#FFCA28\"\n    - \"#FF9800\"\n    - \"#F4511E\"\n    - \"#D32F2F\"\n    - \"#8B0000\"\nintensityConfig:\n  scaleStart: 15\n  scaleEnd: 240\n```\n\n```heatmap-tracker\nheatmapTitle: \"Exercise \"\nproperty: exercise\nfilters:\n  - property: exercise\n    operator: equals\n    value: \"true\"\nyear: 2026\nseparateMonths: true\nshowCurrentDayBorder: true\ncolorScheme:\n  customColors:\n    - \"  #000080\"\n    - \"  #87CEEB\"\n    - \"  #F0F8FF\"\n```\n","x":-980,"y":-960,"width":440,"height":880,"color":"3"},
 		{"id":"5aca30775310e962","type":"text","text":"## TRACKERS","x":-625,"y":-1020,"width":170,"height":60},
-		{"id":"fd48692ff7d8643c","x":-540,"y":-960,"width":460,"height":880,"color":"3","type":"text","text":"```tracker\nsearchType: frontmatter\nsearchTarget: sleep-hours\ndatasetName: Sleep\n\nline:\n    title: Sleep Hours\n    yAxisLabel: Hours\n    xAxisLabel: Date\n    yMin: 3\n    yMax: 10\n```\n\n\n```tracker\nsearchType: frontmatter\nsearchTarget: weight \ndatasetName: Sleep\n\nline:\n    title: Weight \n    yAxisLabel: Hours\n    xAxisLabel: Date\n    yMin: 60\n    yMax: 80\n```\n"}
+		{"id":"fd48692ff7d8643c","x":-540,"y":-960,"width":460,"height":880,"color":"3","type":"text","text":"```tracker\nsearchType: frontmatter\nsearchTarget: sleep-hours\ndatasetName: Sleep\n\nline:\n    title: Sleep Hours\n    yAxisLabel: Hours\n    xAxisLabel: Date\n    yMin: 3\n    yMax: 10\n```\n\n\n```tracker\nsearchType: frontmatter\nsearchTarget: weight \ndatasetName: Sleep\n\nline:\n    title: Weight \n    yAxisLabel: Hours\n    xAxisLabel: Date\n    yMin: 60\n    yMax: 80\n```\n"},
+		{"id":"dd37373c7d0f8223","type":"file","file":"ToDo.md","x":-1360,"y":-960,"width":380,"height":780,"color":"3"}
 	],
 	"edges":[
 		{"id":"b90b365d27d01249","fromNode":"84faa5c57daf8cb0","fromSide":"bottom","toNode":"dd37373c7d0f8223","toSide":"bottom","label":"\n"}
