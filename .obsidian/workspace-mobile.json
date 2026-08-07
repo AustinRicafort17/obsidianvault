@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "001 HUB.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -186,10 +186,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "2026-08-06.md",
     "001 HUB.md",
     "2026-08-07.md",
     "Categories/Daily Notes.md",
-    "2026-08-06.md",
     "2026-08-05.md",
     "2026-08-04.md",
     "templates/daily note template.md",
