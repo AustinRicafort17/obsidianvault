@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Categories/Daily Notes.md",
-                "mode": "preview",
+                "file": "001 HUB.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Daily Notes"
+              "title": "001 HUB"
             }
           }
         ]
@@ -186,11 +186,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "2026-08-05.md",
     "Categories/Daily Notes.md",
+    "2026-08-07.md",
+    "2026-08-06.md",
+    "2026-08-05.md",
     "2026-08-04.md",
     "templates/daily note template.md",
-    "2026-08-07.md",
     "001 HUB.md",
     "Watchlist.md",
     "Categories/People.md",
@@ -209,7 +210,6 @@
     "Bases/journal.base",
     "Untitled.base",
     "templates/Journal Template.md",
-    "2026-08-06.md",
     "focus.md",
     "Flexbox.md",
     "Clippings/Introduction to Flexbox  The Odin Project.md",
