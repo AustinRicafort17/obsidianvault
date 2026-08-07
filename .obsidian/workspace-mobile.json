@@ -15,9 +15,9 @@
               "state": {
                 "file": "001 HUB 2.canvas",
                 "viewState": {
-                  "x": -780,
-                  "y": -519.9999999999999,
-                  "zoom": -1.9703291333236574
+                  "x": -1226.7307077373157,
+                  "y": -573.2053387874328,
+                  "zoom": -1.75804110798259
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -189,10 +189,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "ToDo.md",
-    "001 HUB 2.canvas",
-    "Attachments/Mainscreen.jpeg",
     "001 HUB.md",
+    "001 HUB 2.canvas",
+    "ToDo.md",
+    "Attachments/Mainscreen.jpeg",
     "Untitled.md",
     "2026-08-04.md",
     "2026-08-05.md",
