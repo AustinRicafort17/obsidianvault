@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "001 HUB.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "001 HUB"
