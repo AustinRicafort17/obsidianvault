@@ -6,7 +6,7 @@
     "rating": "number",
     ">3hoursscreentime": "checkbox",
     "meditation": "checkbox",
-    "study": "number",
+    "study": "checkbox",
     "study-time": "checkbox",
     "exercise": "checkbox"
   }
