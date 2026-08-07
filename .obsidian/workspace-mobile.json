@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "001 HUB 2.canvas",
-                "viewState": {
-                  "x": -250,
-                  "y": -159,
-                  "zoom": 0
-                }
+                "file": "001 HUB.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "001 HUB 2"
+              "icon": "lucide-file",
+              "title": "001 HUB"
             }
           }
         ]
@@ -189,8 +186,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "001 HUB.md",
     "001 HUB 2.canvas",
+    "001 HUB.md",
     "Untitled.md",
     "2026-08-04.md",
     "2026-08-05.md",
