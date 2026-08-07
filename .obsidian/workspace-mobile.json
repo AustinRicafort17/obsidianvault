@@ -15,7 +15,7 @@
               "state": {
                 "file": "001 HUB.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "001 HUB"
@@ -186,10 +186,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "templates/daily note template.md",
     "001 HUB.md",
     "Watchlist.md",
     "2026-08-07.md",
-    "templates/daily note template.md",
     "Categories/People.md",
     "Categories/Books.md",
     "Categories/Games.md",
