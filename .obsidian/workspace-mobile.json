@@ -15,7 +15,7 @@
               "state": {
                 "file": "001 HUB.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "001 HUB"
