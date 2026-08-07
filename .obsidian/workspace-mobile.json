@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "001 HUB.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "001 HUB"
@@ -186,8 +186,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "001 HUB.md",
     "2026-08-07.md",
+    "001 HUB.md",
     "2026-08-04.md",
     "templates/daily note template.md",
     "Watchlist.md",
