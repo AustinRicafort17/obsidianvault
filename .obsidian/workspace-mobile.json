@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "001 HUB.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -184,7 +184,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "f668fbb0aac15a07",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "2026-08-06.md",
     "001 HUB.md",
