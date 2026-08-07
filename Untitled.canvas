@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"dd37373c7d0f8223","x":-200,"y":-80,"width":400,"height":400,"type":"file","file":"ToDo.md"}
+		{"id":"dd37373c7d0f8223","type":"file","file":"ToDo.md","x":-480,"y":-360,"width":400,"height":400,"color":"3"}
 	],
 	"edges":[]
 }
