@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "001 HUB 2.canvas",
                 "viewState": {
-                  "x": -189.35293914371766,
-                  "y": -264.9946132561791,
-                  "zoom": -0.8509556306101508
+                  "x": -250,
+                  "y": -159,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "title": "001 HUB 2"
             }
           }
         ]
@@ -190,7 +190,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "001 HUB.md",
-    "Untitled.canvas",
+    "001 HUB 2.canvas",
     "Untitled.md",
     "2026-08-04.md",
     "2026-08-05.md",

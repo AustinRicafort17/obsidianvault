@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"dd37373c7d0f8223","type":"file","file":"ToDo.md","x":-480,"y":-360,"width":400,"height":400,"color":"3"},
+		{"id":"84faa5c57daf8cb0","type":"text","text":"```heatmap-tracker\nheatmapTitle: STUDY TIME\nproperty: study-time\nyear: 2026\nseparateMonths: true\nshowCurrentDayBorder: true\ncolorScheme:\n  customColors:\n    - \"#FFF176\"\n    - \"#FFCA28\"\n    - \"#FF9800\"\n    - \"#F4511E\"\n    - \"#D32F2F\"\n    - \"#8B0000\"\nintensityConfig:\n  scaleStart: 15\n  scaleEnd: 240\n```","x":-375,"y":-189,"width":250,"height":60}
+	],
+	"edges":[]
+}
