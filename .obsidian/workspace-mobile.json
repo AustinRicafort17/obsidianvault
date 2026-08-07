@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "HUB.md",
+            "file": "ToDo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -184,9 +184,11 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f668fbb0aac15a07",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "001 HUB.md",
+    "Untitled.md",
     "2026-08-04.md",
     "2026-08-05.md",
     "2026-08-06.md",
@@ -214,8 +216,6 @@
     "Flexbox.md",
     "Clippings/Introduction to Flexbox  The Odin Project.md",
     "The Odin Project.md",
-    "axes , alignments and gap.md",
-    "Test 2.md",
     "/templates",
     "Attachments/Darkisthesun.webp",
     "Attachments/Donquixote.jpeg",
