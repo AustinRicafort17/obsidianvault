@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "001 HUB 2.canvas",
-                "viewState": {
-                  "x": -543.5029686174726,
-                  "y": -84.12722646310442,
-                  "zoom": -1.771783453941577
-                }
+                "file": "001 HUB.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "001 HUB 2"
+              "icon": "lucide-file",
+              "title": "001 HUB"
             }
           }
         ]
