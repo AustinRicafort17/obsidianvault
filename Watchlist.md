@@ -6,4 +6,6 @@
 - [ ] [[Project Hail Mary]]
 - [ ] [[Obsession]]
 - [ ] [[Odyssey]]
-- [ ] 
+- [ ] [[Disclosure Day]]
+- [ ] [[The boy and the heron]]
+- [ ] [[]]
