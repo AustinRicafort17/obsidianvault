@@ -12,4 +12,5 @@
 - [ ] [[Supergirl(2026)]]
 - [ ] [[The lighthouse]]
 - [ ] [[Sinners]]
-- [ ] [[]]
+- [ ] [[Marty Supreme]]
+- [ ] [[The king]]
