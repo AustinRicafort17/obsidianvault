@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "001 HUB 2.canvas",
-                "viewState": {
-                  "x": -512.2938585161367,
-                  "y": -445.1785753315091,
-                  "zoom": -1.501815284419787
-                }
+                "file": "Project Hail Mary.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "001 HUB 2"
+              "icon": "lucide-file",
+              "title": "Project Hail Mary"
             }
           }
         ]
@@ -189,6 +186,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Watchlist.md",
+    "Project Hail Mary.md",
+    "001 HUB 2.canvas",
     "001 HUB.md",
     "Dark is the Sun.md",
     "HTML.md",
@@ -201,7 +201,6 @@
     "Categories/Daily Notes.md",
     "Categories/Books.md",
     "2026-08-08.md",
-    "001 HUB 2.canvas",
     "ToDo.md",
     "Attachments/Mainscreen.jpeg",
     "Untitled.md",
@@ -211,7 +210,6 @@
     "2026-08-07.md",
     "templates/daily note template.md",
     "templates/Games Template.md",
-    "Watchlist.md",
     "Game Stack.md",
     "Attachments/Gameposter.png",
     "Habits Template.md",
@@ -220,7 +218,6 @@
     "Bases/journal.base",
     "Untitled.base",
     "templates/Journal Template.md",
-    "focus.md",
     "/templates",
     "Attachments/Darkisthesun.webp",
     "Attachments/Donquixote.jpeg",

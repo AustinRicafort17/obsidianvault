@@ -5,3 +5,4 @@ category: "[[Movies]]"
 - [ ] Avatar : Fire and Ash
 - [ ] Hardcore Henry
 - [ ] Backrooms
+- [ ] [[Project Hail Mary]]
