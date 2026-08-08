@@ -113,7 +113,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ToDo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -182,11 +181,12 @@
   },
   "active": "c19a27d0d10aaa23",
   "lastOpenFiles": [
+    "001 HUB 2.canvas",
+    "2026-08-08.md",
     "Watchlist.md",
     "Categories/Movies.md",
     "Project Hail Mary.md",
     "Attachments/Projecthailmary.jpeg",
-    "001 HUB 2.canvas",
     "001 HUB.md",
     "Dark is the Sun.md",
     "HTML.md",
@@ -197,7 +197,6 @@
     "Categories/Games.md",
     "Categories/Daily Notes.md",
     "Categories/Books.md",
-    "2026-08-08.md",
     "ToDo.md",
     "Attachments/Mainscreen.jpeg",
     "Untitled.md",

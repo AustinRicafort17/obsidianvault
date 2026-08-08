@@ -1,6 +1,7 @@
 {
-  "cssTheme": "Ultra Lobster",
+  "cssTheme": "Obsidianite",
   "interfaceFontFamily": "Futura",
   "textFontFamily": "Futura",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "accentColor": "#ff4015"
 }
