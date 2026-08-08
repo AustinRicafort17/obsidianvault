@@ -8,6 +8,6 @@ rating: 5
 tags:
   - "#movie"
 category: "[[Movies]]"
-cover: movieposter.png
+cover: Projecthailmary.jpeg
 ---
 
