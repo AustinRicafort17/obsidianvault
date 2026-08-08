@@ -4,3 +4,6 @@
 - [ ] Hardcore Henry
 - [ ] Backrooms
 - [ ] [[Project Hail Mary]]
+- [ ] [[Obsession]]
+- [ ] [[Odyssey]]
+- [ ] 
