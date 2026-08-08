@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spider-man (the tom hollan movies).md",
+                "file": "Categories/Movies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spider-man (the tom hollan movies)"
+              "title": "Movies"
             }
           }
         ]
@@ -185,13 +185,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Project Hail Mary.md",
+    "Categories/Movies.md",
     "Watchlist.md",
     "Spider-man (the tom hollan movies).md",
-    "Categories/Movies.md",
     "001 HUB.md",
     "001 HUB 2.canvas",
     "2026-08-08.md",
-    "Project Hail Mary.md",
     "Attachments/Projecthailmary.jpeg",
     "Dark is the Sun.md",
     "HTML.md",

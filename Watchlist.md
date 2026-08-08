@@ -8,5 +8,5 @@
 - [ ] [[Odyssey]]
 - [ ] [[Disclosure Day]]
 - [ ] [[The boy and the heron]]
-- [ ] [[Spider-man (the tom hollan movies)]]
+- [ ] [[Spider-man (the tom holland movies)]]
 - [ ] 
