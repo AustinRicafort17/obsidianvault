@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Categories/Games.md",
-                "mode": "source",
-                "source": false
+                "file": "001 HUB 2.canvas",
+                "viewState": {
+                  "x": -341.4887510473799,
+                  "y": -808.0914633741158,
+                  "zoom": -0.5711880086107975
+                }
               },
-              "icon": "lucide-file",
-              "title": "Games"
+              "icon": "lucide-layout-dashboard",
+              "title": "001 HUB 2"
             }
           }
         ]
@@ -186,11 +189,19 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "001 HUB.md",
+    "Dark is the Sun.md",
+    "HTML.md",
+    "Categories/Study notes.md",
+    "Categories/People.md",
+    "Categories/Movies.md",
+    "Categories/Journal Entries.md",
+    "Categories/Goals.md",
+    "Categories/Games.md",
     "Categories/Daily Notes.md",
     "Categories/Books.md",
     "2026-08-08.md",
     "001 HUB 2.canvas",
-    "001 HUB.md",
     "ToDo.md",
     "Attachments/Mainscreen.jpeg",
     "Untitled.md",
@@ -201,13 +212,8 @@
     "templates/daily note template.md",
     "templates/Games Template.md",
     "Watchlist.md",
-    "Categories/People.md",
-    "Categories/Games.md",
     "Game Stack.md",
-    "Categories/Journal Entries.md",
     "Attachments/Gameposter.png",
-    "Categories/Movies.md",
-    "Categories/Goals.md",
     "Habits Template.md",
     "templates/Movie template.md",
     "Attachments/IMG_8540.gif",
@@ -215,8 +221,6 @@
     "Untitled.base",
     "templates/Journal Template.md",
     "focus.md",
-    "Flexbox.md",
-    "Clippings/Introduction to Flexbox  The Odin Project.md",
     "/templates",
     "Attachments/Darkisthesun.webp",
     "Attachments/Donquixote.jpeg",
