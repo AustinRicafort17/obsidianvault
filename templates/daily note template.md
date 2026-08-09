@@ -1,19 +1,2 @@
----
-created:
-weight:
-sleep-hours:
-mood:
-<<<<<<< HEAD
-study:
-exercise: false
-=======
-study-time:
-exercise:
-">3hoursscreentime":
->>>>>>> origin/main
-tags:
-  - dailynote
-category: "[[Daily Notes]]"
-meditation:
----
+
 
