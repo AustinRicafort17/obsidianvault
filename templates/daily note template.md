@@ -3,7 +3,7 @@ created:
 weight:
 sleep-hours:
 mood:
-study: false
+study:
 exercise: false
 tags:
   - dailynote
