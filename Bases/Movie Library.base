@@ -4,6 +4,9 @@ views:
     filters:
       and:
         - file.hasLink("Categories/Movies.md")
+    order:
+      - file.name
+      - rating
     image: note.cover
-    imageAspectRatio: 1.25
+    imageAspectRatio: 1.5
     cardSize: 140

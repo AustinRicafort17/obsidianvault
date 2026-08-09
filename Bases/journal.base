@@ -1,0 +1,10 @@
+views:
+  - type: list
+    name: Journal
+    filters:
+      and:
+        - file.hasLink("Journal Entries.md")
+    order:
+      - file.name
+      - file.ctime
+    indentProperties: true

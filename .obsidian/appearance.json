@@ -2,5 +2,6 @@
   "cssTheme": "AnuPpuccin",
   "interfaceFontFamily": "Futura",
   "textFontFamily": "Futura",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "accentColor": "#ff4015"
 }

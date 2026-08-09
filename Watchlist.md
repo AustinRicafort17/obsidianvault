@@ -1,6 +1,18 @@
----
-category: "[[Movies]]"
----
-- [ ] Avatar : The way of water
-- [ ] Avatar : Fire and Ash
-- [ ] Hardcore Henry
+[[ToDo]]
+- [ ] [[Avatar : The way of water]]
+- [ ] [[Avatar : Fire and Ash]]
+- [ ] [[Hardcore Henry]]
+- [ ] [[Backrooms]]
+- [ ] [[Project Hail Mary]]
+- [ ] [[Obsession]]
+- [ ] [[Odyssey]]
+- [ ] [[Disclosure Day]]
+- [ ] [[The boy and the heron]]
+- [ ] [[Spider-man (the tom holland movies)]]
+- [ ] [[Supergirl(2026)]]
+- [ ] [[The lighthouse]]
+- [ ] [[Sinners]]
+- [ ] [[Marty Supreme]]
+- [ ] [[The king]]
+- [ ] [[The gorge]]
+- [ ] [[Odd thomas]]

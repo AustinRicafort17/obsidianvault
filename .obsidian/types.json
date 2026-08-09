@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "rating": "number",
+    ">3hoursscreentime": "checkbox",
+    "meditation": "checkbox",
+    "study": "checkbox",
+    "study-time": "number",
+    "exercise": "checkbox"
+  }
+}

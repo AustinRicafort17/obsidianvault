@@ -6,7 +6,7 @@ genre:
 description:
 rating:
 created:
-cover: bookcover.png
+cover: Gameposter.png
 tags:
   - Game
 category: "[[Games]]"

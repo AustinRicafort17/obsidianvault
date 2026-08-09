@@ -4,6 +4,7 @@ views:
     filters:
       and:
         - file.hasLink("Categories/Games.md")
+        - file.hasTag("Game")
     cardSize: 140
     imageAspectRatio: 1.25
     image: note.cover
