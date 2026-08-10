@@ -2,7 +2,7 @@
   "version": 4,
   "homepages": {
     "Main Homepage": {
-      "value": "001 HUB",
+      "value": "001 HUB.canvas",
       "kind": "File",
       "openOnStartup": true,
       "openMode": "Replace all open notes",
