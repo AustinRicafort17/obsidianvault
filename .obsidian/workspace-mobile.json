@@ -15,9 +15,9 @@
               "state": {
                 "file": "001 HUB.canvas",
                 "viewState": {
-                  "x": -780,
-                  "y": -500,
-                  "zoom": -1.5153880246113127
+                  "x": -400,
+                  "y": -610,
+                  "zoom": -1.6484010384362948
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -186,11 +186,12 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f668fbb0aac15a07",
   "lastOpenFiles": [
+    "/Fitness.md",
+    "001 HUB.canvas",
     "2026-08-08.md",
     "Categories/Games.md",
-    "001 HUB.canvas",
     "001 HUB.md",
     "Watchlist.md",
     "Categories/Movies.md",
