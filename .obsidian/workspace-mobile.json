@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "001 HUB.canvas",
-                "viewState": {
-                  "x": -400,
-                  "y": -610,
-                  "zoom": -1.6484010384362948
-                }
+                "file": "2026-08-12.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "001 HUB"
+              "icon": "lucide-file",
+              "title": "2026-08-12"
             }
           }
         ]
@@ -186,10 +183,12 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "f668fbb0aac15a07",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "/Fitness.md",
     "001 HUB.canvas",
+    "2026-08-12.md",
+    "Fitness.md",
+    "/Fitness.md",
     "2026-08-08.md",
     "Categories/Games.md",
     "001 HUB.md",
@@ -214,10 +213,7 @@
     "2026-08-06.md",
     "2026-08-07.md",
     "templates/daily note template.md",
-    "templates/Games Template.md",
-    "Game Stack.md",
     "Attachments/Gameposter.png",
-    "Habits Template.md",
     "Attachments/IMG_8540.gif",
     "Bases/journal.base",
     "Untitled.base",
