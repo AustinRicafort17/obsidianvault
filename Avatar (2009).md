@@ -13,4 +13,4 @@ cover: Avatar2009.jpeg
 - Peak movie viewing experience, anyone who has a home theater MUST have this(and its sequels) on their movie library.
 - CGI is the best almost 20 years later!
 - Story is good. very anti-imperialism , pro nature. Although I disagree that the movie portrays humans as violent and greedy....on second thought, I kind of agree with that. But, I believe a future for humans like that would be unlikely.
-- The character designs are PEAK. The Na'vi being tall slender forest people with body markings that glow, hair links and their culture are obviously well thought out. The animals that inhabit the forest with them 
+- The character designs are PEAK. The Na'vi being tall slender forest people with body markings that glow, hair links and their culture are obviously well thought out. The animals that inhabit the forest with them are clearly also inspired by real life animals yet still feel "alien". Not much "fur" on these animals though 
