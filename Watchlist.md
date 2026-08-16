@@ -1,6 +1,6 @@
 [[ToDo]]
 - [x] [[Avatar (2009)]]
-- [x] [[Avatar : The way of water]]
+- [ ] [[Avatar:The way of water]]
 - [x] [[Avatar : Fire and Ash]]
 - [ ] [[Hardcore Henry]]
 - [ ] [[Backrooms]]
