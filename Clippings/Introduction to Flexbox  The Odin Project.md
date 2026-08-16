@@ -8,6 +8,9 @@ description: The Odin Project empowers aspiring web developers to learn together
 tags:
   - clippings
 category: "[[Study notes]]"
+related-notes:
+  - "[[The Odin Project]]"
+  - "[[CSS]]"
 ---
 ### Introduction
 
