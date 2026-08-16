@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Categories/Movies.md",
+                "file": "ToDo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Movies"
+              "title": "ToDo"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Project Hail Mary.md",
+    "Watchlist.md",
     "Categories/Movies.md",
+    "Project Hail Mary.md",
     "templates/Movie template.md",
     "001 HUB.canvas",
     "Avatar (2009).md",
@@ -194,7 +195,6 @@
     "Attachments/Fireandash.jpeg",
     "Avatar,The way of water.md",
     "Attachments/Wayofwater.jpeg",
-    "Watchlist.md",
     "Attachments/Avatar2009.jpeg",
     "Attachments/Pasted image 20260805061119.png",
     "Attachments/Pasted image 20260805061534.png",
