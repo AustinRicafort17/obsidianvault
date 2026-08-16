@@ -8,5 +8,5 @@ rating: 4
 tags:
   - "#movie"
 category: "[[Movies]]"
-cover: movieposter.png
+cover: Wayofwater.jpeg
 ---

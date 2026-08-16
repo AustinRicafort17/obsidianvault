@@ -4,6 +4,7 @@ views:
     filters:
       and:
         - file.hasLink("Categories/Movies.md")
+        - file.hasProperty("title")
     order:
       - file.name
       - rating
