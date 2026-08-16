@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Avatar (2009).md",
-                "mode": "source",
-                "source": false
+                "file": "001 HUB.canvas",
+                "viewState": {
+                  "x": -40.95418520755629,
+                  "y": -260.58557561982246,
+                  "zoom": -0.8683709091062363
+                }
               },
-              "icon": "lucide-file",
-              "title": "Avatar (2009)"
+              "icon": "lucide-layout-dashboard",
+              "title": "001 HUB"
             }
           }
         ]
@@ -185,6 +188,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Avatar (2009).md",
     "Categories/Movies.md",
     "Avatar,Fire and Ash.md",
     "Attachments/Fireandash.jpeg",
@@ -193,7 +197,6 @@
     "Avatar,The way of water.md",
     "Attachments/Wayofwater.jpeg",
     "Watchlist.md",
-    "Avatar (2009).md",
     "Attachments/Avatar2009.jpeg",
     "Attachments/Pasted image 20260805061119.png",
     "Attachments/Pasted image 20260805061534.png",
