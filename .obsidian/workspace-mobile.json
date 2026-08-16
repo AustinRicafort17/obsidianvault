@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Avatar,Fire and Ash.md",
+                "file": "Categories/Movies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Avatar,Fire and Ash"
+              "title": "Movies"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Categories/Movies.md",
     "Avatar,Fire and Ash.md",
+    "Attachments/Fireandash.jpeg",
+    "Categories/Movies.md",
     "Project Hail Mary.md",
     "templates/Movie template.md",
     "Avatar,The way of water.md",
@@ -217,7 +218,6 @@
     "test.md",
     "/test.md",
     "Don Quixote.md",
-    "Game Stack.md",
     "Attachments/Projecthailmary.jpeg",
     "Attachments/Mainscreen.jpeg",
     "Attachments/Gameposter.png",
@@ -226,7 +226,6 @@
     "Untitled.base",
     "/templates",
     "Attachments/Darkisthesun.webp",
-    "Attachments/Donquixote.jpeg",
     "Bases/games.base",
     "Clippings",
     "/Bases/Study.base",
