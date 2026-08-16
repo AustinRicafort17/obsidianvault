@@ -8,6 +8,8 @@
     "meditation": "checkbox",
     "study": "checkbox",
     "study-time": "number",
-    "exercise": "checkbox"
+    "exercise": "checkbox",
+    "date-watched": "date",
+    "release-date": "date"
   }
 }

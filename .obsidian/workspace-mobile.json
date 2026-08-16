@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Movie template.md",
+                "file": "Avatar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Movie template"
+              "title": "Avatar"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "templates/Movie template.md",
     "templates/Journal Template.md",
     "Categories/Movies.md",
     "Avatar.md",
@@ -213,7 +214,6 @@
     "Game Stack.md",
     "2026-08-12.md",
     "Fitness.md",
-    "/Fitness.md",
     "Attachments/Projecthailmary.jpeg",
     "Attachments/Mainscreen.jpeg",
     "Attachments/Gameposter.png",
