@@ -10,4 +10,4 @@ tags:
 category: "[[Movies]]"
 cover: Avatar2009.jpeg
 ---
-Am amazing movie viewing experience . The CGI is to this day unmatched , I
+Am amazing movie viewing experience . The CGI is to this day unmatched , I can't believe this came out in 2009 
