@@ -1,13 +1,12 @@
 ---
 title: Avatar
-description:
+synopsis:
 genre:
-date-watched:
-release-date:
-rating: 5
+date-watched: 2026-08-01
+release-date: 2009-12-18
+rating: 4
 tags:
   - "#movie"
 category: "[[Movies]]"
 cover: movieposter.png
-synopsis:
 ---
