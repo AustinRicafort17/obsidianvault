@@ -4,7 +4,7 @@ description:
 genre:
 date-watched:
 release-date:
-rating: 5
+rating: 4
 tags:
   - "#movie"
 category: "[[Movies]]"
