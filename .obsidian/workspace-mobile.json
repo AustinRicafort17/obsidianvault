@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Categories/Movies.md",
+                "file": "Avatar (2009).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Movies"
+              "title": "Avatar (2009)"
             }
           }
         ]
@@ -185,9 +185,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Categories/Movies.md",
     "Avatar,Fire and Ash.md",
     "Attachments/Fireandash.jpeg",
-    "Categories/Movies.md",
     "Project Hail Mary.md",
     "templates/Movie template.md",
     "Avatar,The way of water.md",
