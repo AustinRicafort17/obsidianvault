@@ -11,12 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/IMG_8619.jpeg"
+                "file": "Categories/Movies.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "IMG_8619"
+              "icon": "lucide-file",
+              "title": "Movies"
             }
           }
         ]
@@ -183,10 +185,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Avatar (2009).md",
+    "Attachments/Avatar2009.jpeg",
     "Attachments/Pasted image 20260805061119.png",
     "Attachments/Pasted image 20260805061534.png",
-    "Avatar (2009).md",
-    "Attachments/IMG_8619.jpeg",
     "templates/Movie template.md",
     "templates/Journal Template.md",
     "Categories/Movies.md",
@@ -228,7 +230,6 @@
     "/Bases/Study.base",
     "/Bases",
     "/Attachments/Pasted image 20260805061534.png",
-    "/Attachments/Pasted image 20260805061119.png",
     "/Attachments",
     "Bases/goals.base"
   ]
