@@ -10,4 +10,4 @@ tags:
 category: "[[Movies]]"
 cover: Avatar2009.jpeg
 ---
-- Peak movie viewing experience, anyone who
+Peak movie viewing experience, anyone who would want to 
