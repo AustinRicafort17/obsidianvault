@@ -16,7 +16,7 @@
                 "file": "001 HUB.canvas",
                 "viewState": {
                   "x": -400,
-                  "y": -610,
+                  "y": -500,
                   "zoom": -1.6484010384362948
                 }
               },
@@ -188,10 +188,19 @@
   },
   "active": "f668fbb0aac15a07",
   "lastOpenFiles": [
+    "/ToDo.md",
+    "/Clippings/Variables and Operators  The Odin Project.md",
+    "/Clippings/Introduction to Flexbox  The Odin Project.md",
+    "/Clippings/Color Theory for Noobs  Beginner Guide.md",
+    "Clippings/Color Theory for Noobs  Beginner Guide.md",
+    "/Clippings",
+    "/2026-08-17.md",
+    "/2026-08-14.md",
+    "/2026-08-13.md",
     "/001 HUB.canvas",
+    "001 HUB.canvas",
     "test.md",
     "/test.md",
-    "001 HUB.canvas",
     "Don Quixote.md",
     "Project Hail Mary.md",
     "Game Stack.md",
@@ -209,14 +218,7 @@
     "Attachments/Projecthailmary.jpeg",
     "Dark is the Sun.md",
     "HTML.md",
-    "Categories/Study notes.md",
-    "Categories/People.md",
-    "Categories/Journal Entries.md",
-    "Categories/Books.md",
-    "ToDo.md",
     "Attachments/Mainscreen.jpeg",
-    "Untitled.md",
-    "2026-08-04.md",
     "Attachments/Gameposter.png",
     "Attachments/IMG_8540.gif",
     "Bases/journal.base",
@@ -233,7 +235,6 @@
     "/Attachments/Pasted image 20260805061119.png",
     "Attachments/Pasted image 20260805061119.png",
     "/Attachments",
-    "/Clippings",
     "Bases/goals.base"
   ]
 }
