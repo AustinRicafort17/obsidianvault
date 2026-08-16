@@ -1,6 +1,6 @@
 ---
-title: Project Hail Mary
-description:
+title:
+synopsis:
 genre:
 date-watched:
 release-date:
@@ -8,6 +8,5 @@ rating: 5
 tags:
   - "#movie"
 category: "[[Movies]]"
-cover: Projecthailmary.jpeg
+cover: movieposter.png
 ---
-
