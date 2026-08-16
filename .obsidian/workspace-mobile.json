@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "001 HUB.canvas",
-                "viewState": {
-                  "x": -400,
-                  "y": -500,
-                  "zoom": -1.6484010384362948
-                }
+                "file": "Clippings/Color Theory for Noobs  Beginner Guide.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "001 HUB"
+              "icon": "lucide-file",
+              "title": "Color Theory for Noobs  Beginner Guide"
             }
           }
         ]
@@ -186,8 +183,15 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "f668fbb0aac15a07",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Categories/Journal Entries.md",
+    "Categories/Daily Notes.md",
+    "2026-08-17.md",
+    "001 HUB.canvas",
+    "2026-08-13.md",
+    "2026-08-14.md",
+    "Clippings/Variables and Operators  The Odin Project.md",
     "/ToDo.md",
     "/Clippings/Variables and Operators  The Odin Project.md",
     "/Clippings/Introduction to Flexbox  The Odin Project.md",
@@ -198,13 +202,11 @@
     "/2026-08-14.md",
     "/2026-08-13.md",
     "/001 HUB.canvas",
-    "001 HUB.canvas",
     "test.md",
     "/test.md",
     "Don Quixote.md",
     "Project Hail Mary.md",
     "Game Stack.md",
-    "Categories/Daily Notes.md",
     "2026-08-12.md",
     "Fitness.md",
     "/Fitness.md",
@@ -212,12 +214,7 @@
     "Categories/Games.md",
     "001 HUB.md",
     "Watchlist.md",
-    "Categories/Movies.md",
-    "Categories/Goals.md",
-    "Spider-man (the tom hollan movies).md",
     "Attachments/Projecthailmary.jpeg",
-    "Dark is the Sun.md",
-    "HTML.md",
     "Attachments/Mainscreen.jpeg",
     "Attachments/Gameposter.png",
     "Attachments/IMG_8540.gif",
