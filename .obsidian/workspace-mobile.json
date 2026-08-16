@@ -11,14 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Avatar (2009).md",
-                "mode": "source",
-                "source": false
+                "file": "Attachments/IMG_8619.jpeg"
               },
-              "icon": "lucide-file",
-              "title": "Avatar (2009)"
+              "icon": "lucide-image",
+              "title": "IMG_8619"
             }
           }
         ]
@@ -185,8 +183,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "templates/Movie template.md",
+    "Attachments/Pasted image 20260805061119.png",
+    "Attachments/Pasted image 20260805061534.png",
     "Avatar (2009).md",
+    "Attachments/IMG_8619.jpeg",
+    "templates/Movie template.md",
     "templates/Journal Template.md",
     "Categories/Movies.md",
     "Watchlist.md",
@@ -213,7 +214,6 @@
     "Project Hail Mary.md",
     "Game Stack.md",
     "2026-08-12.md",
-    "Fitness.md",
     "Attachments/Projecthailmary.jpeg",
     "Attachments/Mainscreen.jpeg",
     "Attachments/Gameposter.png",
@@ -224,13 +224,11 @@
     "Attachments/Darkisthesun.webp",
     "Attachments/Donquixote.jpeg",
     "Bases/games.base",
-    "Attachments/Pasted image 20260805061534.png",
     "Clippings",
     "/Bases/Study.base",
     "/Bases",
     "/Attachments/Pasted image 20260805061534.png",
     "/Attachments/Pasted image 20260805061119.png",
-    "Attachments/Pasted image 20260805061119.png",
     "/Attachments",
     "Bases/goals.base"
   ]
