@@ -1,6 +1,6 @@
 ---
 title:
-description:
+synopsis:
 genre:
 date-watched:
 release-date:

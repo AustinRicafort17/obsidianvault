@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Avatar.md",
+                "file": "templates/Movie template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Avatar"
+              "title": "Movie template"
             }
           }
         ]
@@ -185,10 +185,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Avatar (2009).md",
     "templates/Movie template.md",
     "templates/Journal Template.md",
     "Categories/Movies.md",
-    "Avatar.md",
     "Watchlist.md",
     "Categories/Daily Notes.md",
     "Clippings/Color Theory for Noobs  Beginner Guide.md",

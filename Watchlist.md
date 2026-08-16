@@ -1,5 +1,5 @@
 [[ToDo]]
-- [x] [[Avatar]]
+- [x] [[Avatar (2009)]]
 - [x] [[Avatar : The way of water]]
 - [x] [[Avatar : Fire and Ash]]
 - [ ] [[Hardcore Henry]]
