@@ -10,4 +10,4 @@ tags:
 category: "[[Movies]]"
 cover: Avatar2009.jpeg
 ---
-Am amazing movie v
+Am amazing movie viewing experience . The CGI is to this day unmatched , I
