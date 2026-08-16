@@ -12,4 +12,4 @@ cover: Avatar2009.jpeg
 ---
 - Peak movie viewing experience, anyone who has a home theater MUST have this(and its sequels) on their movie library.
 - CGI is the best almost 20 years later!
-- Sto
+- Story is good, very anti imperialist  
