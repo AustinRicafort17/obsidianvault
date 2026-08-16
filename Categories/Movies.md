@@ -3,7 +3,7 @@
 
 
 ### Ratings
-5 - PERFECT, LIFE CHANGING ,ABSOLUTE CINEMA
+5 - PERFECT, LIFE CHANGING
 ![[IMG_8540.gif]]
 
 4 - Great, Very impressive, will be thinking/thought about it for a long time
