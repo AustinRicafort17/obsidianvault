@@ -10,3 +10,4 @@ tags:
 category: "[[Movies]]"
 cover: Avatar2009.jpeg
 ---
+Am amazing movie v
