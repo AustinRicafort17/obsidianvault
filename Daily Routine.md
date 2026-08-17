@@ -30,6 +30,5 @@ Dedicated Hours of focused studying(not including passive learning)
 (11hrs40mins/month)
 
 
-SATURDAYS 
-
+*SATURDAYS AND SUNDAYS a
 
