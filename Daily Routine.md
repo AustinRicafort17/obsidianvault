@@ -17,3 +17,7 @@ category: "[[Goals]]"
 21:00 - 21:30 workout 
 21:30 - 22:00 shower, skincare & bed reading 
 22:30 💤 
+
+Japanese studying = 35 minutes 
+Web Dev = 35 minutes 
+Working out = 30 minutes 
