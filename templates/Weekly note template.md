@@ -1,4 +1,5 @@
 ---
-created: 2026-08-17
+created:
+category: "[[Journal Entries]]"
 ---
 
