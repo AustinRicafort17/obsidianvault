@@ -15,4 +15,5 @@ category: "[[Goals]]"
 12:55 - 20:30 work
 20:30 - 21:00 dinner & dishes
 21:00 - 21:30 workout 
-21:30
+21:30 - 22:00 shower, skincare & bed reading 
+22:30 💤 
