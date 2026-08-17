@@ -13,3 +13,5 @@ category: "[[Goals]]"
 12:05 - 12:20 lunch & tooth brush 
 12:20 - 12:55 Study (35 mins)
 12:55 - 20:30 work
+20:30 - 21:00 dinner & dishes
+21
