@@ -8,4 +8,5 @@ category: "[[Goals]]"
 6:15 - 6:50 Study (35 mins)
 6:50 - 7:00 Cold Shower
 7:00 - 7:15 Skincare , Breakfast & Vitamins 
-7
+7:15 - 8:25 Japanese listening
+8:25 - 12:05 
