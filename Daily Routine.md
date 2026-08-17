@@ -19,14 +19,15 @@ category: "[[Goals]]"
 22:30 💤 
 
 Dedicated Hours of focused studying(not including passive learning)
-Japanese studying = 35 minutes (2hrs55mins/week)
+==Japanese studying== 
+(35mins/weekday)
+(2hrs55mins/week)
 (11hrs40mins/month)
-Web Dev = 35 minutes 
+==Web Dev== 
+(35mins/weekday)
 (2hrs55mins/week)
 (11hrs40mins/month)
 
-Working out = 30 minutes 
-(2hrs30 mins/week)
-(10hrs/month)
+
 
 
