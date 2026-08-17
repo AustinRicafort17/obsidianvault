@@ -48,9 +48,26 @@
               "icon": "lucide-file",
               "title": "Daily Routine"
             }
+          },
+          {
+            "id": "5becb55ec07022ac",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "001 HUB.canvas",
+                "viewState": {
+                  "x": -390,
+                  "y": -500,
+                  "zoom": -1.6739361305434324
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "001 HUB"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +163,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Routine.md",
+            "file": "001 HUB.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -213,10 +230,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "7e5d8a23ab74ae6b",
+  "active": "5becb55ec07022ac",
   "lastOpenFiles": [
-    "Categories/Goals.md",
     "Daily Routine.md",
+    "Categories/Goals.md",
     "Weekly Routine.md",
     "001 HUB.canvas",
     "templates/Weekly note template.md",
