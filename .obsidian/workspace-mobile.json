@@ -25,17 +25,28 @@
             "id": "c549e6f93c009954",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "001 HUB.canvas",
-                "viewState": {
-                  "x": -390,
-                  "y": -500,
-                  "zoom": -1.6739361305434324
-                }
+                "file": "Categories/Goals.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "001 HUB"
+              "icon": "lucide-file",
+              "title": "Goals"
+            }
+          },
+          {
+            "id": "8a176474a23bacb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Categories/Daily Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Daily Notes"
             }
           },
           {
@@ -149,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Routine.md",
+            "file": "Categories/Daily Notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -216,10 +227,13 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "d31d43eb12643fd0",
+  "active": "8a176474a23bacb1",
   "lastOpenFiles": [
-    "001 HUB.canvas",
+    "2026-W34.md",
+    "Untitled.md",
+    "Categories/Goals.md",
     "Daily Routine.md",
+    "001 HUB.canvas",
     "2026-08-17.md",
     "ToDo.md",
     "Watchlist.md",
@@ -248,9 +262,7 @@
     "/Clippings",
     "/2026-08-17.md",
     "/2026-08-14.md",
-    "/2026-08-13.md",
     "/001 HUB.canvas",
-    "test.md",
     "Attachments/Projecthailmary.jpeg",
     "Attachments/Mainscreen.jpeg",
     "Attachments/Gameposter.png",
