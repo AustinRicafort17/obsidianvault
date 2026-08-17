@@ -4,81 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "1f65c7642a367d22",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "0a859927f9c6cf82",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Daily Routine.md",
-                "mode": "source",
-                "source": false
+                "file": "001 HUB.canvas",
+                "viewState": {
+                  "x": -380,
+                  "y": -500,
+                  "zoom": -1.6990271115062627
+                }
               },
-              "icon": "lucide-file",
-              "title": "Daily Routine"
-            }
-          },
-          {
-            "id": "1cbb960f65e713c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Routine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Daily Routine"
-            }
-          },
-          {
-            "id": "7e5d8a23ab74ae6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Routine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Daily Routine"
-            }
-          },
-          {
-            "id": "5becb55ec07022ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Routine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Daily Routine"
-            }
-          },
-          {
-            "id": "c4c0270483f416ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-08-17.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-08-17"
+              "icon": "lucide-layout-dashboard",
+              "title": "001 HUB"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,7 +120,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2026-08-17.md",
+            "file": "001 HUB.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -241,8 +187,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "c4c0270483f416ff",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "001 HUB.canvas",
+    "2026-08-17.md",
     "Categories/Daily Notes.md",
     "2026-08-06.md",
     "ToDo.md",
@@ -250,10 +198,8 @@
     "Weekly Routine.md",
     "Categories/Goals.md",
     "Daily Routine.md",
-    "001 HUB.canvas",
     "templates/Weekly note template.md",
     "2026-W34.md",
-    "2026-08-17.md",
     "templates/Monthly note template.md",
     "templates/Yearly note template.md",
     "Categories/Movies.md",
@@ -274,7 +220,6 @@
     "2026-08-14.md",
     "Clippings/Variables and Operators  The Odin Project.md",
     "/ToDo.md",
-    "/Clippings/Variables and Operators  The Odin Project.md",
     "/Clippings",
     "/001 HUB.canvas",
     "Attachments/Projecthailmary.jpeg",
