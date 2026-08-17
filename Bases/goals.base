@@ -4,4 +4,7 @@ views:
     filters:
       and:
         - file.hasLink("Categories/Goals.md")
+    sort:
+      - property: file.mtime
+        direction: DESC
     indentProperties: true

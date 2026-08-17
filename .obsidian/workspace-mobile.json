@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Categories/Goals.md",
+                "file": "Daily Routine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Goals"
+              "title": "Daily Routine"
             }
           }
         ],
@@ -146,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Categories/Goals.md",
+            "file": "Daily Routine.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -215,8 +215,8 @@
   },
   "active": "7e5d8a23ab74ae6b",
   "lastOpenFiles": [
-    "Daily Routine.md",
     "Categories/Goals.md",
+    "Daily Routine.md",
     "Weekly Routine.md",
     "001 HUB.canvas",
     "templates/Weekly note template.md",

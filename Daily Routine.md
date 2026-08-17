@@ -2,6 +2,7 @@
 created: 2026-08-17
 category: "[[Goals]]"
 ---
+MONDAY to FRIDAY 
 8/17 - 8/21(temp)
 6:00 get up
 6:00 - 6-15 prep
@@ -29,6 +30,6 @@ Dedicated Hours of focused studying(not including passive learning)
 (11hrs40mins/month)
 
 
-
+SATURDAYS 
 
 
