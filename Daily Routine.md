@@ -10,4 +10,6 @@ category: "[[Goals]]"
 7:00 - 7:15 Skincare , Breakfast & Vitamins 
 7:15 - 8:25 Japanese listening
 8:25 - 12:05 work
-12:05 - 
+12:05 - 12:20 lunch & tooth brush 
+12:20 - 12:55 Study (35 mins)
+12:55 - 20:30 work
