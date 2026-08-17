@@ -1,0 +1,5 @@
+---
+category: "[[Goals]]"
+---
+Monday 
+-
