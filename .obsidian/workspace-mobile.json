@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Routine.md",
+                "file": "2026-08-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily Routine"
+              "title": "2026-08-17"
             }
           }
         ],
@@ -174,7 +174,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Routine.md",
+            "file": "2026-08-17.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -243,18 +243,19 @@
   },
   "active": "c4c0270483f416ff",
   "lastOpenFiles": [
-    "001 HUB.canvas",
-    "Daily Routine.md",
-    "Categories/Goals.md",
+    "Categories/Daily Notes.md",
+    "2026-08-06.md",
+    "ToDo.md",
+    "Watchlist.md",
     "Weekly Routine.md",
+    "Categories/Goals.md",
+    "Daily Routine.md",
+    "001 HUB.canvas",
     "templates/Weekly note template.md",
     "2026-W34.md",
     "2026-08-17.md",
     "templates/Monthly note template.md",
     "templates/Yearly note template.md",
-    "Categories/Daily Notes.md",
-    "ToDo.md",
-    "Watchlist.md",
     "Categories/Movies.md",
     "Project Hail Mary.md",
     "templates/Movie template.md",
