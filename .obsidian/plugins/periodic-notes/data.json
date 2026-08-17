@@ -10,13 +10,13 @@
   },
   "weekly": {
     "format": "",
-    "template": "Categories/Daily Notes.md",
+    "template": "templates/Weekly note template.md",
     "folder": "/",
     "enabled": true
   },
   "monthly": {
     "format": "",
-    "template": "Categories/Daily Notes.md",
+    "template": "templates/Monthly note template.md",
     "folder": "/",
     "enabled": true
   },
