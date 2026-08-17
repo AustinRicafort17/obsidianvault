@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "ToDo.md",
-                "mode": "source",
-                "source": false
+                "file": "001 HUB.canvas",
+                "viewState": {
+                  "x": -390,
+                  "y": -500,
+                  "zoom": -1.6739361305434324
+                }
               },
-              "icon": "lucide-file",
-              "title": "ToDo"
+              "icon": "lucide-layout-dashboard",
+              "title": "001 HUB"
             }
           }
         ]
@@ -185,6 +188,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "ToDo.md",
     "Watchlist.md",
     "Categories/Movies.md",
     "Project Hail Mary.md",
