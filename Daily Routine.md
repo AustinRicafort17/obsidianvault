@@ -19,7 +19,10 @@ category: "[[Goals]]"
 22:30 💤 
 
 Japanese studying = 35 minutes (175mins/week)
+
 Web Dev = 35 minutes 
-(175/mins/week)
+(175mins/week)
+
 Working out = 30 minutes 
+(2hrs30 mins/week)
 
