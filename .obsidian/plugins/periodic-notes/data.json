@@ -28,7 +28,7 @@
   },
   "yearly": {
     "format": "",
-    "template": "templates/daily note template.md",
+    "template": "templates/Yearly note template.md",
     "folder": "/",
     "enabled": true
   }
