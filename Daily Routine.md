@@ -9,4 +9,5 @@ category: "[[Goals]]"
 6:50 - 7:00 Cold Shower
 7:00 - 7:15 Skincare , Breakfast & Vitamins 
 7:15 - 8:25 Japanese listening
-8:25 - 12:05 
+8:25 - 12:05 work
+12:05 - 
