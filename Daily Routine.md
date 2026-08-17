@@ -32,8 +32,7 @@ Dedicated Hours of focused studying(not including passive learning)
 - 2hrs/weekend
 - 19hrs40mins/month
 
-
 ==Web Dev== 
 - 35mins/weekday
 - 4hrs/weekend
-- 
+- 27hrs40mins/month
