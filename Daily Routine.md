@@ -18,9 +18,9 @@ category: "[[Goals]]"
 21:30 - 22:00 shower, skincare & bed reading 
 22:30 💤 
 
+Dedicated Hours of focused studying(not including passive learning)
 Japanese studying = 35 minutes (2hrs55mins/week)
 (11hrs40mins/month)
-
 Web Dev = 35 minutes 
 (2hrs55mins/week)
 (11hrs40mins/month)
@@ -28,4 +28,5 @@ Web Dev = 35 minutes
 Working out = 30 minutes 
 (2hrs30 mins/week)
 (10hrs/month)
+
 
