@@ -8,7 +8,7 @@ category: "[[Goals]]"
 6:15 - 6:50 Study (35 mins)
 6:50 - 7:00 Cold Shower
 7:00 - 7:15 Skincare , Breakfast & Vitamins 
-7:15 - 8:25 Japanese listening
+7:15 - 8:25 Japanese listening & Journaling
 8:25 - 12:05 work
 12:05 - 12:20 lunch & tooth brush 
 12:20 - 12:55 Study (35 mins)
@@ -27,6 +27,7 @@ Dedicated Hours of focused studying(not including passive learning)
 (35mins/weekday)
 (2hrs55mins/week)
 (11hrs40mins/month)
+
 
 
 
