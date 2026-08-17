@@ -19,6 +19,13 @@ MONDAY to FRIDAY
 21:30 - 22:00 shower, skincare & bed reading 
 22:30 💤 
 
+
+*SATURDAYS AND SUNDAYS are inconsistent because of my driving school but I need at least:
+- [ ] 2 hours of webdev study
+- [ ] 1 hour of Japanese study
+
+
+
 Dedicated Hours of focused studying(not including passive learning)
 ==Japanese studying== 
 (35mins/weekday)
@@ -28,10 +35,3 @@ Dedicated Hours of focused studying(not including passive learning)
 (35mins/weekday)
 (2hrs55mins/week)
 (11hrs40mins/month)
-
-
-*SATURDAYS AND SUNDAYS are inconsistent because of my driving school but I need at least:
-- [ ] 2 hours of dedicated 
-
-
-
