@@ -29,10 +29,10 @@ MONDAY to FRIDAY
 Dedicated Hours of focused studying(not including passive learning)
 ==Japanese studying== 
 - 35mins/weekday
-- 2hrs/weekend
+- 2hrs on weekends
 - 19hrs40mins/month
 
 ==Web Dev== 
 - 35mins/weekday
-- 4hrs/weekend
+- 4hrs on weekends 
 - 27hrs40mins/month
