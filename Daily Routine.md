@@ -30,5 +30,8 @@ Dedicated Hours of focused studying(not including passive learning)
 (11hrs40mins/month)
 
 
-*SATURDAYS AND SUNDAYS a
+*SATURDAYS AND SUNDAYS are inconsistent because of my driving school but I need at least:
+- [ ] 2 hours of dedicated 
+
+
 
