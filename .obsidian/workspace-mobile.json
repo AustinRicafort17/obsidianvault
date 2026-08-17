@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "001 HUB.canvas",
-                "viewState": {
-                  "x": -380,
-                  "y": -500,
-                  "zoom": -1.6990271115062627
-                }
+                "file": "2026-08-18.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "001 HUB"
+              "icon": "lucide-file",
+              "title": "2026-08-18"
             }
           }
         ]
@@ -190,6 +187,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "001 HUB.canvas",
+    "2026-08-18.md",
     "2026-08-17.md",
     "Categories/Daily Notes.md",
     "2026-08-06.md",
@@ -219,7 +217,6 @@
     "2026-08-13.md",
     "2026-08-14.md",
     "Clippings/Variables and Operators  The Odin Project.md",
-    "/ToDo.md",
     "/Clippings",
     "/001 HUB.canvas",
     "Attachments/Projecthailmary.jpeg",
