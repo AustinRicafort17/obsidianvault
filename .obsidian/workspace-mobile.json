@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 📒Dashboard & Categories/Books.md",
+                "file": "01 📒Dashboard & Categories/Movies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Books"
+              "title": "Movies"
             }
           }
         ],
@@ -215,9 +215,10 @@
   },
   "active": "89cb9cf95b18da8c",
   "lastOpenFiles": [
-    "Media/Don Quixote.md",
+    "01 📒Dashboard & Categories/Games.md",
     "01 📒Dashboard & Categories/Books.md",
     "Media/Dark is the Sun.md",
+    "Media/Don Quixote.md",
     "templates/Book template.md",
     "01 📒Dashboard & Categories/02 🥇Goals & Productivity.md",
     "01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
@@ -244,7 +245,6 @@
     "Daily Notes/2026/2026-08-04.md",
     "Daily Notes/2026/2026-08-18.md",
     "Daily Notes/2026/2026-08-19.md",
-    "01 📒Dashboard & Categories/Study notes.md",
     "Productivity",
     "Journal entries",
     "Media",
