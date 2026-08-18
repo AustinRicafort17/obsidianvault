@@ -8,20 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f5cadfa85188f343",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
-                "viewState": {
-                  "x": -455.5308784947354,
-                  "y": -492.64783852944595,
-                  "zoom": -0.27868908248759766
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "01 📈 DASHBOARD"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -187,10 +180,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "f5cadfa85188f343",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Daily Notes/2026/2026-08-18.md",
     "01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
+    "Daily Notes/2026/2026-08-18.md",
     "Daily Notes/2026/2026-08-12.md",
     "Productivity/Game Stack.md",
     "Daily Notes/2026/2026-W34.md",
