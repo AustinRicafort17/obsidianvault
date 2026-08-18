@@ -11,10 +11,17 @@
             "id": "f5cadfa85188f343",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
+                "viewState": {
+                  "x": -61.93460681379062,
+                  "y": -358.22590444573905,
+                  "zoom": -1.6329200081740625
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "01 📈 DASHBOARD"
             }
           }
         ]
