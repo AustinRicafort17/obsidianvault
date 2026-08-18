@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "01 📒Dashboard & Categories/Study notes.md",
-                "mode": "source",
-                "source": false
+                "file": "01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
+                "viewState": {
+                  "x": -325.5998153268521,
+                  "y": -528.6698048437906,
+                  "zoom": -0.4734556236006675
+                }
               },
-              "icon": "lucide-file",
-              "title": "Study notes"
+              "icon": "lucide-layout-dashboard",
+              "title": "01 📈 DASHBOARD"
             }
           },
           {
@@ -214,6 +217,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "01 📒Dashboard & Categories/日本語.md",
+    "01 📒Dashboard & Categories/Study notes.md",
     "01 📒Dashboard & Categories/Movies.md",
     "01 📒Dashboard & Categories/Games.md",
     "01 📒Dashboard & Categories/Books.md",
@@ -224,7 +229,6 @@
     "01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
     "Journal entries/focus.md",
     "01 📒Dashboard & Categories/Dev.md",
-    "01 📒Dashboard & Categories/日本語.md",
     "Bases/日本語.base",
     "Bases/Dev notes.base",
     "Learning notes/The Odin Project.md",
@@ -243,7 +247,6 @@
     "Daily Notes/2026/2026-08-06.md",
     "Daily Notes/2026/2026-08-05.md",
     "Daily Notes/2026/2026-08-04.md",
-    "Daily Notes/2026/2026-08-18.md",
     "Productivity",
     "Journal entries",
     "Media",

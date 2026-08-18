@@ -1,6 +1,10 @@
 views:
-  - type: table
+  - type: list
     name: Table
     filters:
       and:
         - file.hasLink("01 📒Dashboard & Categories/日本語.md")
+    order:
+      - file.name
+      - file.mtime
+    indentProperties: false
