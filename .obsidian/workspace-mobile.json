@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2026/2026-08-19.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-08-19"
+              "title": "New tab"
             }
           }
         ]
@@ -186,14 +182,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Daily Notes/2026/2026-08-19.md",
     "01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
+    "Daily Notes/2026/2026-08-19.md",
+    "01 📒Dashboard & Categories/Daily Notes.md",
     "Daily Notes/2026/2026-08-18.md",
     "Daily Notes/2026/2026-08-12.md",
     "Productivity/Game Stack.md",
     "Daily Notes/2026/2026-W34.md",
     "Productivity",
-    "01 📒Dashboard & Categories/Daily Notes.md",
     "01 📒Dashboard & Categories/Books.md",
     "01 📒Dashboard & Categories/02 🥇Goals & Productivity.md",
     "Productivity/Fitness.md",
@@ -216,7 +212,6 @@
     "Learning notes/axes , alignments and gap.md",
     "Learning notes",
     "Daily Notes/2026/2026-08-17.md",
-    "Daily Notes/2026/2026-08-14.md",
     "Daily Notes/2026",
     "Daily Notes",
     "/Clippings",
