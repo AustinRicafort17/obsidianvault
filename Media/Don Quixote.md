@@ -11,6 +11,6 @@ tags:
 category: "[[Books]]"
 ---
 ### notes while reading :
-First 10 
+I've read the first 10 chapter or so and overall the book is pretty funny
 
 
