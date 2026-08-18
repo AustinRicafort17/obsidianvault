@@ -11,8 +11,11 @@ tags:
 category: "[[Books]]"
 ---
 ### notes while reading :
+
+- 2026-08-19
 - I've read the first 10 chapter or so and overall the book is pretty funny with an immersive world(pretty much all books have immersive worlds) . 
 - The main character, Don Quixote de la mancha, reminds me so much of [[Spongebob]] delusional, quirky and happy. I get the impression that Don Quixote is genuinely happy despite being, from the view of literally every other character, an actual crazy person. He legitimately believes he is a Knight running around his hometown having "adventures" worthy of history.
-- Well technically they are worthy of history because the book is from the point of view on a historian trying to record and put in order all of 
+- Well technically they are worthy of history because the book is from the point of view on a historian trying to record and put in order all of Don Quixote's "adventures"
+- Can't wait to read more of his 
 
 
