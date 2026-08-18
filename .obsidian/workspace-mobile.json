@@ -16,7 +16,7 @@
                 "file": "001 HUB.canvas",
                 "viewState": {
                   "x": -380,
-                  "y": -500.0000000000001,
+                  "y": -500,
                   "zoom": -1.6990271115062627
                 }
               },
@@ -187,8 +187,12 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f668fbb0aac15a07",
   "lastOpenFiles": [
+    "/Clippings/Variables and Operators  The Odin Project.md",
+    "/Clippings/JavaScript.md",
+    "Clippings/JavaScript.md",
+    "/Clippings",
     "001 HUB.canvas",
     "JavaScript.md",
     "Clippings/Variables and Operators  The Odin Project.md",
@@ -218,9 +222,6 @@
     "Attachments/Pasted image 20260805061534.png",
     "templates/Journal Template.md",
     "Clippings/Color Theory for Noobs  Beginner Guide.md",
-    "Categories/Journal Entries.md",
-    "2026-08-13.md",
-    "/Clippings",
     "/001 HUB.canvas",
     "Attachments/Projecthailmary.jpeg",
     "Attachments/Mainscreen.jpeg",
