@@ -49,8 +49,7 @@
               "title": "Movies"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,8 +212,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "89cb9cf95b18da8c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "01 📒Dashboard & Categories/Movies.md",
     "01 📒Dashboard & Categories/Games.md",
     "01 📒Dashboard & Categories/Books.md",
     "Media/Dark is the Sun.md",
@@ -244,7 +244,6 @@
     "Daily Notes/2026/2026-08-05.md",
     "Daily Notes/2026/2026-08-04.md",
     "Daily Notes/2026/2026-08-18.md",
-    "Daily Notes/2026/2026-08-19.md",
     "Productivity",
     "Journal entries",
     "Media",
