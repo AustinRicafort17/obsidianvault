@@ -25,17 +25,14 @@
             "id": "f5cadfa85188f343",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "001 HUB.canvas",
-                "viewState": {
-                  "x": -380,
-                  "y": -500,
-                  "zoom": -1.6990271115062627
-                }
+                "file": "Flexbox.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "001 HUB"
+              "icon": "lucide-file",
+              "title": "Flexbox"
             }
           }
         ],
@@ -204,6 +201,10 @@
   },
   "active": "f5cadfa85188f343",
   "lastOpenFiles": [
+    "Learning notes/CSS.md",
+    "Learning notes/axes , alignments and gap.md",
+    "001 HUB.canvas",
+    "Learning notes",
     "Daily Notes/2026/2026-08-18.md",
     "Daily Notes/2026/2026-08-17.md",
     "Daily Notes/2026/2026-08-14.md",
@@ -217,7 +218,6 @@
     "Daily Notes/2026",
     "Daily Notes",
     "2026-W34.md",
-    "001 HUB.canvas",
     "/Clippings/Variables and Operators  The Odin Project.md",
     "/Clippings/JavaScript.md",
     "Clippings/JavaScript.md",
@@ -232,8 +232,6 @@
     "Daily Routine.md",
     "templates/Weekly note template.md",
     "templates/Monthly note template.md",
-    "templates/Yearly note template.md",
-    "01 📒Categories/Movies.md",
     "Attachments/Fireandash.jpeg",
     "Attachments/Wayofwater.jpeg",
     "Attachments/Avatar2009.jpeg",
@@ -250,7 +248,6 @@
     "Attachments/Darkisthesun.webp",
     "Bases/games.base",
     "Clippings",
-    "/Bases/Study.base",
-    "/Bases"
+    "/Bases/Study.base"
   ]
 }
