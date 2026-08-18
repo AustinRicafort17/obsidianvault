@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "focus.md",
+                "file": "Fitness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "focus"
+              "title": "Fitness"
             }
           }
         ],
@@ -201,11 +201,12 @@
   },
   "active": "f5cadfa85188f343",
   "lastOpenFiles": [
+    "focus.md",
     "01 📒Dashboard & Categories/Journal Entries.md",
     "templates/Weekly note template.md",
     "Daily Routine.md",
     "Media/Avatar,The way of water.md",
-    "Journal",
+    "Journal entries",
     "Media/Project Hail Mary.md",
     "Media/Don Quixote.md",
     "Media/Dark is the Sun.md",
@@ -232,7 +233,6 @@
     "Daily Notes/2026",
     "Daily Notes",
     "Daily Notes/2026/2026-W34.md",
-    "/Clippings/Variables and Operators  The Odin Project.md",
     "/Clippings",
     "Attachments/Fireandash.jpeg",
     "Attachments/Wayofwater.jpeg",
