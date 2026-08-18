@@ -5,6 +5,8 @@ source:
 tags:
   - learning
 category: "[[Study notes]]"
+related-notes:
+  - De
 ---
 HYPERTEXT MARKUP LANGUAGE (HTML)
 

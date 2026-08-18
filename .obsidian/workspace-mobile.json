@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning notes/Flexbox.md",
+                "file": "Learning notes/The Odin Project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flexbox"
+              "title": "The Odin Project"
             }
           }
         ],
@@ -213,12 +213,15 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "89cb9cf95b18da8c",
+  "active": "f668fbb0aac15a07",
   "lastOpenFiles": [
+    "Dev/Dev.md",
+    "Untitled 1.base",
+    "Learning notes/HTML.md",
+    "Learning notes/Flexbox.md",
     "Learning notes/CSS.md",
     "Learning notes/axes , alignments and gap.md",
     "templates/Study note template.md",
-    "Dev.md",
     "Learning notes/深夜食堂.md",
     "Dev",
     "Daily Notes/2026/2026-08-17.md",
@@ -242,9 +245,6 @@
     "01 📒Dashboard & Categories/Books.md",
     "01 📒Dashboard & Categories/02 🥇Goals & Productivity.md",
     "Productivity/Fitness.md",
-    "Journal entries/focus.md",
-    "01 📒Dashboard & Categories/Journal Entries.md",
-    "templates/Weekly note template.md",
     "Journal entries",
     "Media",
     "Learning notes",
@@ -261,7 +261,6 @@
     "Attachments/Mainscreen.jpeg",
     "Attachments/Gameposter.png",
     "Attachments/IMG_8540.gif",
-    "Bases/journal.base",
     "Attachments/Darkisthesun.webp"
   ]
 }
