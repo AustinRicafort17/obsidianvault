@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fitness.md",
+                "file": "01 📒Dashboard & Categories/Goals & Productivity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fitness"
+              "title": "Goals & Productivity"
             }
           }
         ],
@@ -201,6 +201,7 @@
   },
   "active": "f5cadfa85188f343",
   "lastOpenFiles": [
+    "Fitness.md",
     "focus.md",
     "01 📒Dashboard & Categories/Journal Entries.md",
     "templates/Weekly note template.md",
@@ -218,7 +219,7 @@
     "Learning notes/Flexbox.md",
     "Learning notes/CSS.md",
     "Learning notes/axes , alignments and gap.md",
-    "01 📒Dashboard & Categories/001 HUB.canvas",
+    "01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
     "Learning notes",
     "Daily Notes/2026/2026-08-18.md",
     "Daily Notes/2026/2026-08-17.md",
@@ -232,7 +233,6 @@
     "Daily Notes/2026/2026-08-04.md",
     "Daily Notes/2026",
     "Daily Notes",
-    "Daily Notes/2026/2026-W34.md",
     "/Clippings",
     "Attachments/Fireandash.jpeg",
     "Attachments/Wayofwater.jpeg",

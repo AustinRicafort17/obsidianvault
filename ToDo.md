@@ -1,5 +1,5 @@
 ---
-category: "[[Goals]]"
+category: "[[Goals & Productivity]]"
 ---
 
 - [ ] Rakuten Investment
