@@ -1,9 +1,13 @@
+filters:
+  and:
+    - "!title.isEmpty()"
 views:
   - type: cards
     name: Library
     filters:
       and:
         - file.hasLink("Categories/Books.md")
+        - file.hasTag("books")
     order:
       - file.name
       - rating
