@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Hail Mary.md",
+                "file": "01 📒Categories/Journal Entries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Hail Mary"
+              "title": "Journal Entries"
             }
           }
         ],
@@ -201,9 +201,14 @@
   },
   "active": "f5cadfa85188f343",
   "lastOpenFiles": [
+    "templates/Weekly note template.md",
+    "01 📒Categories/Journal Entries.md",
+    "Daily Routine.md",
+    "Media/Avatar,The way of water.md",
+    "Journal",
+    "Media/Project Hail Mary.md",
     "Media/Don Quixote.md",
     "Media/Dark is the Sun.md",
-    "Daily Routine.md",
     "Media/Avatar,Fire and Ash.md",
     "Media/Avatar (2009).md",
     "Learning notes/The Odin Project.md",
@@ -228,11 +233,7 @@
     "Daily Notes",
     "2026-W34.md",
     "/Clippings/Variables and Operators  The Odin Project.md",
-    "/Clippings/JavaScript.md",
-    "Clippings/JavaScript.md",
     "/Clippings",
-    "JavaScript.md",
-    "Clippings/Variables and Operators  The Odin Project.md",
     "Attachments/Fireandash.jpeg",
     "Attachments/Wayofwater.jpeg",
     "Attachments/Avatar2009.jpeg",
@@ -247,7 +248,6 @@
     "Untitled.base",
     "/templates",
     "Attachments/Darkisthesun.webp",
-    "Bases/games.base",
-    "Clippings"
+    "Bases/games.base"
   ]
 }

@@ -1,5 +1,4 @@
 ---
 created:
-category: "[[Journal Entries]]"
 ---
 
