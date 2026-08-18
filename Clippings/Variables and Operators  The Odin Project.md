@@ -10,7 +10,7 @@ tags:
 related-notes:
   - "[[HTML]]"
   - "[[CSS]]"
-  - "[[Javascript]]"
+  - "[[JavaScript]]"
   - "[[The Odin Project]]"
 category: "[[Study notes]]"
 ---
