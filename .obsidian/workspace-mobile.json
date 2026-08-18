@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "001 HUB.canvas",
-                "viewState": {
-                  "x": -380,
-                  "y": -500,
-                  "zoom": -1.6990271115062627
-                }
+                "file": "2026-08-18.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "001 HUB"
+              "icon": "lucide-file",
+              "title": "2026-08-18"
             }
           }
         ]
@@ -187,8 +184,11 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f668fbb0aac15a07",
   "lastOpenFiles": [
+    "2026",
+    "Daily Notes",
+    "2026-W34.md",
     "001 HUB.canvas",
     "/Clippings/Variables and Operators  The Odin Project.md",
     "/Clippings/JavaScript.md",
@@ -206,7 +206,6 @@
     "Categories/Goals.md",
     "Daily Routine.md",
     "templates/Weekly note template.md",
-    "2026-W34.md",
     "templates/Monthly note template.md",
     "templates/Yearly note template.md",
     "Categories/Movies.md",
@@ -234,7 +233,6 @@
     "Clippings",
     "/Bases/Study.base",
     "/Bases",
-    "/Attachments",
-    "Bases/goals.base"
+    "/Attachments"
   ]
 }
