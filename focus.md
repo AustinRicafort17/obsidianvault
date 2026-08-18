@@ -4,7 +4,7 @@ topic:
 source:
 tags:
   - learning
-category: "[[Study notes]]"
+category: "[[Study notes]] [journal]"
 ---
 i neeeeeeed focus to actually achieve my [[Goals]] . This has been an issue for me for way too long. 
 
