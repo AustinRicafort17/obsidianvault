@@ -10,3 +10,7 @@ tags:
   - "#books"
 category: "[[Books]]"
 ---
+### notes while reading :
+First 10 
+
+

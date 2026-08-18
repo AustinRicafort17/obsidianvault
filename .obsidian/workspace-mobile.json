@@ -39,17 +39,14 @@
             "id": "89cb9cf95b18da8c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
-                "viewState": {
-                  "x": -380,
-                  "y": -500,
-                  "zoom": -1.6990271115062627
-                }
+                "file": "Media/Don Quixote.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "01 📈 DASHBOARD"
+              "icon": "lucide-file",
+              "title": "Don Quixote"
             }
           }
         ],
@@ -218,9 +215,10 @@
   },
   "active": "89cb9cf95b18da8c",
   "lastOpenFiles": [
-    "Journal entries/focus.md",
+    "01 📒Dashboard & Categories/Books.md",
     "01 📒Dashboard & Categories/02 🥇Goals & Productivity.md",
     "01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
+    "Journal entries/focus.md",
     "01 📒Dashboard & Categories/Dev.md",
     "01 📒Dashboard & Categories/日本語.md",
     "Bases/日本語.base",
