@@ -9,6 +9,7 @@ related-notes:
   - "[[CSS]]"
   - "[[HTML]]"
   - "[[The Odin Project]]"
+  - "[[Dev]]"
 ---
 ## axis
 axis is the direction in which an element is oriented towards, 

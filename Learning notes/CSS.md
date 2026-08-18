@@ -5,6 +5,8 @@ source:
 tags:
   - learning
 category: "[[Study notes]]"
+related-notes:
+  - "[[Dev]]"
 ---
 Cascading Style Sheets (CSS)
 
