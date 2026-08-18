@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasLink("01 📒Dashboard & Categories/日本語.md")
