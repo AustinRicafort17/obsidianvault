@@ -39,14 +39,17 @@
             "id": "89cb9cf95b18da8c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "01 📒Dashboard & Categories/02 🥇Goals & Productivity.md",
-                "mode": "source",
-                "source": false
+                "file": "01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
+                "viewState": {
+                  "x": -380,
+                  "y": -500,
+                  "zoom": -1.6990271115062627
+                }
               },
-              "icon": "lucide-file",
-              "title": "02 🥇Goals & Productivity"
+              "icon": "lucide-layout-dashboard",
+              "title": "01 📈 DASHBOARD"
             }
           }
         ],
@@ -216,6 +219,8 @@
   "active": "89cb9cf95b18da8c",
   "lastOpenFiles": [
     "Journal entries/focus.md",
+    "01 📒Dashboard & Categories/02 🥇Goals & Productivity.md",
+    "01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
     "01 📒Dashboard & Categories/Dev.md",
     "01 📒Dashboard & Categories/日本語.md",
     "Bases/日本語.base",
@@ -239,13 +244,10 @@
     "Daily Notes/2026/2026-08-18.md",
     "Daily Notes/2026/2026-08-19.md",
     "01 📒Dashboard & Categories/Study notes.md",
-    "01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
     "01 📒Dashboard & Categories/Daily Notes.md",
     "Productivity/Game Stack.md",
     "Daily Notes/2026/2026-W34.md",
     "Productivity",
-    "01 📒Dashboard & Categories/Books.md",
-    "01 📒Dashboard & Categories/02 🥇Goals & Productivity.md",
     "Journal entries",
     "Media",
     "Learning notes",
