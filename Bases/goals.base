@@ -3,7 +3,7 @@ views:
     name: Goals
     filters:
       and:
-        - file.hasLink("Categories/Goals.md")
+        - file.hasLink("01 📒Dashboard & Categories/Goals & Productivity.md")
     sort:
       - property: file.mtime
         direction: DESC
