@@ -11,6 +11,7 @@ tags:
 category: "[[Books]]"
 ---
 ### notes while reading :
-I've read the first 10 chapter or so and overall the book is pretty funny
+- I've read the first 10 chapter or so and overall the book is pretty funny with an immersive world(pretty much all books have immersive worlds) . 
+- The main character, Don Quixote 
 
 
