@@ -39,14 +39,17 @@
             "id": "0daf6796db65c7b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
+                "viewState": {
+                  "x": -297.38824791121067,
+                  "y": -159.93402571509517,
+                  "zoom": -1.0549420390018855
+                }
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-layout-dashboard",
+              "title": "01 📈 DASHBOARD"
             }
           }
         ],
@@ -215,8 +218,8 @@
   },
   "active": "0daf6796db65c7b6",
   "lastOpenFiles": [
-    "01 📒Dashboard & Categories/02 🥇Goals & Productivity.md",
     "Untitled.md",
+    "01 📒Dashboard & Categories/02 🥇Goals & Productivity.md",
     "Philosophy.md",
     "Goals for the rest of 2026.md",
     "Science.md",
