@@ -1,2 +1,4 @@
 
-Enroll in online college. 
+- [ ] Enroll in online college 
+- [ ] TOEIC
+- [ ] 
