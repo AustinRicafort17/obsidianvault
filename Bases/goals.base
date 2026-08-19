@@ -1,9 +1,12 @@
 views:
-  - type: cards
+  - type: list
     name: Goals
     filters:
       and:
         - file.hasLink("01 📒Dashboard & Categories/02 🥇Goals & Productivity.md")
+    order:
+      - file.name
+      - file.ctime
     sort:
       - property: file.mtime
         direction: DESC
