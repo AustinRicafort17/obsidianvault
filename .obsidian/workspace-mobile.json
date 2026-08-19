@@ -11,45 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
-                "viewState": {
-                  "x": -325.5998153268521,
-                  "y": -528.6698048437906,
-                  "zoom": -0.4734556236006675
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "01 📈 DASHBOARD"
-            }
-          },
-          {
-            "id": "f12697c0ec93a2c7",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning notes/深夜食堂.md",
+                "file": "01 📒Dashboard & Categories/02 🥇Goals & Productivity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "深夜食堂"
-            }
-          },
-          {
-            "id": "89cb9cf95b18da8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 📒Dashboard & Categories/Movies.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Movies"
+              "title": "02 🥇Goals & Productivity"
             }
           }
         ]
@@ -217,6 +186,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
+    "Daily Notes/2026/2026-08-18.md",
+    "Daily Notes/2026/2026-08-17.md",
     "01 📒Dashboard & Categories/日本語.md",
     "01 📒Dashboard & Categories/Study notes.md",
     "01 📒Dashboard & Categories/Movies.md",
@@ -226,7 +198,6 @@
     "Media/Don Quixote.md",
     "templates/Book template.md",
     "01 📒Dashboard & Categories/02 🥇Goals & Productivity.md",
-    "01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
     "Journal entries/focus.md",
     "01 📒Dashboard & Categories/Dev.md",
     "Bases/日本語.base",
@@ -239,14 +210,11 @@
     "templates/Study note template.md",
     "Learning notes/深夜食堂.md",
     "Dev",
-    "Daily Notes/2026/2026-08-17.md",
     "Daily Notes/2026/2026-08-13.md",
     "Daily Notes/2026/2026-08-12.md",
     "Daily Notes/2026/2026-08-08.md",
     "Daily Notes/2026/2026-08-07.md",
     "Daily Notes/2026/2026-08-06.md",
-    "Daily Notes/2026/2026-08-05.md",
-    "Daily Notes/2026/2026-08-04.md",
     "Productivity",
     "Journal entries",
     "Media",
