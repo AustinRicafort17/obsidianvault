@@ -39,17 +39,14 @@
             "id": "0daf6796db65c7b6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
-                "viewState": {
-                  "x": -297.38824791121067,
-                  "y": -159.93402571509517,
-                  "zoom": -1.0549420390018855
-                }
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "01 📈 DASHBOARD"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -218,12 +215,12 @@
   },
   "active": "0daf6796db65c7b6",
   "lastOpenFiles": [
+    "01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
     "Untitled.md",
     "01 📒Dashboard & Categories/02 🥇Goals & Productivity.md",
     "Philosophy.md",
     "Goals for the rest of 2026.md",
     "Science.md",
-    "01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
     "Daily Notes/2026/2026-08-18.md",
     "Daily Notes/2026/2026-08-17.md",
     "01 📒Dashboard & Categories/日本語.md",
@@ -247,7 +244,6 @@
     "Learning notes/深夜食堂.md",
     "Dev",
     "Daily Notes/2026/2026-08-13.md",
-    "Daily Notes/2026/2026-08-12.md",
     "Productivity",
     "Journal entries",
     "Media",
