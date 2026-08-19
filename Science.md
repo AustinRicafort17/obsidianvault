@@ -1,56 +1,71 @@
+You need four layers:
+
+1. General scientific literacy
+2. Mathematics
+3. Core sciences
+4. Advanced/specialized sciences
+
+The original list was strongest at #1 and weakest at #2–3.
+
+A much better science progression
+
 BEGINNER
 
 1. A Short History of Nearly Everything — Bill Bryson
 2. Cosmos — Carl Sagan
-3. The Magic of Reality — Richard Dawkins
-4. What If? — Randall Munroe
-5. The Demon-Haunted World — Carl Sagan
+3. The Demon-Haunted World — Carl Sagan
+4. Six Easy Pieces — Richard Feynman
+5. The Disappearing Spoon — Sam Kean
+6. Your Inner Fish — Neil Shubin
 
-INTERMEDIATE
+MATHEMATICAL FOUNDATION
 
-Physics
+7. The Joy of x — Steven Strogatz
+8. How Not to Be Wrong — Jordan Ellenberg
+9. Infinite Powers — Steven Strogatz
 
-1. Six Easy Pieces — Richard Feynman
-2. The Fabric of the Cosmos — Brian Greene
+Then actually study:
 
-Biology
+10. Algebra
+11. Trigonometry
+12. Calculus
+13. Linear Algebra
+14. Probability & Statistics
 
-1. The Selfish Gene — Richard Dawkins
-2. Your Inner Fish — Neil Shubin
+CORE PHYSICS
 
-Chemistry
+15. University Physics — Young & Freedman
+16. Introduction to Electrodynamics — David J. Griffiths
+17. Classical Mechanics — John R. Taylor
+18. Introduction to Quantum Mechanics — David J. Griffiths
+19. Thermal Physics — Daniel V. Schroeder
 
-1. The Disappearing Spoon — Sam Kean
-2. Napoleon’s Buttons — Penny Le Couteur & Jay Burreson
+CORE CHEMISTRY
 
-Astronomy
+20. Chemistry — Zumdahl & Zumdahl
+21. Organic Chemistry — Clayden et al.
+22. Physical Chemistry — Atkins
 
-1. A Brief History of Time — Stephen Hawking
-2. The End of Everything — Katie Mack
+CORE BIOLOGY
 
-ADVANCED POPULAR SCIENCE
+23. Campbell Biology
+24. Molecular Biology of the Cell — Alberts et al.
+25. Molecular Biology of the Gene — Watson et al.
 
-1. The Order of Time — Carlo Rovelli
-2. The Biggest Ideas in the Universe — Sean Carroll
-3. The Gene — Siddhartha Mukherjee
-4. The Vital Question — Nick Lane
-5. The Information — James Gleick
-6. Gödel, Escher, Bach — Douglas Hofstadter
-7. The Fabric of Reality — David Deutsch
+EARTH & SPACE
 
-UNIVERSITY LEVEL
+26. Earth — Press et al.
+27. An Introduction to Modern Astrophysics — Carroll & Ostlie
 
-Physics:  
-Intro Physics → Calculus → Classical Mechanics → Electromagnetism → Quantum Mechanics → Statistical Mechanics
+ADVANCED / BIG PICTURE
 
-Biology:  
-General Biology → Cell Biology → Genetics → Molecular Biology → Biochemistry → Specialized Research
+28. The Biggest Ideas in the Universe — Sean Carroll
+29. The Vital Question — Nick Lane
+30. The Gene — Siddhartha Mukherjee
+31. The Information — James Gleick
+32. Gödel, Escher, Bach — Douglas Hofstadter
+33. The Fabric of Reality — David Deutsch
 
-Chemistry:  
-General Chemistry → Organic Chemistry → Inorganic Chemistry → Physical Chemistry → Quantum Chemistry
+That’s a much more serious science library. And notice the distinction: books like Cosmos give you perspective; Griffiths, Campbell, Alberts, etc. give you actual disciplinary knowledge.
 
-Mathematics:  
-Algebra → Trigonometry → Calculus → Linear Algebra → Differential Equations → Probability & Statistics
-
-Research:  
-Textbooks → Review Articles → Scientific Papers → Reproduce Results → Critique Research
+University-level curricula really do branch into dedicated physics, astronomy, chemistry, biology and related textbook sequences rather than treating “science” as one subject.

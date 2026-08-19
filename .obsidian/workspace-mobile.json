@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 📒Dashboard & Categories/02 🥇Goals & Productivity.md",
+                "file": "Philosophy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 🥇Goals & Productivity"
+              "title": "Philosophy"
             }
           }
         ]
@@ -184,11 +184,11 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "f668fbb0aac15a07",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Philosophy.md",
     "Science.md",
     "01 📒Dashboard & Categories/02 🥇Goals & Productivity.md",
+    "Philosophy.md",
     "01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
     "Daily Notes/2026/2026-08-18.md",
     "Daily Notes/2026/2026-08-17.md",
