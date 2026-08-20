@@ -3,7 +3,7 @@ views:
     name: Library
     filters:
       and:
-        - file.hasLink("Categories/Movies.md")
+        - file.hasLink("02/09 Movies.md")
         - "!title.isEmpty()"
     order:
       - file.name
