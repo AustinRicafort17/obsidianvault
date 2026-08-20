@@ -62,9 +62,37 @@
               "icon": "lucide-file",
               "title": "2 year plan"
             }
+          },
+          {
+            "id": "8e6b6779b803d263",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 📒Dashboard & Categories/02 🥇Goals & Productivity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 🥇Goals & Productivity"
+            }
+          },
+          {
+            "id": "8a640ffa28478d2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-08-27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-27"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -227,9 +255,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "d23392e0f5f68479",
+  "active": "8a640ffa28478d2c",
   "lastOpenFiles": [
     "01 📒Dashboard & Categories/02 🥇Goals & Productivity.md",
+    "2026-08-27.md",
     "2 year plan.md",
     "01 📒Dashboard & Categories/Journal Entries.md",
     "templates/Journal Template.md",
@@ -259,7 +288,6 @@
     "Bases/Dev notes.base",
     "Learning notes/The Odin Project.md",
     "Learning notes/HTML.md",
-    "Learning notes/Flexbox.md",
     "Dev",
     "Productivity",
     "Journal entries",
