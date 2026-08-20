@@ -4,9 +4,9 @@ topic: "[[The Odin Project]]"
 source:
 tags:
   - learning
-category: "[[Study notes]]"
+category: "[[10 Study notes]]"
 related-notes:
-  - "[[Dev]]"
+  - "[[06 Dev]]"
 ---
 As I understand it , according to [[Introduction to Flexbox  The Odin Project]] , flexbox is a [[CSS]] system(basically a really special css property) that allows for elements to grow/shrink to fill the available space. The rate in which they grow and shrink can also be set.
 

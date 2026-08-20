@@ -7,7 +7,7 @@ release-date: 2026-03-20
 rating: 4
 tags:
   - "#movie"
-category: "[[Movies]]"
+category: "[[09 Movies]]"
 cover: Projecthailmary.jpeg
 ---
 

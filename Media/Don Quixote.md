@@ -8,7 +8,7 @@ rating:
 cover: Donquixote.jpeg
 tags:
   - "#books"
-category: "[[Books]]"
+category: "[[03 Books]]"
 ---
 ### notes while reading :
 

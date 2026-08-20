@@ -1,3 +1,3 @@
 ---
-category: "[[Games]]"
+category: "[[07 Games]]"
 ---

@@ -9,5 +9,5 @@ created:
 cover: Gameposter.png
 tags:
   - Game
-category: "[[Games]]"
+category: "[[07 Games]]"
 ---

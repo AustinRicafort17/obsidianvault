@@ -1,5 +1,5 @@
 ---
-category: "[[Books]]"
+category: "[[03 Books]]"
 ---
 - [ ] [[Don Quixote]]
 - [ ] [[Dark is the Sun]]

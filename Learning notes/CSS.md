@@ -4,9 +4,9 @@ topic: "[[The Odin Project]]"
 source:
 tags:
   - learning
-category: "[[Study notes]]"
+category: "[[10 Study notes]]"
 related-notes:
-  - "[[Dev]]"
+  - "[[06 Dev]]"
 ---
 Cascading Style Sheets (CSS)
 

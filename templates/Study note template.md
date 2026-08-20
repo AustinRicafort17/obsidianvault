@@ -4,6 +4,6 @@ topic:
 source:
 tags:
   - learning
-category: "[[Study notes]]"
+category: "[[10 Study notes]]"
 related-notes:
 ---

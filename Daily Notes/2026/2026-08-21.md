@@ -8,7 +8,7 @@ exercise:
 ">3hoursscreentime":
 tags:
   - dailynote
-category: "[[Daily Notes]]"
+category: "[[04 Daily Notes]]"
 meditation:
 ---
 

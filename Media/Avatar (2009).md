@@ -7,7 +7,7 @@ release-date: 2009-12-18
 rating: 4
 tags:
   - "#movie"
-category: "[[Movies]]"
+category: "[[09 Movies]]"
 cover: Avatar2009.jpeg
 ---
 - Peak movie viewing experience, anyone who has a home theater MUST have this(and its sequels) on their movie library.

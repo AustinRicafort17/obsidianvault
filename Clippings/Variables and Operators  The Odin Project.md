@@ -12,7 +12,7 @@ related-notes:
   - "[[CSS]]"
   - "[[JavaScript]]"
   - "[[The Odin Project]]"
-category: "[[Study notes]]"
+category: "[[10 Study notes]]"
 ---
 ### Introduction
 

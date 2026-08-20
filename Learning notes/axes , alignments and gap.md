@@ -4,12 +4,12 @@ topic: "[[The Odin Project]]"
 source:
 tags:
   - learning
-category: "[[Study notes]]"
+category: "[[10 Study notes]]"
 related-notes:
   - "[[CSS]]"
   - "[[HTML]]"
   - "[[The Odin Project]]"
-  - "[[Dev]]"
+  - "[[06 Dev]]"
 ---
 ## axis
 axis is the direction in which an element is oriented towards, 

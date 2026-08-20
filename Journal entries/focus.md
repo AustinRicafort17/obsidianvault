@@ -4,7 +4,7 @@ topic:
 source:
 tags:
   - learning
-category: "[[Journal Entries]]"
+category: "[[08 Journal Entries]]"
 ---
 i neeeeeeed focus to actually achieve my [[02 🥇Goals & Productivity]] . This has been an issue for me for way too long. 
 

@@ -7,6 +7,6 @@ release-date:
 rating: 5
 tags:
   - "#movie"
-category: "[[Movies]]"
+category: "[[09 Movies]]"
 cover: movieposter.png
 ---

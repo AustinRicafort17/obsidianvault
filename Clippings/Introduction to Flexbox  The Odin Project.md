@@ -7,7 +7,7 @@ created: 2026-08-05
 description: The Odin Project empowers aspiring web developers to learn together for free
 tags:
   - clippings
-category: "[[Study notes]]"
+category: "[[10 Study notes]]"
 related-notes:
   - "[[The Odin Project]]"
   - "[[CSS]]"
