@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/templates/Journal Template.md",
+                "file": "notes/templates/Movie template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Journal Template"
+              "title": "Movie template"
             }
           }
         ]
@@ -186,9 +186,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "notes/templates/Monthly note template.md",
+    "notes/templates/Journal Template.md",
     "notes/templates/Games Template.md",
-    "02 LIBRARIES/Games.md",
+    "notes/templates/daily note template.md",
+    "notes/templates/Book template.md",
     "02 LIBRARIES/Books.md",
+    "02 LIBRARIES/Games.md",
     "notes/Dark is the Sun.md",
     "notes/Don Quixote.md",
     "02 LIBRARIES/Movies.md",
@@ -203,7 +207,6 @@
     "notes/templates/Study note template.md",
     "notes/2026-08-06.md",
     "notes/2026-08-21.md",
-    "notes/templates/Book template.md",
     "notes/Book Stack.md",
     "notes/2026-08-19.md",
     "notes/Clippings/JavaScript.md",
@@ -212,9 +215,6 @@
     "notes/Game Stack.md",
     "notes/2026-W34.md",
     "notes/2026-08-05.md",
-    "notes/Clippings/Introduction to Flexbox  The Odin Project.md",
-    "notes/Clippings/Color Theory for Noobs  Beginner Guide.md",
-    "notes/2026-08-18.md",
     "notes/Bases/journal.base",
     "notes/Bases/Book library.base",
     "notes/Bases/Movie Library.base",

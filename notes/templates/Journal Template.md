@@ -1,5 +1,5 @@
 ---
-category: "[[08 Journal Entries]]"
+topic:
 created:
 related-notes:
 ---
