@@ -23,11 +23,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2418a72325c4b334",
+    "id": "b10cc2dbc2f74cb3",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "f668fbb0aac15a07",
+        "id": "62e02fa23c764242",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -42,7 +42,7 @@
         }
       },
       {
-        "id": "d5a28a1c5116f8c6",
+        "id": "a45046c6ec2baee0",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -59,7 +59,7 @@
         }
       },
       {
-        "id": "019f8bf8a0a2d6dc",
+        "id": "535dbe58bf97c5e6",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -74,7 +74,7 @@
         }
       },
       {
-        "id": "8e580577f35b4bcd",
+        "id": "427628771d57fb7d",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -88,7 +88,7 @@
         }
       },
       {
-        "id": "0432d8b814c38415",
+        "id": "dbe59b778a98bcac",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -104,18 +104,17 @@
     "currentTab": 0
   },
   "right": {
-    "id": "3a49bc4d0938ed67",
+    "id": "1e6061ffb870f5cd",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "3c6c24182fdb7b69",
+        "id": "d9619bfb43c07323",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Needs & Wants.md",
             "collapseAll": false,
-            "extraContext": false,
+            "extraContext": true,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
@@ -127,7 +126,7 @@
         }
       },
       {
-        "id": "847db84c8db6e60e",
+        "id": "ee25dda23f5a5b33",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -140,7 +139,7 @@
         }
       },
       {
-        "id": "ff9194cef4e55d9f",
+        "id": "0c58c5c7ea376bce",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -154,7 +153,7 @@
         }
       },
       {
-        "id": "cf61cffbda87fecd",
+        "id": "b92fbbea473f3d0d",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -164,11 +163,11 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -176,62 +175,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "homepage:Open homepage": false,
-      "periodic-notes:Open this week": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open this week": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b92fbbea473f3d0d",
   "lastOpenFiles": [
-    "meta/bases",
-    "meta/attachments",
-    "meta/templates",
-    "meta",
-    "01 ✍️notes",
-    "/03 ✍️notes/templates",
-    "/03 ✍️notes/Clippings",
-    "/03 ✍️notes/Bases",
-    "/03 ✍️notes/Attachments",
-    "/03 ✍️notes",
-    "/02 📚LIBRARIES",
-    "03 ✍️notes/I changed my system.md",
-    "03 ✍️notes/2026-08-12.md",
-    "notes/2026-08-12.md",
-    "03 ✍️notes/2026-08-06.md",
-    "03 ✍️notes/templates/daily note template.md",
-    "Untitled.md",
-    "01/02 🥇Goals & Productivity.md",
-    "01❗️/01 📈 DASHBOARD.canvas",
-    "02 📚LIBRARIES/Movies.md",
-    "03 ✍️notes/Avatar (2009).md",
-    "03 ✍️notes/Avatar,The way of water.md",
-    "03 ✍️notes/Avatar,Fire and Ash.md",
-    "03 ✍️notes/Project Hail Mary.md",
-    "03 ✍️notes/templates/Movie template.md",
-    "notes/templates/Monthly note template.md",
-    "03 ✍️notes/templates/Journal Template.md",
-    "03 ✍️notes/templates/Games Template.md",
-    "03 ✍️notes/templates/Book template.md",
-    "02 📚LIBRARIES/Books.md",
-    "02 📚LIBRARIES/Games.md",
-    "03 ✍️notes/Dark is the Sun.md",
-    "03 ✍️notes/Don Quixote.md",
-    "notes/08 Journal Entries.md",
-    "03 ✍️notes/2 year plan.md",
-    "01 📒Dashboard & Categories/02 🥇Goals & Productivity.md",
-    "03 ✍️notes/templates/Study note template.md",
-    "03 ✍️notes/Attachments/Projecthailmary.jpeg",
-    "03 ✍️notes/Attachments/Gameposter.png",
-    "03 ✍️notes/Attachments/Fireandash.jpeg",
-    "03 ✍️notes/Attachments/IMG_8540.gif",
-    "03 ✍️notes/Attachments/Wayofwater.jpeg",
-    "03 ✍️notes/Attachments/Darkisthesun.webp",
-    "03 ✍️notes/Attachments/bookcover.png",
-    "03 ✍️notes/Attachments/Mainscreen.jpeg",
-    "03 ✍️notes/Attachments/Pasted image 20260805061534.png",
-    "03 ✍️notes/Attachments/Donquixote.jpeg",
-    "/notes/01 📈 DASHBOARD.canvas",
-    "01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
-    "/01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
-    "/001 HUB.canvas"
+    "Untitled.md"
   ]
 }
