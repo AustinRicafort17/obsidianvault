@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/templates/Movie template.md",
+                "file": "notes/Avatar,Fire and Ash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Movie template"
+              "title": "Avatar,Fire and Ash"
             }
           }
         ]
@@ -186,6 +186,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02 LIBRARIES/Movies.md",
+    "notes/Project Hail Mary.md",
+    "notes/templates/Movie template.md",
     "notes/templates/Monthly note template.md",
     "notes/templates/Journal Template.md",
     "notes/templates/Games Template.md",
@@ -195,7 +198,6 @@
     "02 LIBRARIES/Games.md",
     "notes/Dark is the Sun.md",
     "notes/Don Quixote.md",
-    "02 LIBRARIES/Movies.md",
     "01/01 📈 DASHBOARD.canvas",
     "01/02 🥇Goals & Productivity.md",
     "notes/08 Journal Entries.md",
@@ -213,8 +215,6 @@
     "notes/深夜食堂.md",
     "notes/Clippings/Variables and Operators  The Odin Project.md",
     "notes/Game Stack.md",
-    "notes/2026-W34.md",
-    "notes/2026-08-05.md",
     "notes/Bases/journal.base",
     "notes/Bases/Book library.base",
     "notes/Bases/Movie Library.base",
