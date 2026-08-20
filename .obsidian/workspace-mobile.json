@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "01 📒Dashboard & Categories/02 🥇Goals & Productivity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "f57f2f7f90b3aef8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal entries/Time.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Time"
-            }
-          },
-          {
-            "id": "256363a982f36055",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Science"
+              "title": "02 🥇Goals & Productivity"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,8 +184,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "256363a982f36055",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Science.md",
     "Philosophy.md",
     "Journal entries/Time.md",
     "01 📒Dashboard & Categories/02 🥇Goals & Productivity.md",
@@ -224,7 +196,6 @@
     "/01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
     "/01 📒Dashboard & Categories",
     "01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
-    "Science.md",
     "Daily Notes/2026/2026-08-18.md",
     "Daily Notes/2026/2026-08-17.md",
     "01 📒Dashboard & Categories/日本語.md",
