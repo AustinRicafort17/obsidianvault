@@ -1,5 +1,0 @@
----
-topic:
-created:
-related-notes:
----

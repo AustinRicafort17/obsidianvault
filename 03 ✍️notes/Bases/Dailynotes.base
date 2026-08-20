@@ -1,9 +1,0 @@
-views:
-  - type: list
-    name: Table
-    filters:
-      and:
-        - file.hasLink("Categories/Daily Notes.md")
-    order:
-      - file.name
-    indentProperties: true

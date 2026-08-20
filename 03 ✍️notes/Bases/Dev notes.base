@@ -1,9 +1,0 @@
-views:
-  - type: list
-    name: Table
-    filters:
-      and:
-        - file.hasLink("Dev.md")
-    order:
-      - file.name
-      - file.mtime
