@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "01 📒Dashboard & Categories/02 🥇Goals & Productivity.md",
-                "mode": "source",
-                "source": false
+                "file": "01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
+                "viewState": {
+                  "x": -502.12308378146713,
+                  "y": -683.0673024675579,
+                  "zoom": 0.6873508332785686
+                }
               },
-              "icon": "lucide-file",
-              "title": "02 🥇Goals & Productivity"
+              "icon": "lucide-layout-dashboard",
+              "title": "01 📈 DASHBOARD"
             }
           }
         ]
@@ -186,6 +189,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Daily Notes/2026/2026-08-20.md",
+    "Daily Notes/2026/2026-08-21.md",
+    "01 📒Dashboard & Categories/02 🥇Goals & Productivity.md",
     "Needs & Wants.md",
     "Philosophy.md",
     "Science.md",
@@ -197,9 +203,7 @@
     "01 📒Dashboard & Categories/Books.md",
     "Daily Notes/2026/2026-08-17.md",
     "01 📒Dashboard & Categories/日本語.md",
-    "Daily Notes/2026/2026-08-20.md",
     "2026-08-27.md",
-    "01 📒Dashboard & Categories/02 🥇Goals & Productivity.md",
     "2 year plan.md",
     "01 📒Dashboard & Categories/Journal Entries.md",
     "templates/Journal Template.md",
@@ -215,7 +219,6 @@
     "01 📒Dashboard & Categories/Games.md",
     "Media/Dark is the Sun.md",
     "Media/Don Quixote.md",
-    "templates/Book template.md",
     "Bases/日本語.base",
     "Bases/Dev notes.base",
     "Dev",
