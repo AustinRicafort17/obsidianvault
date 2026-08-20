@@ -1,0 +1,14 @@
+---
+title: Dark is the sun
+author:
+published:
+genre:
+description:
+rating:
+created:
+cover: Darkisthesun.webp
+tags:
+  - "#books"
+category: "[[03 Books]]"
+---
+
