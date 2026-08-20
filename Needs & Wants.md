@@ -2,8 +2,8 @@
 - [ ] PCU tuition payment 20k php
 - [ ] Online college tuition ¥???
 - [ ] PSU ¥3k(mercari)
-- [ ] 
+- [ ] New clothes ¥3k/month
 
 ###### Wants
 - [ ] Xteink x4 ¥10k 
-- [ ] 
+- [ ] Clamp-mount
