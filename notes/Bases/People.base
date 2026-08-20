@@ -1,0 +1,7 @@
+views:
+  - type: list
+    name: People
+    filters:
+      and:
+        - file.hasLink("Categories/People.md")
+    indentProperties: true

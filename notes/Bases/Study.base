@@ -1,0 +1,10 @@
+views:
+  - type: list
+    name: Table
+    filters:
+      and:
+        - file.hasLink("Categories/Study notes.md")
+    order:
+      - file.name
+      - file.ctime
+    indentProperties: true

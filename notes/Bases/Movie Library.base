@@ -1,0 +1,13 @@
+views:
+  - type: cards
+    name: Library
+    filters:
+      and:
+        - file.hasLink("Categories/Movies.md")
+        - "!title.isEmpty()"
+    order:
+      - file.name
+      - rating
+    image: note.cover
+    imageAspectRatio: 1.5
+    cardSize: 170
