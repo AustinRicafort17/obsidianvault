@@ -15,9 +15,9 @@
               "state": {
                 "file": "01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
                 "viewState": {
-                  "x": -502.12308378146713,
-                  "y": -683.0673024675579,
-                  "zoom": 0.6873508332785686
+                  "x": -420,
+                  "y": -230,
+                  "zoom": -0.01097111782100331
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -189,6 +189,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Daily Notes/2026/2026-08-19.md",
+    "01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
     "Daily Notes/2026/2026-08-20.md",
     "Daily Notes/2026/2026-08-21.md",
     "01 📒Dashboard & Categories/02 🥇Goals & Productivity.md",
@@ -212,13 +214,11 @@
     "Journal entries/Time.md",
     "/01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
     "/01 📒Dashboard & Categories",
-    "01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
     "Daily Notes/2026/2026-08-18.md",
     "01 📒Dashboard & Categories/Study notes.md",
     "01 📒Dashboard & Categories/Movies.md",
     "01 📒Dashboard & Categories/Games.md",
     "Media/Dark is the Sun.md",
-    "Media/Don Quixote.md",
     "Bases/日本語.base",
     "Bases/Dev notes.base",
     "Dev",
