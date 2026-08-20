@@ -13,62 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "4685cb695c0f43e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "934fcc2e9be54b5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 year plan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2 year plan"
-            }
-          },
-          {
-            "id": "d23392e0f5f68479",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 year plan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2 year plan"
-            }
-          },
-          {
-            "id": "8e6b6779b803d263",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "01 📒Dashboard & Categories/02 🥇Goals & Productivity.md",
                 "mode": "source",
                 "source": false
@@ -76,23 +20,8 @@
               "icon": "lucide-file",
               "title": "02 🥇Goals & Productivity"
             }
-          },
-          {
-            "id": "8a640ffa28478d2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Needs & Wants.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Needs & Wants"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -255,8 +184,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "8a640ffa28478d2c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Needs & Wants.md",
     "Philosophy.md",
     "Science.md",
     "Learning notes/axes , alignments and gap.md",
@@ -276,7 +206,6 @@
     "Untitled.md",
     "Goals for the rest of 2026.md",
     "Journal entries/Time.md",
-    "Needs & Wants.md",
     "/01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
     "/01 📒Dashboard & Categories",
     "01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
