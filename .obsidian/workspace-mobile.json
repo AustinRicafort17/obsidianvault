@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
         ]
@@ -184,7 +180,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "f668fbb0aac15a07",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "meta/bases",
     "meta/attachments",
