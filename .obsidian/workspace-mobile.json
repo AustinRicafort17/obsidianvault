@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02/02 🥇Goals & Productivity.md",
+                "file": "02 LIBRARIES/Games.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 🥇Goals & Productivity"
+              "title": "Games"
             }
           }
         ]
@@ -184,12 +184,14 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f668fbb0aac15a07",
   "lastOpenFiles": [
-    "02/09 Movies.md",
+    "01/01 📈 DASHBOARD.canvas",
+    "01/02 🥇Goals & Productivity.md",
+    "02 LIBRARIES/Movies.md",
     "notes/08 Journal Entries.md",
     "Untitled.md",
-    "02",
+    "02 LIBRARIES",
     "01",
     "notes/2 year plan.md",
     "01 📒Dashboard & Categories/02 🥇Goals & Productivity.md",
@@ -212,8 +214,6 @@
     "notes/templates/Journal Template.md",
     "notes/2026-08-20.md",
     "notes/focus.md",
-    "notes/axes , alignments and gap.md",
-    "notes/2026-08-14.md",
     "notes/Bases/journal.base",
     "notes/Bases/Book library.base",
     "notes/Bases/Movie Library.base",
@@ -232,7 +232,6 @@
     "notes/Attachments/Mainscreen.jpeg",
     "notes/Attachments/Pasted image 20260805061534.png",
     "notes/Attachments/Donquixote.jpeg",
-    "01/01 📈 DASHBOARD.canvas",
     "/notes/01 📈 DASHBOARD.canvas",
     "01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
     "/01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
