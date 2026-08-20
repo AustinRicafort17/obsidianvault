@@ -7,6 +7,6 @@ release-date: 2025-12-19
 rating: 3.5
 tags:
   - "#movie"
-category: "[[09 Movies]]"
+category: "[[02/09 Movies]]"
 cover: Fireandash.jpeg
 ---

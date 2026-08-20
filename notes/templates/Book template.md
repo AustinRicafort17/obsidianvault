@@ -8,7 +8,7 @@ rating:
 cover: bookcover.png
 tags:
   - "#books"
-category: "[[03 Books]]"
+category: "[[02/03 Books]]"
 ---
 
 # notes while 

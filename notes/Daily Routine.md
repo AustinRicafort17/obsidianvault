@@ -1,6 +1,6 @@
 ---
 created: 2026-08-17
-category: "[[02 🥇Goals & Productivity]]"
+category: "[[02/02 🥇Goals & Productivity]]"
 ---
 MONDAY to FRIDAY 
 8/17 - 8/21(temp)
