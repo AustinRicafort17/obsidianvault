@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 ✍️notes/I changed my system.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "I changed my system"
+              "title": "New tab"
             }
           }
         ]
@@ -186,9 +182,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03 ✍️notes/I changed my system.md",
     "03 ✍️notes/2026-08-12.md",
     "notes/2026-08-12.md",
-    "03 ✍️notes/I changed my system.md",
     "03 ✍️notes/2026-08-06.md",
     "03 ✍️notes/templates/daily note template.md",
     "notes",
