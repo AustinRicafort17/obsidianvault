@@ -6,7 +6,7 @@ views:
     name: Library
     filters:
       and:
-        - file.hasLink("Categories/Books.md")
+        - file.hasLink("02 LIBRARIES/Books.md")
         - file.hasTag("books")
     order:
       - file.name

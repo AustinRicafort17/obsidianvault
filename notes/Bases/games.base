@@ -3,7 +3,7 @@ views:
     name: View
     filters:
       and:
-        - file.hasLink("Categories/Games.md")
+        - file.hasLink("02 LIBRARIES/Games.md")
         - file.hasTag("Game")
     cardSize: 140
     imageAspectRatio: 1.25
