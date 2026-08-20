@@ -1,3 +1,4 @@
 ###### Needs
 - [ ] PCU tuition payment (20k php)
-- [ ] New 
+- [ ] PSU (¥3k)(mercari)
+- [ ] 
