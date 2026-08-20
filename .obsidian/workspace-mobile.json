@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 LIBRARIES/Books.md",
+                "file": "notes/templates/Journal Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Books"
+              "title": "Journal Template"
             }
           }
         ]
@@ -186,10 +186,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "notes/templates/Games Template.md",
+    "02 LIBRARIES/Games.md",
+    "02 LIBRARIES/Books.md",
     "notes/Dark is the Sun.md",
     "notes/Don Quixote.md",
-    "02 LIBRARIES/Books.md",
-    "02 LIBRARIES/Games.md",
     "02 LIBRARIES/Movies.md",
     "01/01 📈 DASHBOARD.canvas",
     "01/02 🥇Goals & Productivity.md",
@@ -201,7 +202,6 @@
     "01 📒Dashboard & Categories/02 🥇Goals & Productivity.md",
     "notes/templates/Study note template.md",
     "notes/2026-08-06.md",
-    "notes/templates/Games Template.md",
     "notes/2026-08-21.md",
     "notes/templates/Book template.md",
     "notes/Book Stack.md",
