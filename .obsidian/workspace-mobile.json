@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "notes/Avatar,Fire and Ash.md",
-                "mode": "source",
-                "source": false
+                "file": "01/01 📈 DASHBOARD.canvas",
+                "viewState": {
+                  "x": -200,
+                  "y": -500,
+                  "zoom": -1.1629742112660533
+                }
               },
-              "icon": "lucide-file",
-              "title": "Avatar,Fire and Ash"
+              "icon": "lucide-layout-dashboard",
+              "title": "01 📈 DASHBOARD"
             }
           }
         ]
@@ -184,9 +187,13 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f668fbb0aac15a07",
   "lastOpenFiles": [
+    "01/01 📈 DASHBOARD.canvas",
     "02 LIBRARIES/Movies.md",
+    "notes/Avatar (2009).md",
+    "notes/Avatar,The way of water.md",
+    "notes/Avatar,Fire and Ash.md",
     "notes/Project Hail Mary.md",
     "notes/templates/Movie template.md",
     "notes/templates/Monthly note template.md",
@@ -198,7 +205,6 @@
     "02 LIBRARIES/Games.md",
     "notes/Dark is the Sun.md",
     "notes/Don Quixote.md",
-    "01/01 📈 DASHBOARD.canvas",
     "01/02 🥇Goals & Productivity.md",
     "notes/08 Journal Entries.md",
     "Untitled.md",
@@ -211,10 +217,6 @@
     "notes/2026-08-21.md",
     "notes/Book Stack.md",
     "notes/2026-08-19.md",
-    "notes/Clippings/JavaScript.md",
-    "notes/深夜食堂.md",
-    "notes/Clippings/Variables and Operators  The Odin Project.md",
-    "notes/Game Stack.md",
     "notes/Bases/journal.base",
     "notes/Bases/Book library.base",
     "notes/Bases/Movie Library.base",

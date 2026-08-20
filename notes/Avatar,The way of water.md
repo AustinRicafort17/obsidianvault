@@ -7,6 +7,6 @@ release-date: 2022-12-16
 rating: 4
 tags:
   - "#movie"
-category: "[[02/09 Movies]]"
+category: "[[Movies]]"
 cover: Wayofwater.jpeg
 ---

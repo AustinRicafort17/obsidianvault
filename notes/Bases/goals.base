@@ -3,7 +3,7 @@ views:
     name: Goals
     filters:
       and:
-        - file.hasLink("01 📒Dashboard & Categories/02 🥇Goals & Productivity.md")
+        - file.hasLink("/notes/02 🥇Goals & Productivity.md")
     order:
       - file.name
       - file.ctime
