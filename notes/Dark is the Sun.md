@@ -9,6 +9,6 @@ created:
 cover: Darkisthesun.webp
 tags:
   - "#books"
-category: "[[02/03 Books]]"
+category: "[[Books]]"
 ---
 
