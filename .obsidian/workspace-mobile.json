@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Needs & Wants.md",
+                "file": "Journal entries/Time.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Needs & Wants"
+              "title": "Time"
             }
           }
         ],
@@ -201,8 +201,8 @@
   },
   "active": "4685cb695c0f43e3",
   "lastOpenFiles": [
-    "Untitled.md",
     "Needs & Wants.md",
+    "Untitled.md",
     "01 📒Dashboard & Categories/02 🥇Goals & Productivity.md",
     "Science.md",
     "Philosophy.md",

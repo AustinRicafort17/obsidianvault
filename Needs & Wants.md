@@ -6,4 +6,4 @@
 
 ###### Wants
 - [ ] Xteink x4 ¥10k 
-- [ ] Clamp-mount
+- [ ] Clamp-on desk shelf
