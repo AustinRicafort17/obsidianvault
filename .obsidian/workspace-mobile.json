@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning notes/The Odin Project.md",
+                "file": "Needs & Wants.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Odin Project"
+              "title": "Needs & Wants"
             }
           }
         ],
@@ -257,7 +257,12 @@
   },
   "active": "8a640ffa28478d2c",
   "lastOpenFiles": [
+    "Philosophy.md",
+    "Science.md",
+    "Learning notes/axes , alignments and gap.md",
+    "Projects",
     "01 📒Dashboard & Categories/Dev.md",
+    "Learning notes/The Odin Project.md",
     "01 📒Dashboard & Categories/Daily Notes.md",
     "01 📒Dashboard & Categories/Books.md",
     "Daily Notes/2026/2026-08-17.md",
@@ -272,8 +277,6 @@
     "Goals for the rest of 2026.md",
     "Journal entries/Time.md",
     "Needs & Wants.md",
-    "Science.md",
-    "Philosophy.md",
     "/01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
     "/01 📒Dashboard & Categories",
     "01 📒Dashboard & Categories/01 📈 DASHBOARD.canvas",
@@ -284,17 +287,14 @@
     "Media/Dark is the Sun.md",
     "Media/Don Quixote.md",
     "templates/Book template.md",
-    "Journal entries/focus.md",
     "Bases/日本語.base",
     "Bases/Dev notes.base",
-    "Learning notes/The Odin Project.md",
     "Dev",
     "Productivity",
     "Journal entries",
     "Media",
     "Learning notes",
     "Daily Notes/2026",
-    "Daily Notes",
     "Attachments/Fireandash.jpeg",
     "Attachments/Wayofwater.jpeg",
     "Attachments/Avatar2009.jpeg",
