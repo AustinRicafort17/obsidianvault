@@ -4,6 +4,7 @@ views:
     filters:
       and:
         - file.hasLink("Journal Entries.md")
+        - "!created.isEmpty()"
     order:
       - file.name
       - file.ctime
