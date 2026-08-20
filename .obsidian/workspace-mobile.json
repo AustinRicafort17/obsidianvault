@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "01/01 📈 DASHBOARD.canvas",
-                "viewState": {
-                  "x": -200,
-                  "y": -875.0636132315522,
-                  "zoom": -1.1629742112660533
-                }
+                "file": "notes/04 Daily Notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "01 📈 DASHBOARD"
+              "icon": "lucide-file",
+              "title": "04 Daily Notes"
             }
           }
         ]
@@ -187,9 +184,13 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "f668fbb0aac15a07",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "01/01 📈 DASHBOARD.canvas",
+    "notes/04 Daily Notes.md",
+    "notes",
+    "Untitled.md",
+    "01/02 🥇Goals & Productivity.md",
+    "01❗️/01 📈 DASHBOARD.canvas",
     "02 📚LIBRARIES/Movies.md",
     "03 ✍️notes/Avatar (2009).md",
     "03 ✍️notes/Avatar,The way of water.md",
@@ -205,11 +206,9 @@
     "02 📚LIBRARIES/Games.md",
     "03 ✍️notes/Dark is the Sun.md",
     "03 ✍️notes/Don Quixote.md",
-    "01/02 🥇Goals & Productivity.md",
     "notes/08 Journal Entries.md",
-    "Untitled.md",
     "02 📚LIBRARIES",
-    "01",
+    "01❗️",
     "03 ✍️notes/2 year plan.md",
     "01 📒Dashboard & Categories/02 🥇Goals & Productivity.md",
     "03 ✍️notes/templates/Study note template.md",
@@ -224,7 +223,6 @@
     "03 ✍️notes/Bases/Dev notes.base",
     "03 ✍️notes/Bases/goals.base",
     "03 ✍️notes/Bases/games.base",
-    "03 ✍️notes/Bases/日本語.base",
     "03 ✍️notes/Attachments/Projecthailmary.jpeg",
     "03 ✍️notes/Attachments/Gameposter.png",
     "03 ✍️notes/Attachments/Fireandash.jpeg",
