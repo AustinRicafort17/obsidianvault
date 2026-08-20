@@ -1,6 +1,10 @@
 
 My monthly allowance is ¥20k
--¥2k - 
+-¥2k paluwagan(until October)
+-¥3k clothes
+
+ ==¥15k== 
+ 
 
 ###### Needs
 - [ ] PCU tuition payment 20k php
