@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01✍️NOTES/Samplebook.md",
+                "file": "01✍️NOTES/Don Quixote.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Samplebook"
+              "title": "Don Quixote"
             }
           },
           {
@@ -106,6 +106,20 @@
             }
           },
           {
+            "id": "6af7ebd01818a670",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01✍️NOTES/Don Quixote.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Don Quixote"
+            }
+          },
+          {
             "id": "20d26a4bd174902d",
             "type": "leaf",
             "state": {
@@ -120,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -216,7 +230,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "meta/templates/Movie template.md",
+            "file": "01✍️NOTES/Don Quixote.md",
             "collapseAll": false,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -235,7 +249,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "meta/templates/Movie template.md",
+            "file": "01✍️NOTES/Don Quixote.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -249,7 +263,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "meta/templates/Movie template.md",
+            "file": "01✍️NOTES/Don Quixote.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -285,16 +299,18 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "62e02fa23c764242",
+  "active": "6af7ebd01818a670",
   "lastOpenFiles": [
-    "meta/templates/Book template.md",
-    "meta/templates/Movie template.md",
-    "01✍️NOTES/Samplebook.md",
     "01✍️NOTES/04📚 LIBRARY.md",
+    "meta/templates/game template.md",
+    "01✍️NOTES/2026-08-21.md",
+    "meta/templates/Movie template.md",
+    "meta/templates/habit template.md",
+    "meta/templates/Book template.md",
+    "01✍️NOTES/Don Quixote.md",
     "meta/Bases/Library.base",
     "meta/Bases/大事.base",
     "01✍️NOTES/01📌大事.md",
-    "01✍️NOTES/2026-08-21.md",
     "01✍️NOTES/2026-08-27.md",
     "01✍️NOTES/Untitled.md",
     "01✍️NOTES/03 ☀️ DAILY NOTES.md",
@@ -312,7 +328,6 @@
     "meta/attachments/1.md",
     "meta/Bases",
     "meta/templates/thoughts template.md",
-    "meta/templates/habit template.md",
     "Untitled.md",
     "Clippings",
     "meta/attachments",
