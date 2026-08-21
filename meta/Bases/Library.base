@@ -7,5 +7,6 @@ views:
     groupBy:
       property: file.tags
       direction: ASC
-    cardSize: 160
+    cardSize: 120
     image: note.cover
+    imageAspectRatio: 1.25
