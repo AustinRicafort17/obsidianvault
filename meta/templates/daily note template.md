@@ -1,10 +1,10 @@
 ---
-created: 2026-08-21
+created:
 HoursOfSleep:
 weight:
-related-notes:
+related-notes: "[[daily note template]]"
 tags:
   - "#dailynote"
-cover: "[[Note.gif]]"
+cover: "[[Note.webp]]"
 ---
 [[01📌大事]]
