@@ -1,0 +1,11 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.hasLink("01✍️NOTES/04📚 LIBRARY.md")
+    groupBy:
+      property: file.tags
+      direction: ASC
+    cardSize: 160
+    image: note.cover
