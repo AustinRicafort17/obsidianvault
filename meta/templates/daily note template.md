@@ -2,7 +2,7 @@
 created:
 HoursOfSleep:
 weight:
-related-notes: "[[daily note template]]"
+related-notes: "[[03 ☀️ DAILY NOTES]]"
 tags:
   - "#dailynote"
 cover: "[[Note.webp]]"

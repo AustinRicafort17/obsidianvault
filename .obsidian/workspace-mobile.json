@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01✍️NOTES/03 ☀️ DAILY NOTES.md",
+                "file": "01✍️NOTES/01📌大事.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 ☀️ DAILY NOTES"
+              "title": "01📌大事"
+            }
+          },
+          {
+            "id": "c75dae9a8f9eb548",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01✍️NOTES/04📚 LIBRARY.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04📚 LIBRARY"
             }
           },
           {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,7 +174,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "01✍️NOTES/03 ☀️ DAILY NOTES.md",
+            "file": "01✍️NOTES/04📚 LIBRARY.md",
             "collapseAll": false,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -179,7 +193,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "01✍️NOTES/03 ☀️ DAILY NOTES.md",
+            "file": "01✍️NOTES/04📚 LIBRARY.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -193,7 +207,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "01✍️NOTES/03 ☀️ DAILY NOTES.md",
+            "file": "01✍️NOTES/04📚 LIBRARY.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -229,17 +243,21 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d27eaa4d5c6b0f58",
+  "active": "c75dae9a8f9eb548",
   "lastOpenFiles": [
-    "01✍️NOTES/02 💭.md",
-    "01✍️NOTES/03 ☀️ DAILY NOTES.md",
-    "meta/templates/daily note template.md",
+    "01✍️NOTES/Untitled.base",
     "01✍️NOTES/01📌大事.md",
+    "01✍️NOTES/04📚 LIBRARY.md",
+    "meta/Bases/大事.base",
     "01✍️NOTES/2026-08-21.md",
     "01✍️NOTES/2026-08-27.md",
+    "01✍️NOTES/Untitled.md",
+    "01✍️NOTES/03 ☀️ DAILY NOTES.md",
+    "meta/templates/daily note template.md",
+    "meta/Bases/DAILYNOTES.base",
+    "01✍️NOTES/02 💭.md",
     "meta/attachments/Note.webp",
     "meta/attachments/Note.gif",
-    "01✍️NOTES/Untitled.md",
     "meta/attachments/todoDone.gif",
     "meta/attachments/Todo.gif",
     "meta/attachments/Project.gif",
@@ -247,7 +265,6 @@
     "meta/attachments/disaster.gif",
     "meta/attachments/crabsmoney.gif",
     "meta/attachments/1.md",
-    "meta/Bases/Hub.base",
     "meta/Bases",
     "meta/templates/thoughts template.md",
     "meta/templates/habit template.md",
