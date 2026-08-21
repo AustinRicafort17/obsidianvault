@@ -76,9 +76,21 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "e142537b28abf2af",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "meta/attachments/Todo.gif"
+              },
+              "icon": "lucide-image",
+              "title": "Todo"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -240,10 +252,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3190b1af7dfe72fe",
+  "active": "e142537b28abf2af",
   "lastOpenFiles": [
-    "meta/templates/daily note template.md",
+    "meta/attachments/todoDone.gif",
+    "meta/attachments/Project.gif",
+    "meta/attachments/disaster.gif",
+    "meta/attachments/idontneedit.gif",
+    "meta/attachments/crabsmoney.gif",
+    "meta/attachments/1.md",
+    "meta/attachments/Todo.gif",
     "01✍️NOTES/Untitled.md",
+    "meta/templates/daily note template.md",
     "01✍️NOTES/01📌大事.md",
     "meta/templates/thoughts template.md",
     "meta/templates/habit template.md",
