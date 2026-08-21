@@ -7,6 +7,9 @@ views:
     groupBy:
       property: file.tags
       direction: ASC
+    order:
+      - file.name
+      - rating
     cardSize: 120
     image: note.cover
     imageAspectRatio: 1.25

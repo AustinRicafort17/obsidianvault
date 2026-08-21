@@ -295,18 +295,17 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "audio-recorder:Start/stop recording": false,
-      "publish:Publish changes...": false
+      "audio-recorder:Start/stop recording": false
     }
   },
   "active": "6af7ebd01818a670",
   "lastOpenFiles": [
+    "meta/templates/Book template.md",
+    "01✍️NOTES/04📚 LIBRARY.md",
     "01✍️NOTES/Don Quixote.md",
     "meta/attachments/donquixote.jpeg",
-    "meta/templates/Book template.md",
     "01✍️NOTES/1605-01-21.md",
     "01✍️NOTES/2026-08-21.md",
-    "01✍️NOTES/04📚 LIBRARY.md",
     "meta/templates/game template.md",
     "meta/templates/Movie template.md",
     "meta/templates/habit template.md",

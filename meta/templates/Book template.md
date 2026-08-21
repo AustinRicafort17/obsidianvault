@@ -1,8 +1,8 @@
 ---
 Title:
 release-date:
-synopsis:
 genre:
+synopsis:
 cover:
 tags:
   - book
