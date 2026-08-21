@@ -11,6 +11,10 @@
     "exercise": "checkbox",
     "date-watched": "date",
     "release-date": "date",
-    "created": "date"
+    "created": "date",
+    "weight": "number",
+    "sleep-hours": "number",
+    "2L water": "checkbox",
+    ">15mins-reading": "checkbox"
   }
 }
