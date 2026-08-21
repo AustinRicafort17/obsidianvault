@@ -3,5 +3,6 @@
   "interfaceFontFamily": "Futura",
   "textFontFamily": "Futura",
   "theme": "moonstone",
-  "accentColor": "#ff4015"
+  "accentColor": "#ff4015",
+  "autoFullScreen": true
 }

@@ -7,5 +7,6 @@ views:
         - "!created.isEmpty()"
     order:
       - file.name
-      - file.ctime
+    sort: []
     image: note.cover
+    cardSize: 140
