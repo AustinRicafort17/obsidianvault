@@ -1,8 +1,9 @@
 ---
 created:
-sleep-hours:
+HoursOfSleep:
 weight:
 related-notes:
 tags:
   - "#dailynote"
+cover: "[["
 ---

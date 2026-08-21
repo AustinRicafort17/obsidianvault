@@ -81,14 +81,12 @@
             "id": "e142537b28abf2af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "01✍️NOTES/2026-08-21.md",
-                "mode": "source",
-                "source": false
+                "file": "meta/attachments/todoDone.gif"
               },
-              "icon": "lucide-file",
-              "title": "2026-08-21"
+              "icon": "lucide-image",
+              "title": "todoDone"
             }
           }
         ],
@@ -256,17 +254,19 @@
   },
   "active": "e142537b28abf2af",
   "lastOpenFiles": [
-    "01✍️NOTES/01📌大事.md",
-    "01✍️NOTES/2026-08-21.md",
-    "01✍️NOTES/Untitled.md",
     "meta/attachments/Todo.gif",
-    "meta/attachments/todoDone.gif",
     "meta/attachments/Project.gif",
-    "meta/attachments/disaster.gif",
     "meta/attachments/idontneedit.gif",
+    "meta/attachments/disaster.gif",
     "meta/attachments/crabsmoney.gif",
     "meta/attachments/1.md",
     "meta/templates/daily note template.md",
+    "meta/Bases/Hub.base",
+    "meta/Bases",
+    "01✍️NOTES/01📌大事.md",
+    "01✍️NOTES/2026-08-21.md",
+    "01✍️NOTES/Untitled.md",
+    "meta/attachments/todoDone.gif",
     "meta/templates/thoughts template.md",
     "meta/templates/habit template.md",
     "Untitled.md",

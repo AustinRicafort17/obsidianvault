@@ -1,0 +1,6 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.hasLink("01✍️NOTES/01📌大事.md")
