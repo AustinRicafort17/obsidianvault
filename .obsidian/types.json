@@ -10,6 +10,7 @@
     "study-time": "number",
     "exercise": "checkbox",
     "date-watched": "date",
-    "release-date": "date"
+    "release-date": "date",
+    "created": "date"
   }
 }

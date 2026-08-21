@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Attachments",
+  "attachmentFolderPath": "meta/attachments",
   "foldIndent": true,
   "mobileToolbarCommands": [
     "editor:undo",
@@ -24,5 +24,7 @@
     "editor:unindent-list",
     "editor:configure-toolbar",
     "editor:fold-all"
-  ]
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "01✍️NOTES"
 }
