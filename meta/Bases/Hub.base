@@ -4,3 +4,8 @@ views:
     filters:
       and:
         - file.hasLink("01✍️NOTES/01📌大事.md")
+        - "!created.isEmpty()"
+    order:
+      - file.name
+      - file.ctime
+    image: note.cover

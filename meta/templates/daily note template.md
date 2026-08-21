@@ -5,5 +5,6 @@ weight:
 related-notes:
 tags:
   - "#dailynote"
-cover: "[["
+cover: "[[Note.gif]]"
 ---
+[[01📌大事]]
