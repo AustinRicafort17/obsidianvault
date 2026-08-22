@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01✍️NOTES/Doom Eternal.md",
+                "file": "01✍️NOTES/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Doom Eternal"
+              "title": "Untitled"
             }
           },
           {
@@ -314,8 +314,8 @@
   },
   "active": "e4ca2acb12ecb8cb",
   "lastOpenFiles": [
-    "01✍️NOTES/04📚 LIBRARY.md",
     "01✍️NOTES/Doom Eternal.md",
+    "01✍️NOTES/04📚 LIBRARY.md",
     "meta/templates/Book template.md",
     "01✍️NOTES/Don Quixote.md",
     "meta/attachments/donquixote.jpeg",
