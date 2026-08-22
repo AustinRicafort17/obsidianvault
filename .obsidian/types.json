@@ -16,6 +16,7 @@
     "sleep-hours": "number",
     "2L water": "checkbox",
     ">15mins-reading": "checkbox",
-    "skincare": "checkbox"
+    "skincare": "checkbox",
+    "deadline": "date"
   }
 }
