@@ -3,7 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - file.hasLink("01✍️NOTES/03 ☀️ DAILY NOTES.md")
+        - file.hasLink("01✍️NOTES/05 ☀️ DAILY NOTES.md")
         - "!created.isEmpty()"
     cardSize: 120
     image: note.cover
