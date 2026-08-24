@@ -1,10 +1,9 @@
 ---
-Title:
 release-date:
-synopsis:
 genre:
+synopsis:
 tags:
-  - movie
+  - game
 created:
 rating:
 cover:

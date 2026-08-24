@@ -4,7 +4,7 @@ views:
     filters:
       and:
         - file.hasLink("01✍️NOTES/04📚 LIBRARY.md")
-        - "!Title.isEmpty()"
+        - "!file.tags.isEmpty()"
     groupBy:
       property: file.tags
       direction: ASC
