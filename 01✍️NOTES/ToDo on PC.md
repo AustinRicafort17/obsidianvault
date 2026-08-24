@@ -3,7 +3,7 @@ created: 2026-08-22
 deadline: 2026-08-30
 cover: "[[Todo.gif]]"
 ---
-[[01📌大事]]
+
 - [x] Check if 1tbHDD isn't broken 
   it is lol
 - [x] Check RAM sticks 
