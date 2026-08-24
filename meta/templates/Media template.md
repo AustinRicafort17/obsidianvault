@@ -1,4 +1,5 @@
 ---
+genre:
 release-date:
 tags:
 rating:
