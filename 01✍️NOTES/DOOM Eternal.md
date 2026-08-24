@@ -5,6 +5,8 @@ genre: "    First-person shooter, Action, Sci-fi/Horror"
 synopsis: "    Earth has been overrun by Hell’s armies, leaving humanity on the brink of extinction. As the DOOM Slayer, you battle through demons across Earth and other dimensions, using an arsenal of brutal weapons and abilities to stop Hell’s invasion. The game builds around fast, aggressive combat where you recover health through Glory Kills, armor by incinerating enemies, and ammunition through the chainsaw."
 tags:
   - game
-created:
+created: 2026-08-24
 rating:
+cover: "[[Doometernal.webp]]"
 ---
+[[04📚 LIBRARY]]

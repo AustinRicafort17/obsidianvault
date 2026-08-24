@@ -3,9 +3,11 @@ Title:
 release-date:
 genre:
 synopsis:
-cover:
 tags:
   - book
 created:
 rating:
+cover:
 ---
+[[04📚 LIBRARY]]
+

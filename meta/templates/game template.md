@@ -7,4 +7,6 @@ tags:
   - game
 created:
 rating:
+cover:
 ---
+[[04📚 LIBRARY]]

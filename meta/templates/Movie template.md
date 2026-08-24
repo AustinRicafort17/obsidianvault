@@ -7,4 +7,6 @@ tags:
   - movie
 created:
 rating:
+cover:
 ---
+[[04📚 LIBRARY]]
