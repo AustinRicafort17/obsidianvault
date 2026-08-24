@@ -13,4 +13,4 @@ views:
       - rating
     cardSize: 120
     image: note.cover
-    imageAspectRatio: 1.4
+    imageAspectRatio: 1.6
