@@ -7,11 +7,10 @@ views:
         - "!created.isEmpty()"
     order:
       - file.name
-      - file.ctime
       - file.mtime
     separator: ->
     indentProperties: true
     markers: bullet
-    cardSize: 150
+    cardSize: 120
     image: note.cover
-    imageAspectRatio: 1.3
+    imageAspectRatio: 1.2
