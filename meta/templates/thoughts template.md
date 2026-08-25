@@ -1,4 +1,4 @@
 ---
 created:
-related-notes:
+related-notes: "[[03 💭THOUGHTS]]"
 ---

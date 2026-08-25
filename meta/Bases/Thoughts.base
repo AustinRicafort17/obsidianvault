@@ -1,0 +1,17 @@
+views:
+  - type: cards
+    name: Thoughts
+    filters:
+      and:
+        - file.hasLink("01✍️NOTES/03 💭THOUGHTS.md")
+        - "!created.isEmpty()"
+    order:
+      - file.name
+      - file.ctime
+      - file.mtime
+    separator: ->
+    indentProperties: true
+    markers: bullet
+    cardSize: 150
+    image: note.cover
+    imageAspectRatio: 1.3

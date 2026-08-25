@@ -1,6 +1,6 @@
 ---
 created: 2026-08-25
-related-notes:
+related-notes: "[[03 💭THOUGHTS]]"
 ---
 2026-08-25 09:53
 The most valuable thing I own.
