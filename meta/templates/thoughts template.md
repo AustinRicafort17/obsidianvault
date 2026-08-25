@@ -1,5 +1,4 @@
 ---
 created:
-topic:
 related-notes:
 ---
