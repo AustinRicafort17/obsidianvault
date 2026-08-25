@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01✍️NOTES/05 ☀️ DAILY NOTES.md",
+                "file": "01✍️NOTES/Setup Linux distribution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 ☀️ DAILY NOTES"
+              "title": "Setup Linux distribution"
             }
           },
           {
@@ -215,6 +215,7 @@
   },
   "active": "2848a48aaa295b10",
   "lastOpenFiles": [
+    "01✍️NOTES/05 ☀️ DAILY NOTES.md",
     "01✍️NOTES/Setup Linux distribution.md",
     "01✍️NOTES/ToDo on PC.md",
     "01✍️NOTES/Untitled.md",
@@ -229,7 +230,6 @@
     "meta/templates/daily note template.md",
     "01✍️NOTES/Time.md",
     "01✍️NOTES/03 💭THOUGHTS.md",
-    "01✍️NOTES/05 ☀️ DAILY NOTES.md",
     "01✍️NOTES/04📚 LIBRARY.md",
     "01✍️NOTES/02👷 PROJECTS.md",
     "meta/Bases/Thoughts.base",

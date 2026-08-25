@@ -9,4 +9,8 @@ https://m.youtube.com/watch?v=KdoaiGTIBY4&pp=ugUEEgJlbg%3D%3D&ra=m
 - [ ] Neofetch and or alternatives 
 
 
-![[IMG_8680.png]]![[IMG_8681.png]]
+![[IMG_8680.png]]
+Black and red with line art inspired by this...
+
+![[IMG_8681.png]]
+Workspace looks like this...
