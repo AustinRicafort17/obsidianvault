@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e075f4556abba01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01✍️NOTES/04📚 LIBRARY.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04📚 LIBRARY"
-            }
-          },
-          {
-            "id": "28911a788bf5a388",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "meta/templates/Media template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Media template"
-            }
-          },
-          {
             "id": "2848a48aaa295b10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01✍️NOTES/03 💭JOURNAL.md",
+                "file": "01✍️NOTES/05 ☀️ DAILY NOTES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 💭JOURNAL"
+              "title": "05 ☀️ DAILY NOTES"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,9 +187,14 @@
   },
   "active": "2848a48aaa295b10",
   "lastOpenFiles": [
+    "01✍️NOTES/2026-08-25.md",
+    "01✍️NOTES/Setup Linux distribution.md",
+    "meta/attachments/IMG_8680.png",
+    "meta/attachments/IMG_8681.png",
+    "01✍️NOTES/01📌大事.md",
+    "01✍️NOTES/03 💭JOURNAL.md",
     "01✍️NOTES/04📚 LIBRARY.md",
     "01✍️NOTES/05 ☀️ DAILY NOTES.md",
-    "01✍️NOTES/Setup Linux distribution.md",
     "meta/templates/Media template.md",
     "01✍️NOTES/Don Quixote.md",
     "01✍️NOTES/Enter The Gungeon.md",
@@ -226,11 +202,8 @@
     "01✍️NOTES/Enter the Gungeon.md",
     "01✍️NOTES/2026-12-17.md",
     "meta/templates/Book template.md",
-    "01✍️NOTES/03 💭JOURNAL.md",
     "meta/templates/daily note template.md",
-    "01✍️NOTES/2026-08-25.md",
     "01✍️NOTES/02👷 PROJECTS.md",
-    "01✍️NOTES/01📌大事.md",
     "01✍️NOTES/ToDo on PC.md",
     "01✍️NOTES/2026-08-27.md",
     "01✍️NOTES/2026-09-25.md",
@@ -252,8 +225,6 @@
     "meta/attachments/todoDone.gif",
     "meta/attachments/Todo.gif",
     "meta/attachments/Project.gif",
-    "meta/attachments/idontneedit.gif",
-    "meta/attachments/disaster.gif",
     "meta/Bases",
     "Clippings",
     "meta/attachments",
