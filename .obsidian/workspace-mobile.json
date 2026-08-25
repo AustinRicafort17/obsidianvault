@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01✍️NOTES/Setup Linux distribution.md",
+                "file": "01✍️NOTES/01📌大事.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Setup Linux distribution"
+              "title": "01📌大事"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meta/templates/thoughts template.md",
+                "file": "01✍️NOTES/Setup Linux distribution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "thoughts template"
+              "title": "Setup Linux distribution"
             }
           },
           {
@@ -48,8 +48,19 @@
               "icon": "lucide-file",
               "title": "Setup Linux distribution"
             }
+          },
+          {
+            "id": "f47c545fd58baba1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,9 +224,18 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2848a48aaa295b10",
+  "active": "fe077c4fbbc062b9",
   "lastOpenFiles": [
+    "01✍️NOTES/01📌大事.md",
+    "01✍️NOTES/02👷 PROJECTS.md",
+    "01✍️NOTES/04📚 LIBRARY.md",
     "01✍️NOTES/05 ☀️ DAILY NOTES.md",
+    "01✍️NOTES/03 💭THOUGHTS.md",
+    "meta/templates/ToDo template.md",
+    "meta/templates/thoughts template.md",
+    "meta/templates/Media template.md",
+    "meta/templates/daily note template.md",
+    "01✍️NOTES/2026-09-25.md",
     "01✍️NOTES/Setup Linux distribution.md",
     "01✍️NOTES/ToDo on PC.md",
     "01✍️NOTES/Untitled.md",
@@ -226,27 +246,18 @@
     "meta/attachments/Brainpower.gif",
     "meta/attachments/Uhhh.gif",
     "meta/attachments/Wehavetech.gif",
-    "meta/templates/thoughts template.md",
-    "meta/templates/daily note template.md",
     "01✍️NOTES/Time.md",
-    "01✍️NOTES/03 💭THOUGHTS.md",
-    "01✍️NOTES/04📚 LIBRARY.md",
-    "01✍️NOTES/02👷 PROJECTS.md",
     "meta/Bases/Thoughts.base",
-    "meta/templates/ToDo template.md",
     "meta/templates/habit template.md",
     "01✍️NOTES/2026-08-25.md",
     "meta/attachments/IMG_8680.png",
     "meta/attachments/IMG_8681.png",
-    "01✍️NOTES/01📌大事.md",
-    "meta/templates/Media template.md",
     "01✍️NOTES/Don Quixote.md",
     "01✍️NOTES/Enter The Gungeon.md",
     "01✍️NOTES/Enter the Gungeon.md",
     "01✍️NOTES/2026-12-17.md",
     "meta/templates/Book template.md",
     "01✍️NOTES/2026-08-27.md",
-    "01✍️NOTES/2026-09-25.md",
     "01✍️NOTES/Journal template.md",
     "meta/templates/game template.md",
     "01✍️NOTES/DOOM Eternal.md",

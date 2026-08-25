@@ -1,5 +1,5 @@
 views:
-  - type: cards
+  - type: table
     name: Thoughts
     filters:
       and:

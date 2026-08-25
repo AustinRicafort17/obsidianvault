@@ -1,9 +1,12 @@
 views:
-  - type: cards
+  - type: table
     name: Table
     filters:
       and:
         - file.hasLink("01✍️NOTES/05 ☀️ DAILY NOTES.md")
         - "!created.isEmpty()"
+    order:
+      - file.name
+      - created
     cardSize: 120
     image: note.cover

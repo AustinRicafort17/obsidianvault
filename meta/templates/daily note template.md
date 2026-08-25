@@ -6,7 +6,6 @@ related-notes: "[[05 ☀️ DAILY NOTES]]"
 tags:
   - "#dailynote"
   - "#habit"
-cover: "[[Note.webp]]"
 2L water:
 ">15mins-reading":
 skincare:
