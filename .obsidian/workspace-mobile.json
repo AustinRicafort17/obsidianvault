@@ -11,10 +11,14 @@
             "id": "8226bbefa022e2f9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "01✍️NOTES/01📌大事.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01📌大事"
             }
           }
         ]
@@ -183,10 +187,17 @@
   },
   "active": "8226bbefa022e2f9",
   "lastOpenFiles": [
+    "01✍️NOTES/Curriculum.md",
+    "meta/attachments/giphy.gif",
+    "meta/attachments/Project.gif",
+    "meta/attachments/Note.webp",
+    "meta/attachments/IMG_8680.png",
+    "meta/attachments/idontneedit.gif",
+    "meta/attachments/Enterthegungeon.webp",
+    "01✍️NOTES/2026-08-27.md",
     "01✍️NOTES/Setup Linux distribution.md",
     "01✍️NOTES/01📌大事.md",
     "01✍️NOTES/05 ☀️ DAILY NOTES.md",
-    "01✍️NOTES/2026-08-27.md",
     "meta/attachments/IMG_8715.jpeg",
     "01✍️NOTES/2026-09-25.md",
     "meta/attachments/Recording 20260826150928.m4a",
@@ -206,21 +217,13 @@
     "meta/templates/Media template.md",
     "01✍️NOTES/ToDo on PC.md",
     "01✍️NOTES/Untitled.md",
-    "meta/attachments/Enterthegungeon.webp",
     "meta/attachments/Idk2.gif",
     "meta/attachments/Idk.gif",
     "meta/attachments/Brainpower.gif",
-    "meta/attachments/Uhhh.gif",
-    "meta/attachments/Wehavetech.gif",
     "01✍️NOTES/Time.md",
     "meta/Bases/Thoughts.base",
     "meta/templates/habit template.md",
-    "meta/attachments/IMG_8680.png",
-    "meta/attachments/IMG_8681.png",
     "01✍️NOTES/Don Quixote.md",
-    "01✍️NOTES/Enter the Gungeon.md",
-    "meta/templates/Book template.md",
-    "meta/attachments/Doometernal.webp",
     "meta/Bases/Library.base",
     "meta/Bases/大事.base",
     "meta/Bases/DAILYNOTES.base",
