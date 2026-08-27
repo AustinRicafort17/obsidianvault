@@ -11,5 +11,8 @@ views:
     order:
       - file.name
       - highlight
+    sort:
+      - property: file.mtime
+        direction: DESC
     cardSize: 120
     image: note.cover
