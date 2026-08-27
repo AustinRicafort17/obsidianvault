@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01✍️NOTES/05 ☀️ DAILY NOTES.md",
+                "file": "01✍️NOTES/2026-08-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 ☀️ DAILY NOTES"
+              "title": "2026-08-21"
             }
           }
         ]
@@ -78,20 +78,6 @@
         }
       },
       {
-        "id": "427628771d57fb7d",
-        "type": "leaf",
-        "state": {
-          "type": "all-properties",
-          "state": {
-            "sortOrder": "frequency",
-            "showSearch": false,
-            "searchQuery": ""
-          },
-          "icon": "lucide-archive",
-          "title": "All properties"
-        }
-      },
-      {
         "id": "dbe59b778a98bcac",
         "type": "leaf",
         "state": {
@@ -102,6 +88,20 @@
           },
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "a2691696484ebfce",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
         }
       }
     ],
@@ -150,7 +150,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "01✍️NOTES/04📚 LIBRARY.md",
+            "file": "01✍️NOTES/2026-08-21.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -187,8 +187,8 @@
   },
   "active": "8226bbefa022e2f9",
   "lastOpenFiles": [
-    "01✍️NOTES/2026-08-27.md",
     "01✍️NOTES/05 ☀️ DAILY NOTES.md",
+    "01✍️NOTES/2026-08-27.md",
     "01✍️NOTES/2026-08-25.md",
     "01✍️NOTES/2026-08-21.md",
     "meta/templates/daily note template.md",
