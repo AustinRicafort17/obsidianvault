@@ -11,14 +11,10 @@
             "id": "8226bbefa022e2f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01✍️NOTES/2026-09-25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-09-25"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -187,18 +183,20 @@
   },
   "active": "8226bbefa022e2f9",
   "lastOpenFiles": [
-    "meta/attachments/Recording 20260826150928.m4a",
     "01✍️NOTES/Setup Linux distribution.md",
     "01✍️NOTES/01📌大事.md",
+    "01✍️NOTES/05 ☀️ DAILY NOTES.md",
+    "01✍️NOTES/2026-08-27.md",
+    "meta/attachments/IMG_8715.jpeg",
+    "01✍️NOTES/2026-09-25.md",
+    "meta/attachments/Recording 20260826150928.m4a",
     "01✍️NOTES/02👷 PROJECTS.md",
     "01✍️NOTES/03 💭THOUGHTS.md",
-    "01✍️NOTES/05 ☀️ DAILY NOTES.md",
     "01✍️NOTES/2026-08-21.md",
     "01✍️NOTES/04📚 LIBRARY.md",
     "01✍️NOTES/Enter The Gungeon.md",
     "01✍️NOTES/getting ahead of myself.md",
     "01✍️NOTES/2026-08-24.md",
-    "01✍️NOTES/2026-09-25.md",
     "meta/templates/daily note template.md",
     "01✍️NOTES/2026-08-25.md",
     "01✍️NOTES/2026-12-17.md",
@@ -223,7 +221,6 @@
     "01✍️NOTES/Enter the Gungeon.md",
     "meta/templates/Book template.md",
     "meta/attachments/Doometernal.webp",
-    "meta/attachments/donquixote.jpeg",
     "meta/Bases/Library.base",
     "meta/Bases/大事.base",
     "meta/Bases/DAILYNOTES.base",
@@ -231,7 +228,6 @@
     "Clippings",
     "meta/attachments",
     "meta/templates",
-    "meta",
-    "01✍️NOTES"
+    "meta"
   ]
 }
