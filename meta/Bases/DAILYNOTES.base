@@ -10,7 +10,7 @@ views:
         - "!created.isEmpty()"
     order:
       - file.name
-      - highlight
+      - note.note
     sort:
       - property: file.mtime
         direction: DESC

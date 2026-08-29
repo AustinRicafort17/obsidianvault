@@ -1,7 +1,7 @@
 ---
 created:
 weight:
-highlight:
+note:
 related-notes: "[[05 ☀️ DAILY NOTES]]"
 tags:
   - "#dailynote"
