@@ -26,5 +26,6 @@
     "editor:fold-all"
   ],
   "newFileLocation": "folder",
-  "newFileFolderPath": "01✍️NOTES"
+  "newFileFolderPath": "01✍️NOTES",
+  "openBehavior": "file:01✍️NOTES/01📌大事.md"
 }
