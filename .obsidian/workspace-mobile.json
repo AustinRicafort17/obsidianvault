@@ -27,16 +27,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01✍️NOTES/2026-08-29.md",
+                "file": "01✍️NOTES/Setup Linux distribution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-29"
+              "title": "Setup Linux distribution"
+            }
+          },
+          {
+            "id": "75f315ce64968167",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "meta/attachments/IMG_8681.png"
+              },
+              "icon": "lucide-image",
+              "title": "IMG_8681"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,15 +212,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b53e55974a9b073",
+  "active": "75f315ce64968167",
   "lastOpenFiles": [
-    "01✍️NOTES/2026-08-28.md",
-    "01✍️NOTES/2026-08-29.md",
+    "01✍️NOTES/Setup Linux distribution.md",
     "01✍️NOTES/05 ☀️ DAILY NOTES.md",
+    "01✍️NOTES/2026-08-31.md",
+    "01✍️NOTES/2026-08-30.md",
+    "01✍️NOTES/2026-08-29.md",
+    "01✍️NOTES/2026-08-28.md",
     "01✍️NOTES/2026-08-25.md",
     "meta/templates/daily note template.md",
     "01✍️NOTES/2026-08-27.md",
-    "01✍️NOTES/Setup Linux distribution.md",
     "01✍️NOTES/ToDo on PC.md",
     "01✍️NOTES/01📌大事.md",
     "01✍️NOTES/Investments on Rakuten.md",
@@ -234,11 +248,9 @@
     "meta/templates/ToDo template.md",
     "meta/templates/thoughts template.md",
     "meta/templates/Media template.md",
-    "01✍️NOTES/Untitled.md",
     "meta/attachments/Idk2.gif",
     "meta/attachments/Idk.gif",
     "meta/attachments/Brainpower.gif",
-    "01✍️NOTES/Time.md",
     "meta/Bases/Thoughts.base",
     "meta/Bases/Library.base",
     "meta/Bases/大事.base",
