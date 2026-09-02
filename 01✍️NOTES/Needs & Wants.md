@@ -4,9 +4,10 @@ cover: idontneedit.gif
 related-notes: "[[01📌大事]]"
 ---
 #### Needs
-- [ ] Power supply cables (Seasonic focus gx-650 GPU and sata power cables)
-- [ ] 
+- [ ] Power supply (that wont explode)
+- [ ] Wardrobe 
 
 #### Wants
 - [ ] Steam Deck
+- [ ] 2tb nvme ssd
 - [ ] 
