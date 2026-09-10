@@ -12,7 +12,7 @@ views:
       - file.name
       - note.note
     sort:
-      - property: file.mtime
+      - property: file.name
         direction: DESC
     cardSize: 120
     image: note.cover
