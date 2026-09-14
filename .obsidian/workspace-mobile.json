@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01✍️NOTES/01📌大事.md",
+                "file": "01✍️NOTES/05 ☀️ DAILY NOTES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01📌大事"
+              "title": "05 ☀️ DAILY NOTES"
             }
           }
         ]
@@ -185,10 +185,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bab414d0d3147d57",
+  "active": "62e02fa23c764242",
   "lastOpenFiles": [
-    "01✍️NOTES/Needs & Wants.md",
+    "meta/templates/daily note template.md",
+    "01✍️NOTES/2026-09-14.md",
     "01✍️NOTES/01📌大事.md",
+    "01✍️NOTES/Needs & Wants.md",
     "01✍️NOTES/2026-09-25.md",
     "01✍️NOTES/Curriculum.md",
     "01✍️NOTES/2026-09-12.md",
@@ -197,7 +199,6 @@
     "01✍️NOTES/04📚 LIBRARY.md",
     "01✍️NOTES/03 💭THOUGHTS.md",
     "01✍️NOTES/02👷 PROJECTS.md",
-    "meta/templates/daily note template.md",
     "01✍️NOTES/Setup Linux distribution.md",
     "01✍️NOTES/Investments on Rakuten.md",
     "01✍️NOTES/Untitled.md",
@@ -213,7 +214,6 @@
     "01✍️NOTES/Electronics curriculum.md",
     "01✍️NOTES/2026-09-02.md",
     "01✍️NOTES/2026-09-01.md",
-    "01✍️NOTES/getting ahead of myself.md",
     "meta/attachments/Doometernal.webp",
     "meta/attachments/Enterthegungeon.webp",
     "meta/attachments/giphy.gif",
