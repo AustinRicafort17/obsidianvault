@@ -1,7 +1,0 @@
-views:
-  - type: list
-    name: Table
-    filters:
-      and:
-        - file.hasLink("01✍️NOTES/02👷 PROJECTS.md")
-        - "!created.isEmpty()"
