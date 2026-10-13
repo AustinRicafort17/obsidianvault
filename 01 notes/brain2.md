@@ -1,0 +1,1 @@
+this will be my notes for things i want to study and or remember and just a storage for text based things in general.
